@@ -30,7 +30,23 @@ class AppController {
     this._applyTheme();
     this._initSpeechVoices();
     await this.lessonModel.init();
+    this._syncUnlockState();
     this.showHome();
+  }
+
+  /** Ensure next days are unlocked for already completed days */
+  _syncUnlockState() {
+    let changed = false;
+    for (const dayId of this.progress.completedDays) {
+      const nextDay = dayId + 1;
+      if (this.lessonModel.exists(nextDay) && !this.progress.isDayUnlocked(nextDay)) {
+        this.progress.unlockedDays.add(nextDay);
+        changed = true;
+      }
+    }
+    if (changed) {
+      this.progress._save();
+    }
   }
 
   /** Show the home page */

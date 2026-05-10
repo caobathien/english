@@ -147,12 +147,14 @@ class LessonView {
           `).join('')}
         </div>
 
+        ${t.signals && t.signals.length > 0 ? `
         <div class="grammar-signals glass-card animate-in" style="--delay: 0.5s">
           <h3>🔍 Dấu hiệu nhận biết</h3>
           <div class="signal-tags">
             ${t.signals.map(s => `<span class="signal-tag">${s}</span>`).join('')}
           </div>
         </div>
+        ` : ''}
 
         <button class="btn btn-success btn-complete-section" data-section="grammar">
           ✅ Đã hiểu! Tiếp tục

@@ -119,7 +119,7 @@ class HomeView {
       <footer class="app-footer">
         <p>Thien — Học Tiếng Anh Mỗi Ngày 💙</p>
       </footer>
-    `;s
+    `;
 
     this.container.innerHTML = html;
     this._bindEvents();

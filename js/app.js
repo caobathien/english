@@ -3,7 +3,7 @@
  * App Entry Point - English Every Day
  * ============================================
  */
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   const app = new AppController();
-  app.init();
+  await app.init();
 });

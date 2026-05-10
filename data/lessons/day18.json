@@ -1,0 +1,108 @@
+{
+  "id": 18,
+  "week": 3,
+  "day": 18,
+  "title": "Home & Furniture",
+  "subtitle": "Bài học ngày 18 - Home & Furniture",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Past Simple",
+    "nameVi": "Thì Quá Khứ Đơn",
+    "description": "Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ.",
+    "rules": [
+      {
+        "title": "Khẳng định",
+        "formula": "S + V2/ed",
+        "examples": [
+          {
+            "en": "I went to school.",
+            "vi": "Tôi đã đi học."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định",
+        "formula": "S + did not + V",
+        "examples": [
+          {
+            "en": "He didn't go out.",
+            "vi": "Anh ấy đã không đi chơi."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v18_1",
+      "word": "Word_18_1",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 1",
+      "example": "This is an example for Word_18_1.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 1."
+    },
+    {
+      "id": "v18_2",
+      "word": "Word_18_2",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 2",
+      "example": "This is an example for Word_18_2.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 2."
+    }
+  ],
+  "listening": [
+    {
+      "id": "l18_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l18_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s18_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w18_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q18_1",
+      "question": "Từ vựng 'Word_18_1' nghĩa là gì?",
+      "options": [
+        "Từ vựng mẫu 1",
+        "Từ vựng mẫu 2",
+        "Từ vựng mẫu 3",
+        "Từ vựng mẫu 4"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

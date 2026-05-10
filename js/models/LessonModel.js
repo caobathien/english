@@ -5,27 +5,60 @@
  */
 class LessonModel {
   constructor() {
-    this.lessons = window.LessonData || [];
+    this.lessonsIndex = [];
+    this.loadedLessons = new Map();
   }
 
-  /** Get all available lessons */
+  /** Initialize and fetch lesson index */
+  async init() {
+    try {
+      const response = await fetch('./data/lessons-index.json');
+      if (!response.ok) throw new Error('Failed to fetch lesson index');
+      this.lessonsIndex = await response.json();
+    } catch (error) {
+      console.error('Error loading lesson index:', error);
+      this.lessonsIndex = [];
+    }
+  }
+
+  /** Get all available lessons index */
   getAll() {
-    return this.lessons;
+    return this.lessonsIndex;
   }
 
-  /** Get a lesson by ID */
-  getById(id) {
-    return this.lessons.find(l => l.id === id) || null;
+  /** Fetch a specific lesson by ID */
+  async getById(id) {
+    if (this.loadedLessons.has(id)) {
+      return this.loadedLessons.get(id);
+    }
+    const lessonInfo = this.lessonsIndex.find(l => l.id === id);
+    if (!lessonInfo) return null;
+
+    try {
+      const response = await fetch(`./data/lessons/${lessonInfo.file}`);
+      if (!response.ok) throw new Error(`Failed to fetch lesson ${id}`);
+      const lessonData = await response.json();
+      this.loadedLessons.set(id, lessonData);
+      return lessonData;
+    } catch (error) {
+      console.error(`Error loading lesson ${id}:`, error);
+      return null;
+    }
+  }
+
+  /** Get a cached lesson by ID */
+  getCachedById(id) {
+    return this.loadedLessons.get(id) || null;
   }
 
   /** Get total number of lessons */
   getTotal() {
-    return this.lessons.length;
+    return this.lessonsIndex.length;
   }
 
   /** Check if a lesson exists */
   exists(id) {
-    return this.lessons.some(l => l.id === id);
+    return this.lessonsIndex.some(l => l.id === id);
   }
 
   /** Get all section names */

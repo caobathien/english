@@ -1,0 +1,108 @@
+{
+  "id": 27,
+  "week": 4,
+  "day": 27,
+  "title": "Dreams & Goals",
+  "subtitle": "Bài học ngày 27 - Dreams & Goals",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Future Simple",
+    "nameVi": "Thì Tương Lai Đơn",
+    "description": "Dùng để diễn tả quyết định nhất thời, dự đoán không có căn cứ.",
+    "rules": [
+      {
+        "title": "Khẳng định",
+        "formula": "S + will + V",
+        "examples": [
+          {
+            "en": "I will help you.",
+            "vi": "Tôi sẽ giúp bạn."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định",
+        "formula": "S + will not (won't) + V",
+        "examples": [
+          {
+            "en": "I won't do it.",
+            "vi": "Tôi sẽ không làm điều đó."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v27_1",
+      "word": "Word_27_1",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 1",
+      "example": "This is an example for Word_27_1.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 1."
+    },
+    {
+      "id": "v27_2",
+      "word": "Word_27_2",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 2",
+      "example": "This is an example for Word_27_2.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 2."
+    }
+  ],
+  "listening": [
+    {
+      "id": "l27_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l27_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s27_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w27_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q27_1",
+      "question": "Từ vựng 'Word_27_1' nghĩa là gì?",
+      "options": [
+        "Từ vựng mẫu 1",
+        "Từ vựng mẫu 2",
+        "Từ vựng mẫu 3",
+        "Từ vựng mẫu 4"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

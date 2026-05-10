@@ -89,13 +89,11 @@ class ProgressModel {
   }
 
   /** Complete a full day */
-  completeDay(dayId) {
+  completeDay(dayId, hasNextDay = false) {
     this.completedDays.add(dayId);
-    // Unlock next day if it exists in data
-    const nextDay = dayId + 1;
-    const nextExists = window.LessonData.some(l => l.id === nextDay);
-    if (nextExists) {
-      this.unlockedDays.add(nextDay);
+    // Unlock next day if it exists
+    if (hasNextDay) {
+      this.unlockedDays.add(dayId + 1);
     }
     if (this.streak === 0) this.streak = 1;
     this._updateStreak();

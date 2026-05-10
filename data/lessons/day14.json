@@ -1,0 +1,108 @@
+{
+  "id": 14,
+  "week": 2,
+  "day": 14,
+  "title": "Music & Movies",
+  "subtitle": "Bài học ngày 14 - Music & Movies",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Present Continuous",
+    "nameVi": "Thì Hiện Tại Tiếp Diễn",
+    "description": "Dùng để diễn tả hành động đang diễn ra tại thời điểm nói.",
+    "rules": [
+      {
+        "title": "Khẳng định",
+        "formula": "S + am/is/are + V-ing",
+        "examples": [
+          {
+            "en": "I am studying.",
+            "vi": "Tôi đang học."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định",
+        "formula": "S + am/is/are + not + V-ing",
+        "examples": [
+          {
+            "en": "She is not sleeping.",
+            "vi": "Cô ấy không đang ngủ."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v14_1",
+      "word": "Word_14_1",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 1",
+      "example": "This is an example for Word_14_1.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 1."
+    },
+    {
+      "id": "v14_2",
+      "word": "Word_14_2",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 2",
+      "example": "This is an example for Word_14_2.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 2."
+    }
+  ],
+  "listening": [
+    {
+      "id": "l14_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l14_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s14_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w14_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q14_1",
+      "question": "Từ vựng 'Word_14_1' nghĩa là gì?",
+      "options": [
+        "Từ vựng mẫu 1",
+        "Từ vựng mẫu 2",
+        "Từ vựng mẫu 3",
+        "Từ vựng mẫu 4"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

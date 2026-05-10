@@ -1,0 +1,108 @@
+{
+  "id": 6,
+  "week": 1,
+  "day": 6,
+  "title": "Food & Drinks",
+  "subtitle": "Bài học ngày 6 - Food & Drinks",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Present Simple",
+    "nameVi": "Thì Hiện Tại Đơn",
+    "description": "Dùng để diễn tả thói quen, sự thật hiển nhiên, và hành động lặp lại.",
+    "rules": [
+      {
+        "title": "Khẳng định",
+        "formula": "S + V(s/es)",
+        "examples": [
+          {
+            "en": "I play soccer.",
+            "vi": "Tôi chơi bóng đá."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định",
+        "formula": "S + do/does + not + V",
+        "examples": [
+          {
+            "en": "I don't play soccer.",
+            "vi": "Tôi không chơi bóng đá."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v6_1",
+      "word": "Word_6_1",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 1",
+      "example": "This is an example for Word_6_1.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 1."
+    },
+    {
+      "id": "v6_2",
+      "word": "Word_6_2",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 2",
+      "example": "This is an example for Word_6_2.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 2."
+    }
+  ],
+  "listening": [
+    {
+      "id": "l6_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l6_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s6_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w6_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q6_1",
+      "question": "Từ vựng 'Word_6_1' nghĩa là gì?",
+      "options": [
+        "Từ vựng mẫu 1",
+        "Từ vựng mẫu 2",
+        "Từ vựng mẫu 3",
+        "Từ vựng mẫu 4"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

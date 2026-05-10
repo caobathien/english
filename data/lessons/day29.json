@@ -1,0 +1,98 @@
+{
+  "id": 29,
+  "week": 5,
+  "day": 29,
+  "title": "Review Part 1",
+  "subtitle": "Bài học ngày 29 - Review Part 1",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Review & Communication",
+    "nameVi": "Ôn tập & Giao tiếp",
+    "description": "Ôn tập tổng hợp các thì đã học và luyện phản xạ giao tiếp.",
+    "rules": [
+      {
+        "title": "Tổng hợp",
+        "formula": "Present / Past / Future",
+        "examples": [
+          {
+            "en": "I learn English every day. Yesterday I learned vocabulary. Tomorrow I will practice speaking.",
+            "vi": "Tôi học tiếng Anh mỗi ngày. Hôm qua tôi đã học từ vựng. Ngày mai tôi sẽ luyện nói."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v29_1",
+      "word": "Word_29_1",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 1",
+      "example": "This is an example for Word_29_1.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 1."
+    },
+    {
+      "id": "v29_2",
+      "word": "Word_29_2",
+      "phonetic": "/wɜːrd/",
+      "meaning": "Từ vựng mẫu 2",
+      "example": "This is an example for Word_29_2.",
+      "exampleVi": "Đây là ví dụ cho từ mẫu 2."
+    }
+  ],
+  "listening": [
+    {
+      "id": "l29_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l29_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s29_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w29_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q29_1",
+      "question": "Từ vựng 'Word_29_1' nghĩa là gì?",
+      "options": [
+        "Từ vựng mẫu 1",
+        "Từ vựng mẫu 2",
+        "Từ vựng mẫu 3",
+        "Từ vựng mẫu 4"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

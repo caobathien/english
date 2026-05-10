@@ -1,0 +1,108 @@
+{
+  "id": 1,
+  "week": 1,
+  "day": 1,
+  "title": "Greeting & Introduce Yourself",
+  "subtitle": "Bài học ngày 1 - Greeting & Introduce Yourself",
+  "icon": "📚",
+  "xpReward": 100,
+  "tense": {
+    "name": "Present Simple",
+    "nameVi": "Thì Hiện Tại Đơn",
+    "description": "Dùng để diễn tả thói quen, sự thật hiển nhiên, và hành động lặp lại.",
+    "rules": [
+      {
+        "title": "Khẳng định",
+        "formula": "S + V(s/es)",
+        "examples": [
+          {
+            "en": "I play soccer.",
+            "vi": "Tôi chơi bóng đá."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định",
+        "formula": "S + do/does + not + V",
+        "examples": [
+          {
+            "en": "I don't play soccer.",
+            "vi": "Tôi không chơi bóng đá."
+          }
+        ]
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "v1",
+      "word": "Hello",
+      "phonetic": "/həˈloʊ/",
+      "meaning": "Xin chào",
+      "example": "Hello, how are you?",
+      "exampleVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "id": "v2",
+      "word": "Goodbye",
+      "phonetic": "/ɡʊdˈbaɪ/",
+      "meaning": "Tạm biệt",
+      "example": "Goodbye, see you tomorrow!",
+      "exampleVi": "Tạm biệt, hẹn gặp lại ngày mai!"
+    }
+  ],
+  "listening": [
+    {
+      "id": "l1_1",
+      "sentence": "I like studying English.",
+      "sentenceVi": "Tôi thích học tiếng Anh."
+    },
+    {
+      "id": "l1_2",
+      "sentence": "This is a good day.",
+      "sentenceVi": "Hôm nay là một ngày tốt."
+    }
+  ],
+  "speaking": [
+    {
+      "id": "s1_1",
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    }
+  ],
+  "writing": [
+    {
+      "id": "w1_1",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like studying _____.",
+      "answer": "English",
+      "hint": "Ngôn ngữ bạn đang học"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "\"Hello\" nghĩa là gì?",
+      "options": [
+        "Xin chào",
+        "Tạm biệt",
+        "Cảm ơn",
+        "Xin lỗi"
+      ],
+      "correct": 0
+    }
+  ],
+  "conversation": [
+    {
+      "speaker": "A",
+      "text": "Hello, how are you?",
+      "textVi": "Xin chào, bạn khỏe không?"
+    },
+    {
+      "speaker": "B",
+      "text": "I am fine, thank you.",
+      "textVi": "Tôi khỏe, cảm ơn bạn."
+    }
+  ]
+}

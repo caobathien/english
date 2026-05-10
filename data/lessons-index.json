@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "file": "day1.json",
+    "week": 1,
+    "day": 1,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Greeting & Introduce Yourself",
+    "subtitle": "Bài học ngày 1 - Greeting & Introduce Yourself",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 2,
+    "file": "day2.json",
+    "week": 1,
+    "day": 2,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Family & Friends",
+    "subtitle": "Bài học ngày 2 - Family & Friends",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 3,
+    "file": "day3.json",
+    "week": 1,
+    "day": 3,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Daily Routine",
+    "subtitle": "Bài học ngày 3 - Daily Routine",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 4,
+    "file": "day4.json",
+    "week": 1,
+    "day": 4,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Hobbies & Interests",
+    "subtitle": "Bài học ngày 4 - Hobbies & Interests",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 5,
+    "file": "day5.json",
+    "week": 1,
+    "day": 5,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Jobs & Occupations",
+    "subtitle": "Bài học ngày 5 - Jobs & Occupations",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 6,
+    "file": "day6.json",
+    "week": 1,
+    "day": 6,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Food & Drinks",
+    "subtitle": "Bài học ngày 6 - Food & Drinks",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 7,
+    "file": "day7.json",
+    "week": 1,
+    "day": 7,
+    "tense": {
+      "name": "Present Simple"
+    },
+    "title": "Shopping",
+    "subtitle": "Bài học ngày 7 - Shopping",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 8,
+    "file": "day8.json",
+    "week": 2,
+    "day": 8,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Describing People",
+    "subtitle": "Bài học ngày 8 - Describing People",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 9,
+    "file": "day9.json",
+    "week": 2,
+    "day": 9,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Describing Places",
+    "subtitle": "Bài học ngày 9 - Describing Places",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 10,
+    "file": "day10.json",
+    "week": 2,
+    "day": 10,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Travel & Holidays",
+    "subtitle": "Bài học ngày 10 - Travel & Holidays",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 11,
+    "file": "day11.json",
+    "week": 2,
+    "day": 11,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Weather",
+    "subtitle": "Bài học ngày 11 - Weather",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 12,
+    "file": "day12.json",
+    "week": 2,
+    "day": 12,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Health & Body",
+    "subtitle": "Bài học ngày 12 - Health & Body",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 13,
+    "file": "day13.json",
+    "week": 2,
+    "day": 13,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Sports",
+    "subtitle": "Bài học ngày 13 - Sports",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 14,
+    "file": "day14.json",
+    "week": 2,
+    "day": 14,
+    "tense": {
+      "name": "Present Continuous"
+    },
+    "title": "Music & Movies",
+    "subtitle": "Bài học ngày 14 - Music & Movies",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 15,
+    "file": "day15.json",
+    "week": 3,
+    "day": 15,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Education",
+    "subtitle": "Bài học ngày 15 - Education",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 16,
+    "file": "day16.json",
+    "week": 3,
+    "day": 16,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Technology",
+    "subtitle": "Bài học ngày 16 - Technology",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 17,
+    "file": "day17.json",
+    "week": 3,
+    "day": 17,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Animals",
+    "subtitle": "Bài học ngày 17 - Animals",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 18,
+    "file": "day18.json",
+    "week": 3,
+    "day": 18,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Home & Furniture",
+    "subtitle": "Bài học ngày 18 - Home & Furniture",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 19,
+    "file": "day19.json",
+    "week": 3,
+    "day": 19,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Clothes & Fashion",
+    "subtitle": "Bài học ngày 19 - Clothes & Fashion",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 20,
+    "file": "day20.json",
+    "week": 3,
+    "day": 20,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Transportation",
+    "subtitle": "Bài học ngày 20 - Transportation",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 21,
+    "file": "day21.json",
+    "week": 3,
+    "day": 21,
+    "tense": {
+      "name": "Past Simple"
+    },
+    "title": "Emotions",
+    "subtitle": "Bài học ngày 21 - Emotions",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 22,
+    "file": "day22.json",
+    "week": 4,
+    "day": 22,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "City Life",
+    "subtitle": "Bài học ngày 22 - City Life",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 23,
+    "file": "day23.json",
+    "week": 4,
+    "day": 23,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Nature",
+    "subtitle": "Bài học ngày 23 - Nature",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 24,
+    "file": "day24.json",
+    "week": 4,
+    "day": 24,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Festivals",
+    "subtitle": "Bài học ngày 24 - Festivals",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 25,
+    "file": "day25.json",
+    "week": 4,
+    "day": 25,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Restaurants",
+    "subtitle": "Bài học ngày 25 - Restaurants",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 26,
+    "file": "day26.json",
+    "week": 4,
+    "day": 26,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Social Media",
+    "subtitle": "Bài học ngày 26 - Social Media",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 27,
+    "file": "day27.json",
+    "week": 4,
+    "day": 27,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Dreams & Goals",
+    "subtitle": "Bài học ngày 27 - Dreams & Goals",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 28,
+    "file": "day28.json",
+    "week": 4,
+    "day": 28,
+    "tense": {
+      "name": "Future Simple"
+    },
+    "title": "Culture",
+    "subtitle": "Bài học ngày 28 - Culture",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 29,
+    "file": "day29.json",
+    "week": 5,
+    "day": 29,
+    "tense": {
+      "name": "Review & Communication"
+    },
+    "title": "Review Part 1",
+    "subtitle": "Bài học ngày 29 - Review Part 1",
+    "icon": "📚",
+    "xpReward": 100
+  },
+  {
+    "id": 30,
+    "file": "day30.json",
+    "week": 5,
+    "day": 30,
+    "tense": {
+      "name": "Review & Communication"
+    },
+    "title": "Review Part 2",
+    "subtitle": "Bài học ngày 30 - Review Part 2",
+    "icon": "📚",
+    "xpReward": 100
+  }
+]

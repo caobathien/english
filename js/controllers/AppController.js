@@ -26,9 +26,10 @@ class AppController {
   }
 
   /** Initialize the application */
-  init() {
+  async init() {
     this._applyTheme();
     this._initSpeechVoices();
+    await this.lessonModel.init();
     this.showHome();
   }
 
@@ -40,10 +41,17 @@ class AppController {
   }
 
   /** Show a lesson page */
-  showLesson(dayId) {
-    const lesson = this.lessonModel.getById(dayId);
-    if (!lesson) return;
+  async showLesson(dayId) {
     if (!this.progress.isDayUnlocked(dayId)) return;
+    
+    // Add simple loading indicator
+    this.container.innerHTML = '<div class="lesson-loading"><div class="spinner"></div><p>Đang tải bài học...</p></div>';
+
+    const lesson = await this.lessonModel.getById(dayId);
+    if (!lesson) {
+      this.showHome();
+      return;
+    }
 
     this.lessonView.onBack = () => this.showHome();
     this.lessonView.onSectionComplete = (id, section) => this._handleSectionComplete(id, section);
@@ -64,15 +72,17 @@ class AppController {
   }
 
   _handleLessonComplete(dayId) {
-    const lesson = this.lessonModel.getById(dayId);
+    const lesson = this.lessonModel.getCachedById(dayId);
     if (!lesson) return;
 
-    this.progress.completeDay(dayId);
+    const nextDay = dayId + 1;
+    const hasNextDay = this.lessonModel.exists(nextDay);
+
+    this.progress.completeDay(dayId, hasNextDay);
     this.progress.addXP(lesson.xpReward);
     this.audio.playComplete();
 
     // Check if next day was unlocked
-    const nextDay = dayId + 1;
     if (this.progress.isDayUnlocked(nextDay)) {
       this.audio.playUnlock();
     }

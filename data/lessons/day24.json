@@ -17,7 +17,15 @@
         "examples": [
           {
             "en": "I will celebrate the New Year.",
-            "vi": "Tôi sẽ ăn mừng Năm Mới."
+            "vi": "Tôi sẽ ăn mừng năm mới."
+          },
+          {
+            "en": "She will wear a new dress.",
+            "vi": "Cô ấy sẽ mặc một chiếc váy mới."
+          },
+          {
+            "en": "We will have a big party.",
+            "vi": "Chúng tôi sẽ có một bữa tiệc lớn."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "She won't attend the party.",
-            "vi": "Cô ấy sẽ không tham dự bữa tiệc."
+            "en": "I won't buy fireworks.",
+            "vi": "Tôi sẽ không mua pháo hoa."
+          },
+          {
+            "en": "They won't stay home.",
+            "vi": "Họ sẽ không ở nhà."
+          },
+          {
+            "en": "He won't miss the parade.",
+            "vi": "Anh ấy sẽ không lỡ buổi diễu hành."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v24_1",
-      "word": "Party",
-      "phonetic": "/ˈpɑːr.t̬i/",
-      "meaning": "Bữa tiệc",
-      "example": "We will have a party.",
-      "exampleVi": "Chúng tôi sẽ tổ chức tiệc."
+      "word": "Festival",
+      "phonetic": "/ˈfes.tə.vəl/",
+      "meaning": "Lễ hội",
+      "example": "A traditional festival.",
+      "exampleVi": "Một lễ hội truyền thống."
     },
     {
       "id": "v24_2",
+      "word": "Celebrate",
+      "phonetic": "/ˈsel.ə.breɪt/",
+      "meaning": "Kỷ niệm/Ăn mừng",
+      "example": "Celebrate a birthday.",
+      "exampleVi": "Ăn mừng sinh nhật."
+    },
+    {
+      "id": "v24_3",
+      "word": "Party",
+      "phonetic": "/ˈpɑːr.t̬i/",
+      "meaning": "Bữa tiệc",
+      "example": "Go to a party.",
+      "exampleVi": "Đi dự tiệc."
+    },
+    {
+      "id": "v24_4",
       "word": "Gift",
       "phonetic": "/ɡɪft/",
       "meaning": "Quà tặng",
-      "example": "I will buy a gift.",
-      "exampleVi": "Tôi sẽ mua quà."
+      "example": "Give a gift.",
+      "exampleVi": "Tặng một món quà."
+    },
+    {
+      "id": "v24_5",
+      "word": "Fireworks",
+      "phonetic": "/ˈfaɪr.wɝːks/",
+      "meaning": "Pháo hoa",
+      "example": "Watch fireworks.",
+      "exampleVi": "Xem pháo hoa."
+    },
+    {
+      "id": "v24_6",
+      "word": "Parade",
+      "phonetic": "/pəˈreɪd/",
+      "meaning": "Diễu hành",
+      "example": "A street parade.",
+      "exampleVi": "Một cuộc diễu hành đường phố."
+    },
+    {
+      "id": "v24_7",
+      "word": "Holiday",
+      "phonetic": "/ˈhɑː.lə.deɪ/",
+      "meaning": "Ngày nghỉ lễ",
+      "example": "Enjoy the holiday.",
+      "exampleVi": "Tận hưởng ngày nghỉ."
+    },
+    {
+      "id": "v24_8",
+      "word": "Tradition",
+      "phonetic": "/trəˈdɪʃ.ən/",
+      "meaning": "Truyền thống",
+      "example": "Follow tradition.",
+      "exampleVi": "Theo truyền thống."
+    },
+    {
+      "id": "v24_9",
+      "word": "New Year",
+      "phonetic": "/ˌnuː ˈjɪr/",
+      "meaning": "Năm mới",
+      "example": "Happy New Year!",
+      "exampleVi": "Chúc mừng năm mới!"
+    },
+    {
+      "id": "v24_10",
+      "word": "Music",
+      "phonetic": "/ˈmjuː.zɪk/",
+      "meaning": "Âm nhạc",
+      "example": "Play loud music.",
+      "exampleVi": "Chơi nhạc lớn."
     }
   ],
   "listening": [
     {
       "id": "l24_1",
-      "sentence": "We will have a big party.",
-      "sentenceVi": "Chúng tôi sẽ có một bữa tiệc lớn."
+      "sentence": "We will celebrate the festival together.",
+      "sentenceVi": "Chúng ta sẽ cùng nhau ăn mừng lễ hội."
     },
     {
       "id": "l24_2",
-      "sentence": "I will give her a gift.",
-      "sentenceVi": "Tôi sẽ tặng cô ấy một món quà."
+      "sentence": "There will be a big parade in the city center.",
+      "sentenceVi": "Sẽ có một buổi diễu hành lớn ở trung tâm thành phố."
+    },
+    {
+      "id": "l24_3",
+      "sentence": "I will give my mother a special gift.",
+      "sentenceVi": "Tôi sẽ tặng mẹ một món quà đặc biệt."
+    },
+    {
+      "id": "l24_4",
+      "sentence": "Will you watch the fireworks tonight?",
+      "sentenceVi": "Bạn sẽ xem pháo hoa tối nay chứ?"
+    },
+    {
+      "id": "l24_5",
+      "sentence": "They won't work during the holiday.",
+      "sentenceVi": "Họ sẽ không làm việc trong kỳ nghỉ lễ."
+    },
+    {
+      "id": "l24_6",
+      "sentence": "She will wear a beautiful traditional dress.",
+      "sentenceVi": "Cô ấy sẽ mặc một chiếc váy truyền thống tuyệt đẹp."
+    },
+    {
+      "id": "l24_7",
+      "sentence": "The party will start at 8 PM.",
+      "sentenceVi": "Bữa tiệc sẽ bắt đầu lúc 8 giờ tối."
+    },
+    {
+      "id": "l24_8",
+      "sentence": "We will enjoy some great music.",
+      "sentenceVi": "Chúng ta sẽ thưởng thức những bản nhạc tuyệt vời."
+    },
+    {
+      "id": "l24_9",
+      "sentence": "He will come to the party with his friends.",
+      "sentenceVi": "Anh ấy sẽ đến bữa tiệc cùng bạn bè."
+    },
+    {
+      "id": "l24_10",
+      "sentence": "Happy New Year to everyone!",
+      "sentenceVi": "Chúc mừng năm mới tới tất cả mọi người!"
     }
   ],
   "speaking": [
     {
       "id": "s24_1",
-      "sentence": "What is your favorite festival?",
-      "sentenceVi": "Lễ hội yêu thích của bạn là gì?"
+      "sentence": "What will you do for New Year?",
+      "sentenceVi": "Bạn sẽ làm gì vào dịp năm mới?"
+    },
+    {
+      "id": "s24_2",
+      "sentence": "I'll visit my grandparents.",
+      "sentenceVi": "Tôi sẽ đi thăm ông bà."
+    },
+    {
+      "id": "s24_3",
+      "sentence": "Will there be fireworks?",
+      "sentenceVi": "Sẽ có pháo hoa chứ?"
+    },
+    {
+      "id": "s24_4",
+      "sentence": "Yes, at midnight.",
+      "sentenceVi": "Có, vào lúc nửa đêm."
+    },
+    {
+      "id": "s24_5",
+      "sentence": "I love festivals.",
+      "sentenceVi": "Tôi yêu các lễ hội."
+    },
+    {
+      "id": "s24_6",
+      "sentence": "Me too, they are fun.",
+      "sentenceVi": "Tôi cũng vậy, chúng rất vui."
+    },
+    {
+      "id": "s24_7",
+      "sentence": "Are you going to the party?",
+      "sentenceVi": "Bạn có đi dự tiệc không?"
+    },
+    {
+      "id": "s24_8",
+      "sentence": "Yes, I'll be there.",
+      "sentenceVi": "Có, tôi sẽ ở đó."
+    },
+    {
+      "id": "s24_9",
+      "sentence": "Don't forget the gift!",
+      "sentenceVi": "Đừng quên quà đấy nhé!"
+    },
+    {
+      "id": "s24_10",
+      "sentence": "I won't.",
+      "sentenceVi": "Tôi sẽ không quên đâu."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w24_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "We will have a _____.",
+      "question": "I will _____ the New Year.",
+      "answer": "celebrate",
+      "hint": "ăn mừng"
+    },
+    {
+      "id": "w24_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Watch _____.",
+      "answer": "fireworks",
+      "hint": "pháo hoa"
+    },
+    {
+      "id": "w24_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to a _____.",
       "answer": "party",
       "hint": "bữa tiệc"
+    },
+    {
+      "id": "w24_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Give a _____.",
+      "answer": "gift",
+      "hint": "món quà"
+    },
+    {
+      "id": "w24_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A street _____.",
+      "answer": "parade",
+      "hint": "diễu hành"
+    },
+    {
+      "id": "w24_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Traditional _____.",
+      "answer": "festival",
+      "hint": "lễ hội"
+    },
+    {
+      "id": "w24_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Happy _____ Year!",
+      "answer": "New",
+      "hint": "Năm (mới)"
+    },
+    {
+      "id": "w24_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Enjoy the _____.",
+      "answer": "holiday",
+      "hint": "ngày nghỉ lễ"
+    },
+    {
+      "id": "w24_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Follow _____.",
+      "answer": "tradition",
+      "hint": "truyền thống"
+    },
+    {
+      "id": "w24_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Play loud _____.",
+      "answer": "music",
+      "hint": "âm nhạc"
     }
   ],
   "quizzes": [
     {
       "id": "q24_1",
-      "question": "'Gift' nghĩa là gì?",
+      "question": "'Celebrate' nghĩa là gì?",
       "options": [
-        "Quà tặng",
-        "Bữa tiệc",
-        "Bánh",
-        "Hoa"
+        "Kỷ niệm",
+        "Học tập",
+        "Làm việc",
+        "Nghỉ ngơi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_2",
+      "question": "I _____ give you a gift.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_3",
+      "question": "They _____ stay at home.",
+      "options": [
+        "won't",
+        "will",
+        "is",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_4",
+      "question": "Will you _____ the parade?",
+      "options": [
+        "watch",
+        "watches",
+        "watching",
+        "watched"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_5",
+      "question": "The party _____ start at 8.",
+      "options": [
+        "will",
+        "is",
+        "are",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_6",
+      "question": "'Fireworks' nghĩa là gì?",
+      "options": [
+        "Pháo hoa",
+        "Lửa",
+        "Nước",
+        "Gió"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_7",
+      "question": "A _____ festival.",
+      "options": [
+        "traditional",
+        "tradition",
+        "traditions",
+        "traditionally"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_8",
+      "question": "Give _____ gift.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_9",
+      "question": "Happy _____ Year!",
+      "options": [
+        "New",
+        "Old",
+        "Good",
+        "Fine"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q24_10",
+      "question": "We _____ have fun.",
+      "options": [
+        "will",
+        "is",
+        "am",
+        "are"
       ],
       "correct": 0
     }

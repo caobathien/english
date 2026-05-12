@@ -16,8 +16,16 @@
         "formula": "S + V2/ed",
         "examples": [
           {
-            "en": "We took a taxi.",
-            "vi": "Chúng tôi đã đi taxi."
+            "en": "I took a taxi to the airport.",
+            "vi": "Tôi đã đi taxi đến sân bay."
+          },
+          {
+            "en": "The bus arrived on time.",
+            "vi": "Xe buýt đã đến đúng giờ."
+          },
+          {
+            "en": "We flew to New York.",
+            "vi": "Chúng tôi đã bay đến New York."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "They didn't miss the bus.",
-            "vi": "Họ đã không lỡ chuyến xe buýt."
+            "en": "I didn't miss the train.",
+            "vi": "Tôi đã không lỡ chuyến tàu."
+          },
+          {
+            "en": "He didn't drive the car.",
+            "vi": "Anh ấy đã không lái ô tô."
+          },
+          {
+            "en": "The plane didn't land yet.",
+            "vi": "Máy bay chưa hạ cánh."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "Bus",
       "phonetic": "/bʌs/",
       "meaning": "Xe buýt",
-      "example": "I take the bus.",
-      "exampleVi": "Tôi đi xe buýt."
+      "example": "Go by bus.",
+      "exampleVi": "Đi bằng xe buýt."
     },
     {
       "id": "v20_2",
-      "word": "Bike",
-      "phonetic": "/baɪk/",
+      "word": "Train",
+      "phonetic": "/treɪn/",
+      "meaning": "Tàu hỏa",
+      "example": "Take the train.",
+      "exampleVi": "Đi tàu hỏa."
+    },
+    {
+      "id": "v20_3",
+      "word": "Taxi",
+      "phonetic": "/ˈtæk.si/",
+      "meaning": "Taxi",
+      "example": "Call a taxi.",
+      "exampleVi": "Gọi taxi."
+    },
+    {
+      "id": "v20_4",
+      "word": "Plane",
+      "phonetic": "/pleɪn/",
+      "meaning": "Máy bay",
+      "example": "Fly by plane.",
+      "exampleVi": "Đi bằng máy bay."
+    },
+    {
+      "id": "v20_5",
+      "word": "Car",
+      "phonetic": "/kɑːr/",
+      "meaning": "Ô tô",
+      "example": "Drive a car.",
+      "exampleVi": "Lái ô tô."
+    },
+    {
+      "id": "v20_6",
+      "word": "Bicycle",
+      "phonetic": "/ˈbaɪ.sə.kəl/",
       "meaning": "Xe đạp",
-      "example": "He rides a bike.",
-      "exampleVi": "Anh ấy đi xe đạp."
+      "example": "Ride a bicycle.",
+      "exampleVi": "Đi xe đạp."
+    },
+    {
+      "id": "v20_7",
+      "word": "Motorbike",
+      "phonetic": "/ˈmoʊ.t̬ɚ.baɪk/",
+      "meaning": "Xe máy",
+      "example": "Ride a motorbike.",
+      "exampleVi": "Đi xe máy."
+    },
+    {
+      "id": "v20_8",
+      "word": "Ship",
+      "phonetic": "/ʃɪp/",
+      "meaning": "Con tàu thủy",
+      "example": "Travel by ship.",
+      "exampleVi": "Đi bằng tàu thủy."
+    },
+    {
+      "id": "v20_9",
+      "word": "Airport",
+      "phonetic": "/ˈer.pɔːrt/",
+      "meaning": "Sân bay",
+      "example": "At the airport.",
+      "exampleVi": "Tại sân bay."
+    },
+    {
+      "id": "v20_10",
+      "word": "Station",
+      "phonetic": "/ˈsteɪ.ʃən/",
+      "meaning": "Nhà ga",
+      "example": "Train station.",
+      "exampleVi": "Nhà ga tàu hỏa."
     }
   ],
   "listening": [
     {
       "id": "l20_1",
-      "sentence": "I took the bus to work yesterday.",
-      "sentenceVi": "Hôm qua tôi đã đi xe buýt đi làm."
+      "sentence": "I went to work by motorbike yesterday.",
+      "sentenceVi": "Hôm qua tôi đi làm bằng xe máy."
     },
     {
       "id": "l20_2",
-      "sentence": "She rode her bike to school.",
-      "sentenceVi": "Cô ấy đã đạp xe đến trường."
+      "sentence": "The train was very crowded.",
+      "sentenceVi": "Chuyến tàu đã rất đông đúc."
+    },
+    {
+      "id": "l20_3",
+      "sentence": "Did you take a taxi home?",
+      "sentenceVi": "Bạn có đi taxi về nhà không?"
+    },
+    {
+      "id": "l20_4",
+      "sentence": "The bus arrived ten minutes late.",
+      "sentenceVi": "Xe buýt đã đến muộn mười phút."
+    },
+    {
+      "id": "l20_5",
+      "sentence": "We flew to Japan last summer.",
+      "sentenceVi": "Chúng tôi đã bay đến Nhật Bản mùa hè năm ngoái."
+    },
+    {
+      "id": "l20_6",
+      "sentence": "He drove his car to the mountains.",
+      "sentenceVi": "Anh ấy đã lái ô tô lên núi."
+    },
+    {
+      "id": "l20_7",
+      "sentence": "The ship sailed across the ocean.",
+      "sentenceVi": "Con tàu đã vượt đại dương."
+    },
+    {
+      "id": "l20_8",
+      "sentence": "I missed the bus this morning.",
+      "sentenceVi": "Sáng nay tôi đã lỡ chuyến xe buýt."
+    },
+    {
+      "id": "l20_9",
+      "sentence": "The plane landed safely.",
+      "sentenceVi": "Máy bay đã hạ cánh an toàn."
+    },
+    {
+      "id": "l20_10",
+      "sentence": "Where is the nearest bus station?",
+      "sentenceVi": "Trạm xe buýt gần nhất ở đâu?"
     }
   ],
   "speaking": [
     {
       "id": "s20_1",
-      "sentence": "How do you go to work?",
-      "sentenceVi": "Bạn đi làm bằng gì?"
+      "sentence": "How did you get here?",
+      "sentenceVi": "Bạn đến đây bằng cách nào?"
+    },
+    {
+      "id": "s20_2",
+      "sentence": "I came by bus.",
+      "sentenceVi": "Tôi đến bằng xe buýt."
+    },
+    {
+      "id": "s20_3",
+      "sentence": "Was it fast?",
+      "sentenceVi": "Nó có nhanh không?"
+    },
+    {
+      "id": "s20_4",
+      "sentence": "Yes, quite fast.",
+      "sentenceVi": "Vâng, khá nhanh."
+    },
+    {
+      "id": "s20_5",
+      "sentence": "Did you drive your car?",
+      "sentenceVi": "Bạn có lái ô tô không?"
+    },
+    {
+      "id": "s20_6",
+      "sentence": "No, I took a taxi.",
+      "sentenceVi": "Không, tôi đi taxi."
+    },
+    {
+      "id": "s20_7",
+      "sentence": "I like riding my bicycle.",
+      "sentenceVi": "Tôi thích đi xe đạp."
+    },
+    {
+      "id": "s20_8",
+      "sentence": "Me too, it's healthy.",
+      "sentenceVi": "Tôi cũng vậy, nó tốt cho sức khỏe."
+    },
+    {
+      "id": "s20_9",
+      "sentence": "The train is very slow today.",
+      "sentenceVi": "Hôm nay tàu đi rất chậm."
+    },
+    {
+      "id": "s20_10",
+      "sentence": "Let's wait for the next bus.",
+      "sentenceVi": "Hãy đợi chuyến xe buýt tiếp theo."
     }
   ],
   "writing": [
@@ -75,22 +240,193 @@
       "id": "w20_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I take the _____ to work.",
+      "question": "I _____ a taxi.",
+      "answer": "took",
+      "hint": "đã đi/bắt (taxi)"
+    },
+    {
+      "id": "w20_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The bus _____.",
+      "answer": "arrived",
+      "hint": "đã đến"
+    },
+    {
+      "id": "w20_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We _____ to Japan.",
+      "answer": "flew",
+      "hint": "đã bay (quá khứ của fly)"
+    },
+    {
+      "id": "w20_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I missed the _____.",
       "answer": "bus",
       "hint": "xe buýt"
+    },
+    {
+      "id": "w20_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Train _____.",
+      "answer": "station",
+      "hint": "nhà ga"
+    },
+    {
+      "id": "w20_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go by _____.",
+      "answer": "train",
+      "hint": "tàu hỏa"
+    },
+    {
+      "id": "w20_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Ride a _____.",
+      "answer": "bicycle",
+      "hint": "xe đạp"
+    },
+    {
+      "id": "w20_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "At the _____.",
+      "answer": "airport",
+      "hint": "sân bay"
+    },
+    {
+      "id": "w20_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Drive a _____.",
+      "answer": "car",
+      "hint": "ô tô"
+    },
+    {
+      "id": "w20_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Ride a _____.",
+      "answer": "motorbike",
+      "hint": "xe máy"
     }
   ],
   "quizzes": [
     {
       "id": "q20_1",
-      "question": "'Bike' nghĩa là gì?",
+      "question": "'Plane' nghĩa là gì?",
       "options": [
-        "Xe đạp",
-        "Xe buýt",
         "Ô tô",
-        "Tàu"
+        "Máy bay",
+        "Tàu thủy",
+        "Xe đạp"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q20_2",
+      "question": "I _____ to work by bus yesterday.",
+      "options": [
+        "go",
+        "went",
+        "goes",
+        "going"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q20_3",
+      "question": "She _____ not drive.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
       ],
       "correct": 0
+    },
+    {
+      "id": "q20_4",
+      "question": "Did you _____ the train?",
+      "options": [
+        "miss",
+        "missed",
+        "misses",
+        "missing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q20_5",
+      "question": "The bus _____ late.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q20_6",
+      "question": "We _____ by ship.",
+      "options": [
+        "travel",
+        "traveled",
+        "travels",
+        "traveling"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q20_7",
+      "question": "'Station' nghĩa là gì?",
+      "options": [
+        "Nhà ga",
+        "Sân bay",
+        "Bến cảng",
+        "Đường đi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q20_8",
+      "question": "I _____ not take a taxi.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q20_9",
+      "question": "He _____ his bicycle.",
+      "options": [
+        "ride",
+        "rode",
+        "rides",
+        "riding"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q20_10",
+      "question": "The plane _____ safely.",
+      "options": [
+        "land",
+        "landed",
+        "lands",
+        "landing"
+      ],
+      "correct": 1
     }
   ],
   "conversation": [

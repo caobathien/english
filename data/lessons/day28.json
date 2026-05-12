@@ -16,8 +16,16 @@
         "formula": "S + will + V",
         "examples": [
           {
-            "en": "We will learn about their traditions.",
-            "vi": "Chúng tôi sẽ tìm hiểu về truyền thống của họ."
+            "en": "I will learn about traditions.",
+            "vi": "Tôi sẽ tìm hiểu về các truyền thống."
+          },
+          {
+            "en": "She will visit historical places.",
+            "vi": "Cô ấy sẽ đến thăm các địa điểm lịch sử."
+          },
+          {
+            "en": "They will respect the local culture.",
+            "vi": "Họ sẽ tôn trọng văn hóa địa phương."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "He won't forget his roots.",
-            "vi": "Anh ấy sẽ không quên cội nguồn của mình."
+            "en": "I won't forget my roots.",
+            "vi": "Tôi sẽ không quên cội nguồn của mình."
+          },
+          {
+            "en": "They won't change their customs.",
+            "vi": "Họ sẽ không thay đổi phong tục của mình."
+          },
+          {
+            "en": "He won't ignore the rules.",
+            "vi": "Anh ấy sẽ không phớt lờ các quy tắc."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "Culture",
       "phonetic": "/ˈkʌl.tʃɚ/",
       "meaning": "Văn hóa",
-      "example": "Vietnamese culture is rich.",
-      "exampleVi": "Văn hóa Việt Nam rất phong phú."
+      "example": "Local culture.",
+      "exampleVi": "Văn hóa địa phương."
     },
     {
       "id": "v28_2",
-      "word": "Traditional",
-      "phonetic": "/trəˈdɪʃ.ən.əl/",
+      "word": "Tradition",
+      "phonetic": "/trəˈdɪʃ.ən/",
       "meaning": "Truyền thống",
-      "example": "This is traditional food.",
-      "exampleVi": "Đây là món ăn truyền thống."
+      "example": "A long tradition.",
+      "exampleVi": "Một truyền thống lâu đời."
+    },
+    {
+      "id": "v28_3",
+      "word": "Custom",
+      "phonetic": "/ˈkʌs.təm/",
+      "meaning": "Phong tục",
+      "example": "Follow customs.",
+      "exampleVi": "Theo phong tục."
+    },
+    {
+      "id": "v28_4",
+      "word": "History",
+      "phonetic": "/ˈhɪs.t̬ɚ.i/",
+      "meaning": "Lịch sử",
+      "example": "Study history.",
+      "exampleVi": "Học lịch sử."
+    },
+    {
+      "id": "v28_5",
+      "word": "Art",
+      "phonetic": "/ɑːrt/",
+      "meaning": "Nghệ thuật",
+      "example": "Modern art.",
+      "exampleVi": "Nghệ thuật hiện đại."
+    },
+    {
+      "id": "v28_6",
+      "word": "Music",
+      "phonetic": "/ˈmjuː.zɪk/",
+      "meaning": "Âm nhạc",
+      "example": "Folk music.",
+      "exampleVi": "Nhạc dân gian."
+    },
+    {
+      "id": "v28_7",
+      "word": "Food",
+      "phonetic": "/fuːd/",
+      "meaning": "Thức ăn",
+      "example": "Traditional food.",
+      "exampleVi": "Thức ăn truyền thống."
+    },
+    {
+      "id": "v28_8",
+      "word": "Respect",
+      "phonetic": "/rɪˈspekt/",
+      "meaning": "Tôn trọng",
+      "example": "Respect others.",
+      "exampleVi": "Tôn trọng người khác."
+    },
+    {
+      "id": "v28_9",
+      "word": "Learn",
+      "phonetic": "/lɝːn/",
+      "meaning": "Học/Tìm hiểu",
+      "example": "Learn new things.",
+      "exampleVi": "Học những điều mới."
+    },
+    {
+      "id": "v28_10",
+      "word": "World",
+      "phonetic": "/wɝːld/",
+      "meaning": "Thế giới",
+      "example": "Around the world.",
+      "exampleVi": "Vòng quanh thế giới."
     }
   ],
   "listening": [
     {
       "id": "l28_1",
-      "sentence": "I will learn about Vietnamese culture.",
-      "sentenceVi": "Tôi sẽ tìm hiểu về văn hóa Việt Nam."
+      "sentence": "We will explore the local culture together.",
+      "sentenceVi": "Chúng ta sẽ cùng nhau khám phá văn hóa địa phương."
     },
     {
       "id": "l28_2",
-      "sentence": "Traditional food is delicious.",
-      "sentenceVi": "Đồ ăn truyền thống rất ngon."
+      "sentence": "She will share stories about her traditions.",
+      "sentenceVi": "Cô ấy sẽ chia sẻ những câu chuyện về truyền thống của mình."
+    },
+    {
+      "id": "l28_3",
+      "sentence": "They will respect the local customs and rules.",
+      "sentenceVi": "Họ sẽ tôn trọng phong tục và quy tắc địa phương."
+    },
+    {
+      "id": "l28_4",
+      "sentence": "Will you try the traditional food there?",
+      "sentenceVi": "Bạn sẽ thử đồ ăn truyền thống ở đó chứ?"
+    },
+    {
+      "id": "l28_5",
+      "sentence": "I will learn about the history of this city.",
+      "sentenceVi": "Tôi sẽ tìm hiểu về lịch sử của thành phố này."
+    },
+    {
+      "id": "l28_6",
+      "sentence": "He won't forget where he came from.",
+      "sentenceVi": "Anh ấy sẽ không quên nơi mình đã sinh ra."
+    },
+    {
+      "id": "l28_7",
+      "sentence": "The museum will show many works of art.",
+      "sentenceVi": "Bảo tàng sẽ trưng bày nhiều tác phẩm nghệ thuật."
+    },
+    {
+      "id": "l28_8",
+      "sentence": "We will listen to traditional folk music.",
+      "sentenceVi": "Chúng ta sẽ nghe nhạc dân gian truyền thống."
+    },
+    {
+      "id": "l28_9",
+      "sentence": "The world will be more connected in the future.",
+      "sentenceVi": "Thế giới sẽ được kết nối nhiều hơn trong tương lai."
+    },
+    {
+      "id": "l28_10",
+      "sentence": "Always respect the culture of other people.",
+      "sentenceVi": "Luôn luôn tôn trọng văn hóa của người khác."
     }
   ],
   "speaking": [
     {
       "id": "s28_1",
-      "sentence": "Tell me about your culture.",
-      "sentenceVi": "Hãy kể cho tôi về văn hóa của bạn."
+      "sentence": "What is your culture like?",
+      "sentenceVi": "Văn hóa của bạn như thế nào?"
+    },
+    {
+      "id": "s28_2",
+      "sentence": "It's very rich and old.",
+      "sentenceVi": "Nó rất phong phú và lâu đời."
+    },
+    {
+      "id": "s28_3",
+      "sentence": "Do you like traditional food?",
+      "sentenceVi": "Bạn có thích món ăn truyền thống không?"
+    },
+    {
+      "id": "s28_4",
+      "sentence": "Yes, it's delicious.",
+      "sentenceVi": "Có, nó rất ngon."
+    },
+    {
+      "id": "s28_5",
+      "sentence": "Will you visit the museum?",
+      "sentenceVi": "Bạn sẽ đi thăm bảo tàng chứ?"
+    },
+    {
+      "id": "s28_6",
+      "sentence": "Yes, I want to see the art.",
+      "sentenceVi": "Có, tôi muốn xem nghệ thuật."
+    },
+    {
+      "id": "s28_7",
+      "sentence": "It's important to respect customs.",
+      "sentenceVi": "Tôn trọng phong tục là điều quan trọng."
+    },
+    {
+      "id": "s28_8",
+      "sentence": "I agree with you.",
+      "sentenceVi": "Tôi đồng ý với bạn."
+    },
+    {
+      "id": "s28_9",
+      "sentence": "Let's learn together.",
+      "sentenceVi": "Hãy cùng nhau tìm hiểu nhé."
+    },
+    {
+      "id": "s28_10",
+      "sentence": "Culture is beautiful.",
+      "sentenceVi": "Văn hóa thật đẹp."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w28_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "Vietnamese _____ is rich.",
+      "question": "I will learn about _____.",
       "answer": "culture",
       "hint": "văn hóa"
+    },
+    {
+      "id": "w28_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Follow _____.",
+      "answer": "tradition",
+      "hint": "truyền thống"
+    },
+    {
+      "id": "w28_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Respect local _____.",
+      "answer": "customs",
+      "hint": "phong tục (số nhiều)"
+    },
+    {
+      "id": "w28_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Study _____.",
+      "answer": "history",
+      "hint": "lịch sử"
+    },
+    {
+      "id": "w28_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Modern _____.",
+      "answer": "art",
+      "hint": "nghệ thuật"
+    },
+    {
+      "id": "w28_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Traditional _____.",
+      "answer": "food",
+      "hint": "thức ăn"
+    },
+    {
+      "id": "w28_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ other people.",
+      "answer": "Respect",
+      "hint": "Tôn trọng"
+    },
+    {
+      "id": "w28_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ new things.",
+      "answer": "Learn",
+      "hint": "Học/Tìm hiểu"
+    },
+    {
+      "id": "w28_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Around the _____.",
+      "answer": "world",
+      "hint": "thế giới"
+    },
+    {
+      "id": "w28_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I won't _____ my roots.",
+      "answer": "forget",
+      "hint": "quên"
     }
   ],
   "quizzes": [
     {
       "id": "q28_1",
-      "question": "'Traditional' nghĩa là gì?",
+      "question": "'Culture' nghĩa là gì?",
       "options": [
-        "Truyền thống",
-        "Hiện đại",
-        "Mới mẻ",
-        "Cổ điển"
+        "Văn hóa",
+        "Xã hội",
+        "Kinh tế",
+        "Chính trị"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_2",
+      "question": "I _____ visit the museum.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_3",
+      "question": "They _____ respect the rules.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_4",
+      "question": "Will you _____ local food?",
+      "options": [
+        "try",
+        "tries",
+        "trying",
+        "tried"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_5",
+      "question": "I _____ forget my history.",
+      "options": [
+        "won't",
+        "will",
+        "am not",
+        "don't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_6",
+      "question": "'History' nghĩa là gì?",
+      "options": [
+        "Lịch sử",
+        "Địa lý",
+        "Toán học",
+        "Văn học"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_7",
+      "question": "Traditional _____.",
+      "options": [
+        "music",
+        "musically",
+        "musician",
+        "musics"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_8",
+      "question": "I'll _____ about art.",
+      "options": [
+        "learn",
+        "learning",
+        "learns",
+        "learned"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_9",
+      "question": "Around the _____.",
+      "options": [
+        "world",
+        "earth",
+        "land",
+        "city"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q28_10",
+      "question": "Respect _____ others.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "of"
       ],
       "correct": 0
     }

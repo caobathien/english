@@ -18,6 +18,14 @@
           {
             "en": "It is raining outside.",
             "vi": "Ngoài trời đang mưa."
+          },
+          {
+            "en": "The sun is shining.",
+            "vi": "Mặt trời đang chiếu sáng."
+          },
+          {
+            "en": "The wind is blowing hard.",
+            "vi": "Gió đang thổi mạnh."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
+            "en": "It is not snowing now.",
+            "vi": "Bây giờ trời không có tuyết."
+          },
+          {
             "en": "The sun is not shining today.",
             "vi": "Hôm nay mặt trời không chiếu sáng."
+          },
+          {
+            "en": "It isn't getting hot.",
+            "vi": "Trời không đang trở nên nóng."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v11_1",
-      "word": "Sunny",
-      "phonetic": "/ˈsʌn.i/",
-      "meaning": "Nắng",
-      "example": "It is sunny today.",
-      "exampleVi": "Hôm nay trời nắng."
+      "word": "Weather",
+      "phonetic": "/ˈweð.ɚ/",
+      "meaning": "Thời tiết",
+      "example": "Nice weather.",
+      "exampleVi": "Thời tiết đẹp."
     },
     {
       "id": "v11_2",
+      "word": "Sun",
+      "phonetic": "/sʌn/",
+      "meaning": "Mặt trời",
+      "example": "The sun is hot.",
+      "exampleVi": "Mặt trời nóng."
+    },
+    {
+      "id": "v11_3",
       "word": "Rain",
       "phonetic": "/reɪn/",
       "meaning": "Mưa",
-      "example": "It will rain tomorrow.",
-      "exampleVi": "Ngày mai trời sẽ mưa."
+      "example": "I like rain.",
+      "exampleVi": "Tôi thích mưa."
+    },
+    {
+      "id": "v11_4",
+      "word": "Cloud",
+      "phonetic": "/klaʊd/",
+      "meaning": "Mây",
+      "example": "A white cloud.",
+      "exampleVi": "Một đám mây trắng."
+    },
+    {
+      "id": "v11_5",
+      "word": "Snow",
+      "phonetic": "/snoʊ/",
+      "meaning": "Tuyết",
+      "example": "I love snow.",
+      "exampleVi": "Tôi yêu tuyết."
+    },
+    {
+      "id": "v11_6",
+      "word": "Wind",
+      "phonetic": "/wɪnd/",
+      "meaning": "Gió",
+      "example": "The wind is cold.",
+      "exampleVi": "Gió lạnh."
+    },
+    {
+      "id": "v11_7",
+      "word": "Hot",
+      "phonetic": "/hɑːt/",
+      "meaning": "Nóng",
+      "example": "It is hot.",
+      "exampleVi": "Trời nóng."
+    },
+    {
+      "id": "v11_8",
+      "word": "Cold",
+      "phonetic": "/koʊld/",
+      "meaning": "Lạnh",
+      "example": "It is cold.",
+      "exampleVi": "Trời lạnh."
+    },
+    {
+      "id": "v11_9",
+      "word": "Storm",
+      "phonetic": "/stɔːrm/",
+      "meaning": "Bão",
+      "example": "A big storm.",
+      "exampleVi": "Một cơn bão lớn."
+    },
+    {
+      "id": "v11_10",
+      "word": "Sky",
+      "phonetic": "/skaɪ/",
+      "meaning": "Bầu trời",
+      "example": "The sky is blue.",
+      "exampleVi": "Bầu trời màu xanh."
     }
   ],
   "listening": [
     {
       "id": "l11_1",
-      "sentence": "It is sunny today.",
-      "sentenceVi": "Hôm nay trời nắng."
+      "sentence": "What is the weather like?",
+      "sentenceVi": "Thời tiết thế nào?"
     },
     {
       "id": "l11_2",
-      "sentence": "It is raining outside.",
-      "sentenceVi": "Bên ngoài đang mưa."
+      "sentence": "It is raining very hard.",
+      "sentenceVi": "Trời đang mưa rất to."
+    },
+    {
+      "id": "l11_3",
+      "sentence": "The sun is coming out now.",
+      "sentenceVi": "Mặt trời đang ló dạng."
+    },
+    {
+      "id": "l11_4",
+      "sentence": "It is snowing in the mountains.",
+      "sentenceVi": "Tuyết đang rơi trên núi."
+    },
+    {
+      "id": "l11_5",
+      "sentence": "The wind is blowing from the north.",
+      "sentenceVi": "Gió đang thổi từ phía bắc."
+    },
+    {
+      "id": "l11_6",
+      "sentence": "There are many clouds in the sky.",
+      "sentenceVi": "Có rất nhiều mây trên bầu trời."
+    },
+    {
+      "id": "l11_7",
+      "sentence": "Is it getting hot today?",
+      "sentenceVi": "Hôm nay trời có đang trở nên nóng không?"
+    },
+    {
+      "id": "l11_8",
+      "sentence": "The storm is passing by.",
+      "sentenceVi": "Cơn bão đang đi qua."
+    },
+    {
+      "id": "l11_9",
+      "sentence": "It is getting dark and cold.",
+      "sentenceVi": "Trời đang trở nên tối và lạnh."
+    },
+    {
+      "id": "l11_10",
+      "sentence": "I love sunny weather.",
+      "sentenceVi": "Tôi yêu thời tiết nắng ráo."
     }
   ],
   "speaking": [
     {
       "id": "s11_1",
-      "sentence": "What is the weather like today?",
+      "sentence": "Is it raining?",
+      "sentenceVi": "Trời có đang mưa không?"
+    },
+    {
+      "id": "s11_2",
+      "sentence": "Yes, take an umbrella.",
+      "sentenceVi": "Có, hãy mang theo ô."
+    },
+    {
+      "id": "s11_3",
+      "sentence": "How is the weather today?",
       "sentenceVi": "Thời tiết hôm nay thế nào?"
+    },
+    {
+      "id": "s11_4",
+      "sentence": "It's sunny and hot.",
+      "sentenceVi": "Trời nắng và nóng."
+    },
+    {
+      "id": "s11_5",
+      "sentence": "Is it snowing?",
+      "sentenceVi": "Trời có đang rơi tuyết không?"
+    },
+    {
+      "id": "s11_6",
+      "sentence": "No, it's just cold.",
+      "sentenceVi": "Không, chỉ là lạnh thôi."
+    },
+    {
+      "id": "s11_7",
+      "sentence": "The wind is strong.",
+      "sentenceVi": "Gió mạnh quá."
+    },
+    {
+      "id": "s11_8",
+      "sentence": "The sky is very clear.",
+      "sentenceVi": "Bầu trời rất trong xanh."
+    },
+    {
+      "id": "s11_9",
+      "sentence": "Look at the snow!",
+      "sentenceVi": "Nhìn tuyết kìa!"
+    },
+    {
+      "id": "s11_10",
+      "sentence": "It's a beautiful day.",
+      "sentenceVi": "Đó là một ngày đẹp trời."
     }
   ],
   "writing": [
@@ -75,9 +240,81 @@
       "id": "w11_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "It is _____ today.",
-      "answer": "sunny",
-      "hint": "nắng"
+      "question": "It is _____ outside.",
+      "answer": "raining",
+      "hint": "đang mưa"
+    },
+    {
+      "id": "w11_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is shining.",
+      "answer": "sun",
+      "hint": "mặt trời"
+    },
+    {
+      "id": "w11_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is blue.",
+      "answer": "sky",
+      "hint": "bầu trời"
+    },
+    {
+      "id": "w11_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "It is _____.",
+      "answer": "hot",
+      "hint": "nóng"
+    },
+    {
+      "id": "w11_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "It is _____.",
+      "answer": "cold",
+      "hint": "lạnh"
+    },
+    {
+      "id": "w11_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A white _____.",
+      "answer": "cloud",
+      "hint": "đám mây"
+    },
+    {
+      "id": "w11_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is blowing.",
+      "answer": "wind",
+      "hint": "gió"
+    },
+    {
+      "id": "w11_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I love _____.",
+      "answer": "snow",
+      "hint": "tuyết"
+    },
+    {
+      "id": "w11_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A big _____.",
+      "answer": "storm",
+      "hint": "cơn bão"
+    },
+    {
+      "id": "w11_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Nice _____.",
+      "answer": "weather",
+      "hint": "thời tiết"
     }
   ],
   "quizzes": [
@@ -85,12 +322,111 @@
       "id": "q11_1",
       "question": "'Rain' nghĩa là gì?",
       "options": [
-        "Mưa",
         "Nắng",
+        "Mưa",
         "Gió",
-        "Tuyết"
+        "Bão"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q11_2",
+      "question": "It is _____ now.",
+      "options": [
+        "snowing",
+        "snow",
+        "snows",
+        "snowed"
       ],
       "correct": 0
+    },
+    {
+      "id": "q11_3",
+      "question": "The sun _____ shining.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q11_4",
+      "question": "The wind is _____ hard.",
+      "options": [
+        "blow",
+        "blowing",
+        "blows",
+        "blew"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q11_5",
+      "question": "Is it _____ hot?",
+      "options": [
+        "get",
+        "gets",
+        "getting",
+        "got"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q11_6",
+      "question": "The sky _____ blue.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q11_7",
+      "question": "'Cold' nghĩa là gì?",
+      "options": [
+        "Nóng",
+        "Lạnh",
+        "Ấm",
+        "Mát"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q11_8",
+      "question": "There are many _____.",
+      "options": [
+        "cloud",
+        "clouds",
+        "cloudy",
+        "clouding"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q11_9",
+      "question": "It _____ not raining.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q11_10",
+      "question": "A _____ day.",
+      "options": [
+        "sun",
+        "sunny",
+        "sunshine",
+        "sunned"
+      ],
+      "correct": 1
     }
   ],
   "conversation": [

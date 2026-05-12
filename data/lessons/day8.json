@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "She is wearing a red dress.",
-            "vi": "Cô ấy đang mặc một chiếc váy đỏ."
+            "en": "She is wearing a blue hat.",
+            "vi": "Cô ấy đang đội một chiếc mũ xanh."
+          },
+          {
+            "en": "They are talking to the teacher.",
+            "vi": "Họ đang nói chuyện với giáo viên."
+          },
+          {
+            "en": "I am looking for my friend.",
+            "vi": "Tôi đang tìm bạn của mình."
           }
         ]
       },
@@ -28,6 +36,14 @@
           {
             "en": "He is not wearing glasses.",
             "vi": "Anh ấy không đeo kính."
+          },
+          {
+            "en": "We are not watching the movie.",
+            "vi": "Chúng tôi không đang xem phim."
+          },
+          {
+            "en": "She is not feeling well.",
+            "vi": "Cô ấy cảm thấy không khỏe."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "Tall",
       "phonetic": "/tɑːl/",
       "meaning": "Cao",
-      "example": "He is tall.",
-      "exampleVi": "Anh ấy cao."
+      "example": "He is very tall.",
+      "exampleVi": "Anh ấy rất cao."
     },
     {
       "id": "v8_2",
+      "word": "Short",
+      "phonetic": "/ʃɔːrt/",
+      "meaning": "Thấp/Ngắn",
+      "example": "She is short.",
+      "exampleVi": "Cô ấy thấp."
+    },
+    {
+      "id": "v8_3",
       "word": "Beautiful",
       "phonetic": "/ˈbjuː.t̬ə.fəl/",
-      "meaning": "Xinh đẹp",
-      "example": "She is beautiful.",
-      "exampleVi": "Cô ấy xinh đẹp."
+      "meaning": "Đẹp",
+      "example": "A beautiful girl.",
+      "exampleVi": "Một cô gái đẹp."
+    },
+    {
+      "id": "v8_4",
+      "word": "Handsome",
+      "phonetic": "/ˈhæn.səm/",
+      "meaning": "Đẹp trai",
+      "example": "A handsome man.",
+      "exampleVi": "Một người đàn ông đẹp trai."
+    },
+    {
+      "id": "v8_5",
+      "word": "Kind",
+      "phonetic": "/kaɪnd/",
+      "meaning": "Tốt bụng",
+      "example": "They are kind.",
+      "exampleVi": "Họ tốt bụng."
+    },
+    {
+      "id": "v8_6",
+      "word": "Friendly",
+      "phonetic": "/ˈfrend.li/",
+      "meaning": "Thân thiện",
+      "example": "A friendly smile.",
+      "exampleVi": "Một nụ cười thân thiện."
+    },
+    {
+      "id": "v8_7",
+      "word": "Old",
+      "phonetic": "/oʊld/",
+      "meaning": "Già/Cũ",
+      "example": "An old man.",
+      "exampleVi": "Một cụ già."
+    },
+    {
+      "id": "v8_8",
+      "word": "Young",
+      "phonetic": "/jʌŋ/",
+      "meaning": "Trẻ",
+      "example": "A young boy.",
+      "exampleVi": "Một cậu bé."
+    },
+    {
+      "id": "v8_9",
+      "word": "Thin",
+      "phonetic": "/θɪn/",
+      "meaning": "Gầy",
+      "example": "He is thin.",
+      "exampleVi": "Anh ấy gầy."
+    },
+    {
+      "id": "v8_10",
+      "word": "Happy",
+      "phonetic": "/ˈhæp.i/",
+      "meaning": "Hạnh phúc",
+      "example": "They are happy.",
+      "exampleVi": "Họ hạnh phúc."
     }
   ],
   "listening": [
     {
       "id": "l8_1",
-      "sentence": "My brother is tall.",
-      "sentenceVi": "Anh trai tôi cao."
+      "sentence": "Who is that tall man?",
+      "sentenceVi": "Người đàn ông cao lớn kia là ai?"
     },
     {
       "id": "l8_2",
-      "sentence": "She has long hair.",
-      "sentenceVi": "Cô ấy có mái tóc dài."
+      "sentence": "He is my uncle.",
+      "sentenceVi": "Ông ấy là chú của tôi."
+    },
+    {
+      "id": "l8_3",
+      "sentence": "She is wearing a red dress today.",
+      "sentenceVi": "Hôm nay cô ấy đang mặc một chiếc váy đỏ."
+    },
+    {
+      "id": "l8_4",
+      "sentence": "Are they looking for someone?",
+      "sentenceVi": "Họ đang tìm ai đó phải không?"
+    },
+    {
+      "id": "l8_5",
+      "sentence": "The teacher is very kind to us.",
+      "sentenceVi": "Giáo viên rất tốt bụng với chúng tôi."
+    },
+    {
+      "id": "l8_6",
+      "sentence": "He is a handsome actor.",
+      "sentenceVi": "Anh ấy là một diễn viên đẹp trai."
+    },
+    {
+      "id": "l8_7",
+      "sentence": "My grandmother is getting old.",
+      "sentenceVi": "Bà tôi đang già đi."
+    },
+    {
+      "id": "l8_8",
+      "sentence": "They are always friendly.",
+      "sentenceVi": "Họ luôn luôn thân thiện."
+    },
+    {
+      "id": "l8_9",
+      "sentence": "Why is she feeling sad?",
+      "sentenceVi": "Tại sao cô ấy lại cảm thấy buồn?"
+    },
+    {
+      "id": "l8_10",
+      "sentence": "He is not wearing a coat.",
+      "sentenceVi": "Anh ấy không mặc áo khoác."
     }
   ],
   "speaking": [
     {
       "id": "s8_1",
-      "sentence": "What does she look like?",
-      "sentenceVi": "Cô ấy trông như thế nào?"
+      "sentence": "Describe your best friend.",
+      "sentenceVi": "Hãy mô tả người bạn thân nhất của bạn."
+    },
+    {
+      "id": "s8_2",
+      "sentence": "She is tall and beautiful.",
+      "sentenceVi": "Cô ấy cao và xinh đẹp."
+    },
+    {
+      "id": "s8_3",
+      "sentence": "Is he wearing a hat?",
+      "sentenceVi": "Anh ấy có đang đội mũ không?"
+    },
+    {
+      "id": "s8_4",
+      "sentence": "No, he isn't.",
+      "sentenceVi": "Không, anh ấy không."
+    },
+    {
+      "id": "s8_5",
+      "sentence": "They are laughing.",
+      "sentenceVi": "Họ đang cười."
+    },
+    {
+      "id": "s8_6",
+      "sentence": "What are you doing?",
+      "sentenceVi": "Bạn đang làm gì thế?"
+    },
+    {
+      "id": "s8_7",
+      "sentence": "I am writing a letter.",
+      "sentenceVi": "Tôi đang viết một bức thư."
+    },
+    {
+      "id": "s8_8",
+      "sentence": "She is a young teacher.",
+      "sentenceVi": "Cô ấy là một giáo viên trẻ."
+    },
+    {
+      "id": "s8_9",
+      "sentence": "They look very happy.",
+      "sentenceVi": "Họ trông rất hạnh phúc."
+    },
+    {
+      "id": "s8_10",
+      "sentence": "He is a kind person.",
+      "sentenceVi": "Anh ấy là một người tốt bụng."
     }
   ],
   "writing": [
@@ -75,9 +240,81 @@
       "id": "w8_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
+      "question": "She is _____ a red hat.",
+      "answer": "wearing",
+      "hint": "đang đội/mặc"
+    },
+    {
+      "id": "w8_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
       "question": "He is very _____.",
       "answer": "tall",
       "hint": "cao"
+    },
+    {
+      "id": "w8_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They are _____.",
+      "answer": "happy",
+      "hint": "hạnh phúc"
+    },
+    {
+      "id": "w8_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A _____ girl.",
+      "answer": "beautiful",
+      "hint": "xinh đẹp"
+    },
+    {
+      "id": "w8_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A _____ man.",
+      "answer": "handsome",
+      "hint": "đẹp trai"
+    },
+    {
+      "id": "w8_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is _____.",
+      "answer": "thin",
+      "hint": "gầy"
+    },
+    {
+      "id": "w8_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They are _____ people.",
+      "answer": "kind",
+      "hint": "tốt bụng"
+    },
+    {
+      "id": "w8_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A _____ boy.",
+      "answer": "young",
+      "hint": "trẻ"
+    },
+    {
+      "id": "w8_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is _____.",
+      "answer": "short",
+      "hint": "thấp"
+    },
+    {
+      "id": "w8_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We are _____ the movie.",
+      "answer": "watching",
+      "hint": "đang xem"
     }
   ],
   "quizzes": [
@@ -85,12 +322,111 @@
       "id": "q8_1",
       "question": "'Beautiful' nghĩa là gì?",
       "options": [
-        "Xinh đẹp",
-        "Xấu xí",
-        "Thấp",
-        "Mập"
+        "Xấu",
+        "Đẹp",
+        "Cao",
+        "Thấp"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q8_2",
+      "question": "She _____ wearing a hat.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
       ],
       "correct": 0
+    },
+    {
+      "id": "q8_3",
+      "question": "They _____ not laughing.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q8_4",
+      "question": "What _____ you doing?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q8_5",
+      "question": "He is a _____ man.",
+      "options": [
+        "handsome",
+        "beautiful",
+        "thinly",
+        "happily"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q8_6",
+      "question": "I am _____ for my key.",
+      "options": [
+        "look",
+        "looking",
+        "looks",
+        "looked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q8_7",
+      "question": "'Tall' nghĩa là gì?",
+      "options": [
+        "Cao",
+        "Thấp",
+        "Gầy",
+        "Béo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q8_8",
+      "question": "Are they _____?",
+      "options": [
+        "friendly",
+        "friend",
+        "friends",
+        "friendship"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q8_9",
+      "question": "She is _____ well.",
+      "options": [
+        "not feeling",
+        "feeling not",
+        "don't feel",
+        "doesn't feel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q8_10",
+      "question": "A _____ woman.",
+      "options": [
+        "old",
+        "young",
+        "new",
+        "thin"
+      ],
+      "correct": 1
     }
   ],
   "conversation": [

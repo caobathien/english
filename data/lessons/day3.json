@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "I wake up at 6 AM.",
-            "vi": "Tôi thức dậy lúc 6 giờ sáng."
+            "en": "I wake up at 6.",
+            "vi": "Tôi thức dậy lúc 6 giờ."
+          },
+          {
+            "en": "She eats breakfast.",
+            "vi": "Cô ấy ăn sáng."
+          },
+          {
+            "en": "We go to work.",
+            "vi": "Chúng tôi đi làm."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "He doesn't eat breakfast.",
-            "vi": "Anh ấy không ăn sáng."
+            "en": "I don't sleep late.",
+            "vi": "Tôi không ngủ muộn."
+          },
+          {
+            "en": "He doesn't watch TV.",
+            "vi": "Anh ấy không xem tivi."
+          },
+          {
+            "en": "They don't cook dinner.",
+            "vi": "Họ không nấu bữa tối."
           }
         ]
       }
@@ -39,8 +55,8 @@
       "word": "Wake up",
       "phonetic": "/weɪk ʌp/",
       "meaning": "Thức dậy",
-      "example": "I wake up at 6 AM.",
-      "exampleVi": "Tôi thức dậy lúc 6 giờ sáng."
+      "example": "I wake up at 7.",
+      "exampleVi": "Tôi thức dậy lúc 7 giờ."
     },
     {
       "id": "v3_2",
@@ -49,18 +65,122 @@
       "meaning": "Bữa sáng",
       "example": "I have breakfast.",
       "exampleVi": "Tôi ăn sáng."
+    },
+    {
+      "id": "v3_3",
+      "word": "Brush",
+      "phonetic": "/brʌʃ/",
+      "meaning": "Đánh (răng)",
+      "example": "I brush my teeth.",
+      "exampleVi": "Tôi đánh răng."
+    },
+    {
+      "id": "v3_4",
+      "word": "Wash",
+      "phonetic": "/wɑːʃ/",
+      "meaning": "Rửa",
+      "example": "Wash your face.",
+      "exampleVi": "Rửa mặt."
+    },
+    {
+      "id": "v3_5",
+      "word": "Work",
+      "phonetic": "/wɝːk/",
+      "meaning": "Làm việc",
+      "example": "I go to work.",
+      "exampleVi": "Tôi đi làm."
+    },
+    {
+      "id": "v3_6",
+      "word": "Lunch",
+      "phonetic": "/lʌntʃ/",
+      "meaning": "Bữa trưa",
+      "example": "I eat lunch at 12.",
+      "exampleVi": "Tôi ăn trưa lúc 12 giờ."
+    },
+    {
+      "id": "v3_7",
+      "word": "Shower",
+      "phonetic": "/ˈʃaʊ.ɚ/",
+      "meaning": "Tắm",
+      "example": "I take a shower.",
+      "exampleVi": "Tôi đi tắm."
+    },
+    {
+      "id": "v3_8",
+      "word": "Dinner",
+      "phonetic": "/ˈdɪn.ɚ/",
+      "meaning": "Bữa tối",
+      "example": "I eat dinner.",
+      "exampleVi": "Tôi ăn tối."
+    },
+    {
+      "id": "v3_9",
+      "word": "Bed",
+      "phonetic": "/bed/",
+      "meaning": "Giường/Đi ngủ",
+      "example": "I go to bed.",
+      "exampleVi": "Tôi đi ngủ."
+    },
+    {
+      "id": "v3_10",
+      "word": "Exercise",
+      "phonetic": "/ˈek.sɚ.saɪz/",
+      "meaning": "Tập thể dục",
+      "example": "I exercise.",
+      "exampleVi": "Tôi tập thể dục."
     }
   ],
   "listening": [
     {
       "id": "l3_1",
-      "sentence": "I wake up early.",
-      "sentenceVi": "Tôi thức dậy sớm."
+      "sentence": "I wake up at 6 every morning.",
+      "sentenceVi": "Tôi thức dậy lúc 6 giờ mỗi sáng."
     },
     {
       "id": "l3_2",
-      "sentence": "She has breakfast.",
-      "sentenceVi": "Cô ấy ăn sáng."
+      "sentence": "First, I brush my teeth.",
+      "sentenceVi": "Đầu tiên, tôi đánh răng."
+    },
+    {
+      "id": "l3_3",
+      "sentence": "Then I wash my face.",
+      "sentenceVi": "Sau đó tôi rửa mặt."
+    },
+    {
+      "id": "l3_4",
+      "sentence": "I have breakfast with coffee.",
+      "sentenceVi": "Tôi ăn sáng với cà phê."
+    },
+    {
+      "id": "l3_5",
+      "sentence": "I go to work at 8 AM.",
+      "sentenceVi": "Tôi đi làm lúc 8 giờ sáng."
+    },
+    {
+      "id": "l3_6",
+      "sentence": "I have lunch at a restaurant.",
+      "sentenceVi": "Tôi ăn trưa ở một nhà hàng."
+    },
+    {
+      "id": "l3_7",
+      "sentence": "I finish work at 5 PM.",
+      "sentenceVi": "Tôi kết thúc công việc lúc 5 giờ chiều."
+    },
+    {
+      "id": "l3_8",
+      "sentence": "I take a shower in the evening.",
+      "sentenceVi": "Tôi đi tắm vào buổi tối."
+    },
+    {
+      "id": "l3_9",
+      "sentence": "I eat dinner with my family.",
+      "sentenceVi": "Tôi ăn tối cùng gia đình."
+    },
+    {
+      "id": "l3_10",
+      "sentence": "I go to bed at 10 PM.",
+      "sentenceVi": "Tôi đi ngủ lúc 10 giờ tối."
     }
   ],
   "speaking": [
@@ -68,6 +188,51 @@
       "id": "s3_1",
       "sentence": "What time do you wake up?",
       "sentenceVi": "Bạn thức dậy lúc mấy giờ?"
+    },
+    {
+      "id": "s3_2",
+      "sentence": "I wake up at 7.",
+      "sentenceVi": "Tôi thức dậy lúc 7 giờ."
+    },
+    {
+      "id": "s3_3",
+      "sentence": "Do you eat breakfast?",
+      "sentenceVi": "Bạn có ăn sáng không?"
+    },
+    {
+      "id": "s3_4",
+      "sentence": "Yes, I eat bread.",
+      "sentenceVi": "Vâng, tôi ăn bánh mì."
+    },
+    {
+      "id": "s3_5",
+      "sentence": "How do you go to work?",
+      "sentenceVi": "Bạn đi làm bằng gì?"
+    },
+    {
+      "id": "s3_6",
+      "sentence": "I go by motorbike.",
+      "sentenceVi": "Tôi đi bằng xe máy."
+    },
+    {
+      "id": "s3_7",
+      "sentence": "When do you have lunch?",
+      "sentenceVi": "Khi nào bạn ăn trưa?"
+    },
+    {
+      "id": "s3_8",
+      "sentence": "At 12 o'clock.",
+      "sentenceVi": "Lúc 12 giờ."
+    },
+    {
+      "id": "s3_9",
+      "sentence": "Do you watch TV?",
+      "sentenceVi": "Bạn có xem tivi không?"
+    },
+    {
+      "id": "s3_10",
+      "sentence": "Yes, for one hour.",
+      "sentenceVi": "Vâng, trong một tiếng."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w3_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I _____ up at 6 AM.",
+      "question": "I _____ up at 6.",
       "answer": "wake",
-      "hint": "thức (dậy)"
+      "hint": "thức dậy"
+    },
+    {
+      "id": "w3_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ my teeth.",
+      "answer": "brush",
+      "hint": "đánh (răng)"
+    },
+    {
+      "id": "w3_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I have _____ at 8.",
+      "answer": "breakfast",
+      "hint": "bữa sáng"
+    },
+    {
+      "id": "w3_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I go to _____.",
+      "answer": "work",
+      "hint": "làm việc"
+    },
+    {
+      "id": "w3_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I eat _____ at 12.",
+      "answer": "lunch",
+      "hint": "bữa trưa"
+    },
+    {
+      "id": "w3_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ a shower.",
+      "answer": "take",
+      "hint": "tắm (dùng take a...)"
+    },
+    {
+      "id": "w3_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I eat _____ at 7 PM.",
+      "answer": "dinner",
+      "hint": "bữa tối"
+    },
+    {
+      "id": "w3_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I go to _____ at 10.",
+      "answer": "bed",
+      "hint": "đi ngủ"
+    },
+    {
+      "id": "w3_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ every morning.",
+      "answer": "exercise",
+      "hint": "tập thể dục"
+    },
+    {
+      "id": "w3_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ my face.",
+      "answer": "wash",
+      "hint": "rửa"
     }
   ],
   "quizzes": [
     {
       "id": "q3_1",
-      "question": "'Wake up' nghĩa là gì?",
+      "question": "'Breakfast' là bữa gì?",
       "options": [
-        "Thức dậy",
-        "Đi ngủ",
-        "Ăn sáng",
-        "Tắm"
+        "Sáng",
+        "Trưa",
+        "Chiều",
+        "Tối"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_2",
+      "question": "I _____ up at 7.",
+      "options": [
+        "wake",
+        "wakes",
+        "waking",
+        "waked"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_3",
+      "question": "She _____ her teeth.",
+      "options": [
+        "brush",
+        "brushes",
+        "brushing",
+        "brushed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q3_4",
+      "question": "They _____ eat dinner at home.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_5",
+      "question": "What time _____ you go to bed?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_6",
+      "question": "He _____ lunch at 12.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_7",
+      "question": "'Work' nghĩa là gì?",
+      "options": [
+        "Làm việc",
+        "Nghỉ ngơi",
+        "Học",
+        "Chơi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_8",
+      "question": "I _____ a shower.",
+      "options": [
+        "do",
+        "make",
+        "take",
+        "get"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q3_9",
+      "question": "Do you _____?",
+      "options": [
+        "exercise",
+        "exercises",
+        "exercising",
+        "exercised"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q3_10",
+      "question": "I _____ TV at night.",
+      "options": [
+        "watch",
+        "watches",
+        "watching",
+        "watched"
       ],
       "correct": 0
     }

@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "They are building a new hospital.",
-            "vi": "Họ đang xây một bệnh viện mới."
+            "en": "The city is growing fast.",
+            "vi": "Thành phố đang phát triển nhanh chóng."
+          },
+          {
+            "en": "They are building a new bridge.",
+            "vi": "Họ đang xây dựng một cây cầu mới."
+          },
+          {
+            "en": "It is getting dark.",
+            "vi": "Trời đang tối dần."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
-            "en": "The city is not getting smaller.",
-            "vi": "Thành phố không đang nhỏ lại."
+            "en": "The park is not opening today.",
+            "vi": "Công viên không mở cửa hôm nay."
+          },
+          {
+            "en": "We are not staying in a city.",
+            "vi": "Chúng tôi không ở trong thành phố."
+          },
+          {
+            "en": "It isn't raining now.",
+            "vi": "Bây giờ trời không mưa."
           }
         ]
       }
@@ -37,30 +53,134 @@
     {
       "id": "v9_1",
       "word": "City",
-      "phonetic": "/ˈsɪt̬.i/",
+      "phonetic": "/ˈsɪt.i/",
       "meaning": "Thành phố",
-      "example": "I live in a city.",
-      "exampleVi": "Tôi sống ở thành phố."
+      "example": "A big city.",
+      "exampleVi": "Một thành phố lớn."
     },
     {
       "id": "v9_2",
-      "word": "Quiet",
-      "phonetic": "/ˈkwaɪ.ət/",
-      "meaning": "Yên tĩnh",
-      "example": "This place is quiet.",
-      "exampleVi": "Nơi này yên tĩnh."
+      "word": "Park",
+      "phonetic": "/pɑːrk/",
+      "meaning": "Công viên",
+      "example": "I go to the park.",
+      "exampleVi": "Tôi đi công viên."
+    },
+    {
+      "id": "v9_3",
+      "word": "Bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "Cây cầu",
+      "example": "A long bridge.",
+      "exampleVi": "Một cây cầu dài."
+    },
+    {
+      "id": "v9_4",
+      "word": "Mountain",
+      "phonetic": "/ˈmaʊn.tən/",
+      "meaning": "Núi",
+      "example": "A high mountain.",
+      "exampleVi": "Một ngọn núi cao."
+    },
+    {
+      "id": "v9_5",
+      "word": "River",
+      "phonetic": "/ˈrɪv.ɚ/",
+      "meaning": "Con sông",
+      "example": "A wide river.",
+      "exampleVi": "Một con sông rộng."
+    },
+    {
+      "id": "v9_6",
+      "word": "Building",
+      "phonetic": "/ˈbɪl.dɪŋ/",
+      "meaning": "Tòa nhà",
+      "example": "A tall building.",
+      "exampleVi": "Một tòa nhà cao tầng."
+    },
+    {
+      "id": "v9_7",
+      "word": "Street",
+      "phonetic": "/striːt/",
+      "meaning": "Con phố",
+      "example": "A busy street.",
+      "exampleVi": "Một con phố nhộn nhịp."
+    },
+    {
+      "id": "v9_8",
+      "word": "Village",
+      "phonetic": "/ˈvɪl.ɪdʒ/",
+      "meaning": "Ngôi làng",
+      "example": "A quiet village.",
+      "exampleVi": "Một ngôi làng yên tĩnh."
+    },
+    {
+      "id": "v9_9",
+      "word": "Beach",
+      "phonetic": "/biːtʃ/",
+      "meaning": "Bãi biển",
+      "example": "I like the beach.",
+      "exampleVi": "Tôi thích bãi biển."
+    },
+    {
+      "id": "v9_10",
+      "word": "Museum",
+      "phonetic": "/mjuːˈziː.əm/",
+      "meaning": "Bảo tàng",
+      "example": "Visit the museum.",
+      "exampleVi": "Tham quan bảo tàng."
     }
   ],
   "listening": [
     {
       "id": "l9_1",
-      "sentence": "My city is very big.",
-      "sentenceVi": "Thành phố của tôi rất lớn."
+      "sentence": "This city is very modern.",
+      "sentenceVi": "Thành phố này rất hiện đại."
     },
     {
       "id": "l9_2",
-      "sentence": "It is a quiet town.",
-      "sentenceVi": "Đó là một thị trấn yên tĩnh."
+      "sentence": "They are planting trees in the park.",
+      "sentenceVi": "Họ đang trồng cây trong công viên."
+    },
+    {
+      "id": "l9_3",
+      "sentence": "The river is flowing slowly.",
+      "sentenceVi": "Con sông đang chảy chậm chạp."
+    },
+    {
+      "id": "l9_4",
+      "sentence": "Look at that tall building!",
+      "sentenceVi": "Nhìn tòa nhà cao tầng kia kìa!"
+    },
+    {
+      "id": "l9_5",
+      "sentence": "The streets are very busy now.",
+      "sentenceVi": "Các con phố hiện đang rất nhộn nhịp."
+    },
+    {
+      "id": "l9_6",
+      "sentence": "We are walking along the beach.",
+      "sentenceVi": "Chúng tôi đang đi bộ dọc theo bãi biển."
+    },
+    {
+      "id": "l9_7",
+      "sentence": "Is the museum open today?",
+      "sentenceVi": "Bảo tàng có mở cửa hôm nay không?"
+    },
+    {
+      "id": "l9_8",
+      "sentence": "They are repairing the bridge.",
+      "sentenceVi": "Họ đang sửa chữa cây cầu."
+    },
+    {
+      "id": "l9_9",
+      "sentence": "The village is very quiet.",
+      "sentenceVi": "Ngôi làng rất yên tĩnh."
+    },
+    {
+      "id": "l9_10",
+      "sentence": "It is getting very cold on the mountain.",
+      "sentenceVi": "Trên núi trời đang trở nên rất lạnh."
     }
   ],
   "speaking": [
@@ -68,6 +188,51 @@
       "id": "s9_1",
       "sentence": "Where do you live?",
       "sentenceVi": "Bạn sống ở đâu?"
+    },
+    {
+      "id": "s9_2",
+      "sentence": "I live in a small village.",
+      "sentenceVi": "Tôi sống ở một ngôi làng nhỏ."
+    },
+    {
+      "id": "s9_3",
+      "sentence": "What is it like?",
+      "sentenceVi": "Nó như thế nào?"
+    },
+    {
+      "id": "s9_4",
+      "sentence": "It's peaceful.",
+      "sentenceVi": "Nó rất thanh bình."
+    },
+    {
+      "id": "s9_5",
+      "sentence": "Is there a river?",
+      "sentenceVi": "Có con sông nào không?"
+    },
+    {
+      "id": "s9_6",
+      "sentence": "Yes, it's near my house.",
+      "sentenceVi": "Có, nó ở gần nhà tôi."
+    },
+    {
+      "id": "s9_7",
+      "sentence": "They are building a mall.",
+      "sentenceVi": "Họ đang xây một trung tâm thương mại."
+    },
+    {
+      "id": "s9_8",
+      "sentence": "The city is changing.",
+      "sentenceVi": "Thành phố đang thay đổi."
+    },
+    {
+      "id": "s9_9",
+      "sentence": "I love the beach.",
+      "sentenceVi": "Tôi yêu bãi biển."
+    },
+    {
+      "id": "s9_10",
+      "sentence": "Let's go to the park.",
+      "sentenceVi": "Chúng ta hãy đi ra công viên nào."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w9_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I live in a big _____.",
-      "answer": "city",
-      "hint": "thành phố"
+      "question": "The city is _____ fast.",
+      "answer": "growing",
+      "hint": "đang phát triển"
+    },
+    {
+      "id": "w9_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A tall _____.",
+      "answer": "building",
+      "hint": "tòa nhà"
+    },
+    {
+      "id": "w9_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A busy _____.",
+      "answer": "street",
+      "hint": "con phố"
+    },
+    {
+      "id": "w9_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They are _____ a bridge.",
+      "answer": "building",
+      "hint": "đang xây"
+    },
+    {
+      "id": "w9_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like the _____.",
+      "answer": "beach",
+      "hint": "bãi biển"
+    },
+    {
+      "id": "w9_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A quiet _____.",
+      "answer": "village",
+      "hint": "ngôi làng"
+    },
+    {
+      "id": "w9_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A high _____.",
+      "answer": "mountain",
+      "hint": "ngọn núi"
+    },
+    {
+      "id": "w9_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "park",
+      "hint": "công viên"
+    },
+    {
+      "id": "w9_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A wide _____.",
+      "answer": "river",
+      "hint": "con sông"
+    },
+    {
+      "id": "w9_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Visit the _____.",
+      "answer": "museum",
+      "hint": "bảo tàng"
     }
   ],
   "quizzes": [
     {
       "id": "q9_1",
-      "question": "'Quiet' nghĩa là gì?",
+      "question": "'Mountain' nghĩa là gì?",
       "options": [
-        "Yên tĩnh",
-        "Ồn ào",
-        "Đông đúc",
-        "Lớn"
+        "Sông",
+        "Núi",
+        "Biển",
+        "Hồ"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q9_2",
+      "question": "The city _____ changing.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q9_3",
+      "question": "They are _____ a mall.",
+      "options": [
+        "build",
+        "building",
+        "builds",
+        "built"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q9_4",
+      "question": "It is _____ dark.",
+      "options": [
+        "get",
+        "gets",
+        "getting",
+        "got"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q9_5",
+      "question": "A _____ street.",
+      "options": [
+        "busy",
+        "busily",
+        "business",
+        "busier"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q9_6",
+      "question": "Are they _____ in the park?",
+      "options": [
+        "walk",
+        "walking",
+        "walks",
+        "walked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q9_7",
+      "question": "'Bridge' nghĩa là gì?",
+      "options": [
+        "Cây cầu",
+        "Con đường",
+        "Tòa nhà",
+        "Cái cổng"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q9_8",
+      "question": "The village _____ very quiet.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q9_9",
+      "question": "We _____ not staying here.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q9_10",
+      "question": "Look _____ that building!",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
       ],
       "correct": 0
     }

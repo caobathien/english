@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "We are traveling to Paris.",
-            "vi": "Chúng tôi đang đi du lịch đến Paris."
+            "en": "I am traveling to France.",
+            "vi": "Tôi đang đi du lịch đến Pháp."
+          },
+          {
+            "en": "She is packing her suitcase.",
+            "vi": "Cô ấy đang đóng gói hành lý."
+          },
+          {
+            "en": "We are staying at a hotel.",
+            "vi": "Chúng tôi đang ở tại một khách sạn."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
-            "en": "I am not staying in a hotel.",
-            "vi": "Tôi không đang ở khách sạn."
+            "en": "He is not flying today.",
+            "vi": "Anh ấy không bay hôm nay."
+          },
+          {
+            "en": "They are not taking a bus.",
+            "vi": "Họ không đi xe buýt."
+          },
+          {
+            "en": "I am not going abroad.",
+            "vi": "Tôi không đi nước ngoài."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "Travel",
       "phonetic": "/ˈtræv.əl/",
       "meaning": "Du lịch",
-      "example": "I like to travel.",
-      "exampleVi": "Tôi thích đi du lịch."
+      "example": "I love travel.",
+      "exampleVi": "Tôi yêu du lịch."
     },
     {
       "id": "v10_2",
+      "word": "Holiday",
+      "phonetic": "/ˈhɑː.lə.deɪ/",
+      "meaning": "Ngày lễ/Kỳ nghỉ",
+      "example": "A long holiday.",
+      "exampleVi": "Một kỳ nghỉ dài."
+    },
+    {
+      "id": "v10_3",
+      "word": "Suitcase",
+      "phonetic": "/ˈsuːt.keɪs/",
+      "meaning": "Vali",
+      "example": "Pack your suitcase.",
+      "exampleVi": "Hãy đóng gói vali của bạn."
+    },
+    {
+      "id": "v10_4",
+      "word": "Ticket",
+      "phonetic": "/ˈtɪk.ɪt/",
+      "meaning": "Vé",
+      "example": "Buy a ticket.",
+      "exampleVi": "Mua một chiếc vé."
+    },
+    {
+      "id": "v10_5",
+      "word": "Passport",
+      "phonetic": "/ˈpæs.pɔːrt/",
+      "meaning": "Hộ chiếu",
+      "example": "Show your passport.",
+      "exampleVi": "Cho xem hộ chiếu của bạn."
+    },
+    {
+      "id": "v10_6",
+      "word": "Hotel",
+      "phonetic": "/hoʊˈtel/",
+      "meaning": "Khách sạn",
+      "example": "Stay at a hotel.",
+      "exampleVi": "Ở tại khách sạn."
+    },
+    {
+      "id": "v10_7",
+      "word": "Airport",
+      "phonetic": "/ˈer.pɔːrt/",
+      "meaning": "Sân bay",
+      "example": "Go to the airport.",
+      "exampleVi": "Đi đến sân bay."
+    },
+    {
+      "id": "v10_8",
       "word": "Beach",
       "phonetic": "/biːtʃ/",
       "meaning": "Bãi biển",
-      "example": "We go to the beach.",
-      "exampleVi": "Chúng tôi đi đến bãi biển."
+      "example": "I like the beach.",
+      "exampleVi": "Tôi thích bãi biển."
+    },
+    {
+      "id": "v10_9",
+      "word": "Tour",
+      "phonetic": "/tʊr/",
+      "meaning": "Chuyến tham quan",
+      "example": "A city tour.",
+      "exampleVi": "Một chuyến tham quan thành phố."
+    },
+    {
+      "id": "v10_10",
+      "word": "Flight",
+      "phonetic": "/flaɪt/",
+      "meaning": "Chuyến bay",
+      "example": "The flight is late.",
+      "exampleVi": "Chuyến bay bị trễ."
     }
   ],
   "listening": [
     {
       "id": "l10_1",
-      "sentence": "I want to travel the world.",
-      "sentenceVi": "Tôi muốn đi du lịch vòng quanh thế giới."
+      "sentence": "We are going on holiday next week.",
+      "sentenceVi": "Chúng tôi sẽ đi nghỉ vào tuần tới."
     },
     {
       "id": "l10_2",
-      "sentence": "They are going to the beach.",
-      "sentenceVi": "Họ đang đi đến bãi biển."
+      "sentence": "I am looking for my passport.",
+      "sentenceVi": "Tôi đang tìm hộ chiếu của mình."
+    },
+    {
+      "id": "l10_3",
+      "sentence": "She is booking a hotel room.",
+      "sentenceVi": "Cô ấy đang đặt phòng khách sạn."
+    },
+    {
+      "id": "l10_4",
+      "sentence": "The airport is very crowded today.",
+      "sentenceVi": "Sân bay hôm nay rất đông đúc."
+    },
+    {
+      "id": "l10_5",
+      "sentence": "Are you taking a flight to Paris?",
+      "sentenceVi": "Bạn có đang đi chuyến bay đến Paris không?"
+    },
+    {
+      "id": "l10_6",
+      "sentence": "We are staying near the beach.",
+      "sentenceVi": "Chúng tôi đang ở gần bãi biển."
+    },
+    {
+      "id": "l10_7",
+      "sentence": "Don't forget your suitcase!",
+      "sentenceVi": "Đừng quên vali của bạn!"
+    },
+    {
+      "id": "l10_8",
+      "sentence": "They are having a great time.",
+      "sentenceVi": "Họ đang có một khoảng thời gian tuyệt vời."
+    },
+    {
+      "id": "l10_9",
+      "sentence": "I am buying a train ticket.",
+      "sentenceVi": "Tôi đang mua một chiếc vé tàu."
+    },
+    {
+      "id": "l10_10",
+      "sentence": "The tour starts at 9 AM.",
+      "sentenceVi": "Chuyến tham quan bắt đầu lúc 9 giờ sáng."
     }
   ],
   "speaking": [
     {
       "id": "s10_1",
-      "sentence": "Where did you go on holiday?",
-      "sentenceVi": "Bạn đã đi đâu vào kỳ nghỉ?"
+      "sentence": "Where are you going for your holiday?",
+      "sentenceVi": "Bạn sẽ đi đâu vào kỳ nghỉ?"
+    },
+    {
+      "id": "s10_2",
+      "sentence": "I am going to Thailand.",
+      "sentenceVi": "Tôi đang đi đến Thái Lan."
+    },
+    {
+      "id": "s10_3",
+      "sentence": "Are you traveling alone?",
+      "sentenceVi": "Bạn đi du lịch một mình à?"
+    },
+    {
+      "id": "s10_4",
+      "sentence": "No, with my family.",
+      "sentenceVi": "Không, cùng với gia đình."
+    },
+    {
+      "id": "s10_5",
+      "sentence": "What are you packing?",
+      "sentenceVi": "Bạn đang đóng gói gì thế?"
+    },
+    {
+      "id": "s10_6",
+      "sentence": "Just some clothes.",
+      "sentenceVi": "Chỉ là một ít quần áo."
+    },
+    {
+      "id": "s10_7",
+      "sentence": "Have a safe flight!",
+      "sentenceVi": "Chúc một chuyến bay an toàn!"
+    },
+    {
+      "id": "s10_8",
+      "sentence": "Thank you very much.",
+      "sentenceVi": "Cảm ơn bạn rất nhiều."
+    },
+    {
+      "id": "s10_9",
+      "sentence": "Is the hotel expensive?",
+      "sentenceVi": "Khách sạn có đắt không?"
+    },
+    {
+      "id": "s10_10",
+      "sentence": "It's quite cheap.",
+      "sentenceVi": "Nó khá rẻ."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w10_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "We go to the _____.",
+      "question": "I am _____ to Paris.",
+      "answer": "traveling",
+      "hint": "đang đi du lịch"
+    },
+    {
+      "id": "w10_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Show your _____.",
+      "answer": "passport",
+      "hint": "hộ chiếu"
+    },
+    {
+      "id": "w10_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Pack your _____.",
+      "answer": "suitcase",
+      "hint": "vali"
+    },
+    {
+      "id": "w10_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Stay at a _____.",
+      "answer": "hotel",
+      "hint": "khách sạn"
+    },
+    {
+      "id": "w10_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "airport",
+      "hint": "sân bay"
+    },
+    {
+      "id": "w10_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Buy a _____.",
+      "answer": "ticket",
+      "hint": "vé"
+    },
+    {
+      "id": "w10_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A city _____.",
+      "answer": "tour",
+      "hint": "chuyến tham quan"
+    },
+    {
+      "id": "w10_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is late.",
+      "answer": "flight",
+      "hint": "chuyến bay"
+    },
+    {
+      "id": "w10_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I love the _____.",
       "answer": "beach",
       "hint": "bãi biển"
+    },
+    {
+      "id": "w10_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A long _____.",
+      "answer": "holiday",
+      "hint": "kỳ nghỉ"
     }
   ],
   "quizzes": [
     {
       "id": "q10_1",
-      "question": "'Travel' nghĩa là gì?",
+      "question": "'Passport' nghĩa là gì?",
       "options": [
-        "Du lịch",
-        "Làm việc",
-        "Nghỉ ngơi",
-        "Học tập"
+        "Hộ chiếu",
+        "Chứng minh thư",
+        "Bằng lái",
+        "Vé"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q10_2",
+      "question": "She _____ traveling to Japan.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q10_3",
+      "question": "They are _____ at a hotel.",
+      "options": [
+        "stay",
+        "staying",
+        "stays",
+        "stayed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q10_4",
+      "question": "Are you _____ your suitcase?",
+      "options": [
+        "pack",
+        "packing",
+        "packs",
+        "packed"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q10_5",
+      "question": "I am _____ buying a ticket.",
+      "options": [
+        "not",
+        "no",
+        "don't",
+        "doesn't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q10_6",
+      "question": "Go _____ the airport.",
+      "options": [
+        "to",
+        "at",
+        "in",
+        "on"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q10_7",
+      "question": "'Flight' nghĩa là gì?",
+      "options": [
+        "Chuyến bay",
+        "Chuyến xe",
+        "Chuyến tàu",
+        "Chuyến đi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q10_8",
+      "question": "Where _____ they traveling?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q10_9",
+      "question": "We _____ having fun.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q10_10",
+      "question": "A _____ ticket.",
+      "options": [
+        "train",
+        "training",
+        "trains",
+        "trained"
       ],
       "correct": 0
     }

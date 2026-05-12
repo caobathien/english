@@ -16,8 +16,16 @@
         "formula": "Present / Past / Future",
         "examples": [
           {
-            "en": "I learn English every day. Yesterday I learned vocabulary. Tomorrow I will practice speaking.",
-            "vi": "Tôi học tiếng Anh mỗi ngày. Hôm qua tôi đã học từ vựng. Ngày mai tôi sẽ luyện nói."
+            "en": "I can speak English now.",
+            "vi": "Bây giờ tôi có thể nói tiếng Anh."
+          },
+          {
+            "en": "I will study more next month.",
+            "vi": "Tôi sẽ học nhiều hơn vào tháng tới."
+          },
+          {
+            "en": "We finished the course.",
+            "vi": "Chúng ta đã hoàn thành khóa học."
           }
         ]
       }
@@ -26,38 +34,187 @@
   "vocabulary": [
     {
       "id": "v30_1",
-      "word": "Improve",
-      "phonetic": "/ɪmˈpruːv/",
-      "meaning": "Cải thiện",
-      "example": "I want to improve my English.",
-      "exampleVi": "Tôi muốn cải thiện tiếng Anh."
+      "word": "Finish",
+      "phonetic": "/ˈfɪn.ɪʃ/",
+      "meaning": "Hoàn thành",
+      "example": "Finish the task.",
+      "exampleVi": "Hoàn thành nhiệm vụ."
     },
     {
       "id": "v30_2",
-      "word": "Confident",
-      "phonetic": "/ˈkɑːn.fə.dənt/",
-      "meaning": "Tự tin",
-      "example": "I feel more confident now.",
-      "exampleVi": "Bây giờ tôi cảm thấy tự tin hơn."
+      "word": "Course",
+      "phonetic": "/kɔːrs/",
+      "meaning": "Khóa học",
+      "example": "An English course.",
+      "exampleVi": "Một khóa học tiếng Anh."
+    },
+    {
+      "id": "v30_3",
+      "word": "Speak",
+      "phonetic": "/spiːk/",
+      "meaning": "Nói",
+      "example": "Speak slowly.",
+      "exampleVi": "Nói chậm thôi."
+    },
+    {
+      "id": "v30_4",
+      "word": "Write",
+      "phonetic": "/raɪt/",
+      "meaning": "Viết",
+      "example": "Write a story.",
+      "exampleVi": "Viết một câu chuyện."
+    },
+    {
+      "id": "v30_5",
+      "word": "Read",
+      "phonetic": "/riːd/",
+      "meaning": "Đọc",
+      "example": "Read a news.",
+      "exampleVi": "Đọc tin tức."
+    },
+    {
+      "id": "v30_6",
+      "word": "Listen",
+      "phonetic": "/ˈlɪs.ən/",
+      "meaning": "Nghe",
+      "example": "Listen carefully.",
+      "exampleVi": "Lắng nghe cẩn thận."
+    },
+    {
+      "id": "v30_7",
+      "word": "Communication",
+      "phonetic": "/kəˌmjuː.nəˈkeɪ.ʃən/",
+      "meaning": "Giao tiếp",
+      "example": "Effective communication.",
+      "exampleVi": "Giao tiếp hiệu quả."
+    },
+    {
+      "id": "v30_8",
+      "word": "Fluent",
+      "phonetic": "/ˈfluː.ənt/",
+      "meaning": "Trôi chảy",
+      "example": "Speak fluent English.",
+      "exampleVi": "Nói tiếng Anh trôi chảy."
+    },
+    {
+      "id": "v30_9",
+      "word": "Motivation",
+      "phonetic": "/ˌmoʊ.t̬əˈveɪ.ʃən/",
+      "meaning": "Động lực",
+      "example": "Keep your motivation.",
+      "exampleVi": "Giữ vững động lực."
+    },
+    {
+      "id": "v30_10",
+      "word": "Result",
+      "phonetic": "/rɪˈzʌlt/",
+      "meaning": "Kết quả",
+      "example": "Great results.",
+      "exampleVi": "Kết quả tuyệt vời."
     }
   ],
   "listening": [
     {
       "id": "l30_1",
-      "sentence": "I will improve my English.",
-      "sentenceVi": "Tôi sẽ cải thiện tiếng Anh."
+      "sentence": "Congratulations on finishing the 30-day course!",
+      "sentenceVi": "Chúc mừng bạn đã hoàn thành khóa học 30 ngày!"
     },
     {
       "id": "l30_2",
-      "sentence": "I feel more confident now.",
-      "sentenceVi": "Bây giờ tôi tự tin hơn."
+      "sentence": "You can speak English with more confidence now.",
+      "sentenceVi": "Bây giờ bạn có thể nói tiếng Anh tự tin hơn."
+    },
+    {
+      "id": "l30_3",
+      "sentence": "I will continue to improve my communication skills.",
+      "sentenceVi": "Tôi sẽ tiếp tục cải thiện kỹ năng giao tiếp của mình."
+    },
+    {
+      "id": "l30_4",
+      "sentence": "Writing and reading are also very important.",
+      "sentenceVi": "Viết và đọc cũng rất quan trọng."
+    },
+    {
+      "id": "l30_5",
+      "sentence": "Keep listening to English every day.",
+      "sentenceVi": "Hãy tiếp tục nghe tiếng Anh mỗi ngày."
+    },
+    {
+      "id": "l30_6",
+      "sentence": "The results of your hard work are amazing.",
+      "sentenceVi": "Kết quả của sự chăm chỉ của bạn thật đáng kinh ngạc."
+    },
+    {
+      "id": "l30_7",
+      "sentence": "Don't lose your motivation to learn new things.",
+      "sentenceVi": "Đừng làm mất động lực học những điều mới."
+    },
+    {
+      "id": "l30_8",
+      "sentence": "One day you will be fluent in English.",
+      "sentenceVi": "Một ngày nào đó bạn sẽ thông thạo tiếng Anh."
+    },
+    {
+      "id": "l30_9",
+      "sentence": "We learned a lot about different topics.",
+      "sentenceVi": "Chúng ta đã học được nhiều về các chủ đề khác nhau."
+    },
+    {
+      "id": "l30_10",
+      "sentence": "Thank you for being a great student!",
+      "sentenceVi": "Cảm ơn bạn đã là một học sinh tuyệt vời!"
     }
   ],
   "speaking": [
     {
       "id": "s30_1",
-      "sentence": "How has your English improved?",
-      "sentenceVi": "Tiếng Anh của bạn đã cải thiện thế nào?"
+      "sentence": "I finished the course today!",
+      "sentenceVi": "Hôm nay tôi đã hoàn thành khóa học!"
+    },
+    {
+      "id": "s30_2",
+      "sentence": "Well done!",
+      "sentenceVi": "Giỏi lắm!"
+    },
+    {
+      "id": "s30_3",
+      "sentence": "What will you do next?",
+      "sentenceVi": "Bạn sẽ làm gì tiếp theo?"
+    },
+    {
+      "id": "s30_4",
+      "sentence": "I'll take an advanced course.",
+      "sentenceVi": "Tôi sẽ học một khóa nâng cao."
+    },
+    {
+      "id": "s30_5",
+      "sentence": "Can you speak fluently?",
+      "sentenceVi": "Bạn có thể nói trôi chảy không?"
+    },
+    {
+      "id": "s30_6",
+      "sentence": "Not yet, but I'm trying.",
+      "sentenceVi": "Chưa, nhưng tôi đang cố gắng."
+    },
+    {
+      "id": "s30_7",
+      "sentence": "I love communicating in English.",
+      "sentenceVi": "Tôi yêu việc giao tiếp bằng tiếng Anh."
+    },
+    {
+      "id": "s30_8",
+      "sentence": "It's a useful skill.",
+      "sentenceVi": "Đó là một kỹ năng hữu ích."
+    },
+    {
+      "id": "s30_9",
+      "sentence": "Let's keep in touch.",
+      "sentenceVi": "Hãy giữ liên lạc nhé."
+    },
+    {
+      "id": "s30_10",
+      "sentence": "Definitely, see you soon!",
+      "sentenceVi": "Chắc chắn rồi, hẹn sớm gặp lại!"
     }
   ],
   "writing": [
@@ -65,20 +222,191 @@
       "id": "w30_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I want to _____ my English.",
-      "answer": "improve",
-      "hint": "cải thiện"
+      "question": "I _____ the course.",
+      "answer": "finished",
+      "hint": "đã hoàn thành"
+    },
+    {
+      "id": "w30_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I can _____ English.",
+      "answer": "speak",
+      "hint": "nói"
+    },
+    {
+      "id": "w30_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Effective _____.",
+      "answer": "communication",
+      "hint": "giao tiếp"
+    },
+    {
+      "id": "w30_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Keep your _____.",
+      "answer": "motivation",
+      "hint": "động lực"
+    },
+    {
+      "id": "w30_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Great _____.",
+      "answer": "results",
+      "hint": "kết quả"
+    },
+    {
+      "id": "w30_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Speak _____ English.",
+      "answer": "fluent",
+      "hint": "trôi chảy"
+    },
+    {
+      "id": "w30_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Listen _____.",
+      "answer": "carefully",
+      "hint": "cẩn thận"
+    },
+    {
+      "id": "w30_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Write a _____.",
+      "answer": "story",
+      "hint": "câu chuyện"
+    },
+    {
+      "id": "w30_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Read the _____.",
+      "answer": "news",
+      "hint": "tin tức"
+    },
+    {
+      "id": "w30_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ on your success!",
+      "answer": "Congratulations",
+      "hint": "Chúc mừng"
     }
   ],
   "quizzes": [
     {
       "id": "q30_1",
-      "question": "'Confident' nghĩa là gì?",
+      "question": "'Fluent' nghĩa là gì?",
       "options": [
-        "Tự tin",
-        "Sợ hãi",
-        "Buồn",
-        "Lo lắng"
+        "Trôi chảy",
+        "Ngắc ngứ",
+        "Chậm chạp",
+        "Nhanh"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q30_2",
+      "question": "I _____ the course today.",
+      "options": [
+        "finish",
+        "finished",
+        "finishes",
+        "finishing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q30_3",
+      "question": "You _____ speak well now.",
+      "options": [
+        "can",
+        "can't",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q30_4",
+      "question": "Keep _____ to English.",
+      "options": [
+        "listen",
+        "listening",
+        "listened",
+        "listens"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q30_5",
+      "question": "We _____ a lot of things.",
+      "options": [
+        "learn",
+        "learned",
+        "learns",
+        "learning"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q30_6",
+      "question": "'Motivation' nghĩa là gì?",
+      "options": [
+        "Động lực",
+        "Sức mạnh",
+        "Kỹ năng",
+        "Kiến thức"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q30_7",
+      "question": "The results _____ amazing.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q30_8",
+      "question": "I _____ continue to study.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q30_9",
+      "question": "Speak _____ confidence.",
+      "options": [
+        "with",
+        "by",
+        "at",
+        "on"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q30_10",
+      "question": "_____ on your success!",
+      "options": [
+        "Congratulations",
+        "Congratulate",
+        "Congratulating",
+        "Congratulated"
       ],
       "correct": 0
     }

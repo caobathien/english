@@ -16,8 +16,16 @@
         "formula": "S + will + V",
         "examples": [
           {
-            "en": "We will plant more trees.",
-            "vi": "Chúng tôi sẽ trồng thêm cây."
+            "en": "We will plant many trees.",
+            "vi": "Chúng tôi sẽ trồng nhiều cây."
+          },
+          {
+            "en": "The weather will be sunny.",
+            "vi": "Thời tiết sẽ có nắng."
+          },
+          {
+            "en": "I will go for a walk in the forest.",
+            "vi": "Tôi sẽ đi bộ trong rừng."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
+            "en": "It won't rain tomorrow.",
+            "vi": "Ngày mai trời sẽ không mưa."
+          },
+          {
             "en": "They won't cut down the forest.",
             "vi": "Họ sẽ không chặt phá khu rừng."
+          },
+          {
+            "en": "I won't pollute the environment.",
+            "vi": "Tôi sẽ không gây ô nhiễm môi trường."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v23_1",
-      "word": "Tree",
-      "phonetic": "/triː/",
-      "meaning": "Cây",
-      "example": "There are many trees.",
-      "exampleVi": "Có nhiều cây."
+      "word": "Nature",
+      "phonetic": "/ˈneɪ.tʃɚ/",
+      "meaning": "Thiên nhiên",
+      "example": "Protect nature.",
+      "exampleVi": "Bảo vệ thiên nhiên."
     },
     {
       "id": "v23_2",
+      "word": "Tree",
+      "phonetic": "/triː/",
+      "meaning": "Cái cây",
+      "example": "Plant a tree.",
+      "exampleVi": "Trồng một cái cây."
+    },
+    {
+      "id": "v23_3",
+      "word": "Flower",
+      "phonetic": "/ˈflaʊ.ɚ/",
+      "meaning": "Bông hoa",
+      "example": "A beautiful flower.",
+      "exampleVi": "Một bông hoa đẹp."
+    },
+    {
+      "id": "v23_4",
+      "word": "Forest",
+      "phonetic": "/ˈfɔːr.ɪst/",
+      "meaning": "Khu rừng",
+      "example": "Walk in the forest.",
+      "exampleVi": "Đi dạo trong rừng."
+    },
+    {
+      "id": "v23_5",
+      "word": "Mountain",
+      "phonetic": "/ˈmaʊn.tən/",
+      "meaning": "Ngọn núi",
+      "example": "Climb a mountain.",
+      "exampleVi": "Leo núi."
+    },
+    {
+      "id": "v23_6",
       "word": "River",
       "phonetic": "/ˈrɪv.ɚ/",
-      "meaning": "Sông",
-      "example": "The river is long.",
-      "exampleVi": "Con sông dài."
+      "meaning": "Con sông",
+      "example": "Swim in the river.",
+      "exampleVi": "Bơi ở sông."
+    },
+    {
+      "id": "v23_7",
+      "word": "Sea",
+      "phonetic": "/siː/",
+      "meaning": "Biển",
+      "example": "Blue sea.",
+      "exampleVi": "Biển xanh."
+    },
+    {
+      "id": "v23_8",
+      "word": "Environment",
+      "phonetic": "/ɪnˈvaɪ.rən.mənt/",
+      "meaning": "Môi trường",
+      "example": "Clean environment.",
+      "exampleVi": "Môi trường sạch."
+    },
+    {
+      "id": "v23_9",
+      "word": "Plant",
+      "phonetic": "/plænt/",
+      "meaning": "Thực vật/Trồng",
+      "example": "A green plant.",
+      "exampleVi": "Một loài thực vật xanh."
+    },
+    {
+      "id": "v23_10",
+      "word": "Earth",
+      "phonetic": "/ɝːθ/",
+      "meaning": "Trái đất",
+      "example": "Save the Earth.",
+      "exampleVi": "Cứu lấy Trái đất."
     }
   ],
   "listening": [
     {
       "id": "l23_1",
-      "sentence": "I will plant a tree.",
-      "sentenceVi": "Tôi sẽ trồng một cái cây."
+      "sentence": "We will plant more trees to protect the Earth.",
+      "sentenceVi": "Chúng tôi sẽ trồng thêm cây để bảo vệ Trái đất."
     },
     {
       "id": "l23_2",
-      "sentence": "We will visit the river.",
-      "sentenceVi": "Chúng tôi sẽ đến thăm con sông."
+      "sentence": "The weather will be perfect for a hike.",
+      "sentenceVi": "Thời tiết sẽ hoàn hảo cho một buổi đi bộ đường dài."
+    },
+    {
+      "id": "l23_3",
+      "sentence": "Will you go to the beach next summer?",
+      "sentenceVi": "Mùa hè tới bạn sẽ đi biển chứ?"
+    },
+    {
+      "id": "l23_4",
+      "sentence": "They won't pollute the river anymore.",
+      "sentenceVi": "Họ sẽ không làm ô nhiễm con sông nữa."
+    },
+    {
+      "id": "l23_5",
+      "sentence": "I will see many beautiful flowers in the park.",
+      "sentenceVi": "Tôi sẽ thấy nhiều bông hoa đẹp trong công viên."
+    },
+    {
+      "id": "l23_6",
+      "sentence": "The forest will be very quiet and peaceful.",
+      "sentenceVi": "Khu rừng sẽ rất yên tĩnh và thanh bình."
+    },
+    {
+      "id": "l23_7",
+      "sentence": "We will save the environment together.",
+      "sentenceVi": "Chúng ta sẽ cùng nhau cứu lấy môi trường."
+    },
+    {
+      "id": "l23_8",
+      "sentence": "It won't be cold tomorrow.",
+      "sentenceVi": "Ngày mai trời sẽ không lạnh."
+    },
+    {
+      "id": "l23_9",
+      "sentence": "She will climb the mountain next month.",
+      "sentenceVi": "Cô ấy sẽ leo núi vào tháng tới."
+    },
+    {
+      "id": "l23_10",
+      "sentence": "The sea will be blue and clear.",
+      "sentenceVi": "Biển sẽ xanh và trong."
     }
   ],
   "speaking": [
     {
       "id": "s23_1",
-      "sentence": "Do you like nature?",
-      "sentenceVi": "Bạn có thích thiên nhiên không?"
+      "sentence": "I love nature.",
+      "sentenceVi": "Tôi yêu thiên nhiên."
+    },
+    {
+      "id": "s23_2",
+      "sentence": "Me too, it's beautiful.",
+      "sentenceVi": "Tôi cũng vậy, nó thật đẹp."
+    },
+    {
+      "id": "s23_3",
+      "sentence": "Will you plant a tree?",
+      "sentenceVi": "Bạn sẽ trồng một cái cây chứ?"
+    },
+    {
+      "id": "s23_4",
+      "sentence": "Yes, I will.",
+      "sentenceVi": "Vâng, tôi sẽ làm vậy."
+    },
+    {
+      "id": "s23_5",
+      "sentence": "The river is very clean.",
+      "sentenceVi": "Con sông rất sạch."
+    },
+    {
+      "id": "s23_6",
+      "sentence": "Let's go to the forest.",
+      "sentenceVi": "Chúng ta hãy đi vào rừng nào."
+    },
+    {
+      "id": "s23_7",
+      "sentence": "Is it far?",
+      "sentenceVi": "Nó có xa không?"
+    },
+    {
+      "id": "s23_8",
+      "sentence": "No, it's nearby.",
+      "sentenceVi": "Không, nó ở ngay gần đây."
+    },
+    {
+      "id": "s23_9",
+      "sentence": "The mountains are high.",
+      "sentenceVi": "Những ngọn núi thật cao."
+    },
+    {
+      "id": "s23_10",
+      "sentence": "Earth is our home.",
+      "sentenceVi": "Trái đất là nhà của chúng ta."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w23_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I will plant a _____.",
-      "answer": "tree",
-      "hint": "cây"
+      "question": "We will _____ trees.",
+      "answer": "plant",
+      "hint": "trồng"
+    },
+    {
+      "id": "w23_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Protect _____.",
+      "answer": "nature",
+      "hint": "thiên nhiên"
+    },
+    {
+      "id": "w23_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A beautiful _____.",
+      "answer": "flower",
+      "hint": "bông hoa"
+    },
+    {
+      "id": "w23_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "In the _____.",
+      "answer": "forest",
+      "hint": "khu rừng"
+    },
+    {
+      "id": "w23_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "High _____.",
+      "answer": "mountain",
+      "hint": "ngọn núi"
+    },
+    {
+      "id": "w23_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Blue _____.",
+      "answer": "sea",
+      "hint": "biển"
+    },
+    {
+      "id": "w23_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Save the _____.",
+      "answer": "Earth",
+      "hint": "Trái đất"
+    },
+    {
+      "id": "w23_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Clean _____.",
+      "answer": "environment",
+      "hint": "môi trường"
+    },
+    {
+      "id": "w23_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Green _____.",
+      "answer": "plant",
+      "hint": "thực vật"
+    },
+    {
+      "id": "w23_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Swim in the _____.",
+      "answer": "river",
+      "hint": "con sông"
     }
   ],
   "quizzes": [
     {
       "id": "q23_1",
-      "question": "'River' nghĩa là gì?",
+      "question": "'Earth' nghĩa là gì?",
       "options": [
-        "Sông",
-        "Núi",
+        "Mặt trăng",
+        "Mặt trời",
+        "Trái đất",
+        "Sao hỏa"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q23_2",
+      "question": "We _____ protect nature.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_3",
+      "question": "It _____ rain tomorrow.",
+      "options": [
+        "won't",
+        "will",
+        "is",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_4",
+      "question": "She _____ climb the mountain.",
+      "options": [
+        "will",
+        "shall",
+        "is",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_5",
+      "question": "They _____ not cut the trees.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_6",
+      "question": "'Forest' nghĩa là gì?",
+      "options": [
+        "Rừng",
         "Biển",
-        "Hồ"
+        "Sông",
+        "Núi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_7",
+      "question": "A green _____.",
+      "options": [
+        "plant",
+        "planting",
+        "plants",
+        "planted"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_8",
+      "question": "Will you _____ trees?",
+      "options": [
+        "plant",
+        "plants",
+        "planting",
+        "planted"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_9",
+      "question": "The sea _____ blue.",
+      "options": [
+        "will be",
+        "be",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q23_10",
+      "question": "Protect _____ environment.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "some"
       ],
       "correct": 0
     }

@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "I am feeling better now.",
-            "vi": "Bây giờ tôi đang cảm thấy tốt hơn."
+            "en": "I am feeling much better now.",
+            "vi": "Bây giờ tôi đang cảm thấy tốt hơn nhiều."
+          },
+          {
+            "en": "She is recovering from a cold.",
+            "vi": "Cô ấy đang hồi phục sau trận cảm lạnh."
+          },
+          {
+            "en": "They are exercising to stay fit.",
+            "vi": "Họ đang tập thể dục để giữ dáng."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
-            "en": "She is not sleeping well.",
-            "vi": "Cô ấy đang ngủ không ngon giấc."
+            "en": "I am not feeling well today.",
+            "vi": "Hôm nay tôi cảm thấy không khỏe."
+          },
+          {
+            "en": "He is not sleeping enough.",
+            "vi": "Anh ấy đang không ngủ đủ giấc."
+          },
+          {
+            "en": "We are not eating junk food.",
+            "vi": "Chúng tôi không ăn đồ ăn vặt."
           }
         ]
       }
@@ -36,6 +52,22 @@
   "vocabulary": [
     {
       "id": "v12_1",
+      "word": "Health",
+      "phonetic": "/helθ/",
+      "meaning": "Sức khỏe",
+      "example": "Health is important.",
+      "exampleVi": "Sức khỏe là quan trọng."
+    },
+    {
+      "id": "v12_2",
+      "word": "Body",
+      "phonetic": "/ˈbɑː.di/",
+      "meaning": "Cơ thể",
+      "example": "My body is tired.",
+      "exampleVi": "Cơ thể tôi mệt mỏi."
+    },
+    {
+      "id": "v12_3",
       "word": "Head",
       "phonetic": "/hed/",
       "meaning": "Đầu",
@@ -43,31 +75,164 @@
       "exampleVi": "Tôi bị đau đầu."
     },
     {
-      "id": "v12_2",
+      "id": "v12_4",
+      "word": "Eye",
+      "phonetic": "/aɪ/",
+      "meaning": "Mắt",
+      "example": "Close your eyes.",
+      "exampleVi": "Hãy nhắm mắt lại."
+    },
+    {
+      "id": "v12_5",
       "word": "Hand",
       "phonetic": "/hænd/",
-      "meaning": "Tay",
+      "meaning": "Bàn tay",
       "example": "Wash your hands.",
-      "exampleVi": "Hãy rửa tay."
+      "exampleVi": "Hãy rửa tay của bạn."
+    },
+    {
+      "id": "v12_6",
+      "word": "Foot",
+      "phonetic": "/fʊt/",
+      "meaning": "Bàn chân",
+      "example": "My feet are sore.",
+      "exampleVi": "Bàn chân tôi bị đau."
+    },
+    {
+      "id": "v12_7",
+      "word": "Cold",
+      "phonetic": "/koʊld/",
+      "meaning": "Cảm lạnh",
+      "example": "I have a cold.",
+      "exampleVi": "Tôi bị cảm lạnh."
+    },
+    {
+      "id": "v12_8",
+      "word": "Doctor",
+      "phonetic": "/ˈdɑːk.tɚ/",
+      "meaning": "Bác sĩ",
+      "example": "Go to the doctor.",
+      "exampleVi": "Đi bác sĩ."
+    },
+    {
+      "id": "v12_9",
+      "word": "Medicine",
+      "phonetic": "/ˈmed.ɪ.sən/",
+      "meaning": "Thuốc",
+      "example": "Take your medicine.",
+      "exampleVi": "Hãy uống thuốc của bạn."
+    },
+    {
+      "id": "v12_10",
+      "word": "Healthy",
+      "phonetic": "/ˈhel.θi/",
+      "meaning": "Khỏe mạnh",
+      "example": "Eat healthy food.",
+      "exampleVi": "Ăn thức ăn lành mạnh."
     }
   ],
   "listening": [
     {
       "id": "l12_1",
-      "sentence": "I have a headache.",
-      "sentenceVi": "Tôi bị đau đầu."
+      "sentence": "I am feeling a bit sick today.",
+      "sentenceVi": "Hôm nay tôi cảm thấy hơi ốm."
     },
     {
       "id": "l12_2",
-      "sentence": "She is going to the doctor.",
-      "sentenceVi": "Cô ấy đang đi khám bác sĩ."
+      "sentence": "What is wrong with you?",
+      "sentenceVi": "Bạn bị làm sao vậy?"
+    },
+    {
+      "id": "l12_3",
+      "sentence": "I have a terrible headache.",
+      "sentenceVi": "Tôi bị đau đầu khủng khiếp."
+    },
+    {
+      "id": "l12_4",
+      "sentence": "You should go to the doctor.",
+      "sentenceVi": "Bạn nên đi bác sĩ."
+    },
+    {
+      "id": "l12_5",
+      "sentence": "She is taking medicine now.",
+      "sentenceVi": "Cô ấy hiện đang uống thuốc."
+    },
+    {
+      "id": "l12_6",
+      "sentence": "Is he feeling better?",
+      "sentenceVi": "Anh ấy có đang cảm thấy tốt hơn không?"
+    },
+    {
+      "id": "l12_7",
+      "sentence": "Wash your hands before eating.",
+      "sentenceVi": "Hãy rửa tay trước khi ăn."
+    },
+    {
+      "id": "l12_8",
+      "sentence": "Exercise is good for your body.",
+      "sentenceVi": "Tập thể dục tốt cho cơ thể của bạn."
+    },
+    {
+      "id": "l12_9",
+      "sentence": "Drink plenty of water.",
+      "sentenceVi": "Hãy uống nhiều nước."
+    },
+    {
+      "id": "l12_10",
+      "sentence": "She is resting in bed.",
+      "sentenceVi": "Cô ấy đang nghỉ ngơi trên giường."
     }
   ],
   "speaking": [
     {
       "id": "s12_1",
-      "sentence": "What is wrong with you?",
-      "sentenceVi": "Bạn bị sao vậy?"
+      "sentence": "How do you feel?",
+      "sentenceVi": "Bạn cảm thấy thế nào?"
+    },
+    {
+      "id": "s12_2",
+      "sentence": "I feel tired.",
+      "sentenceVi": "Tôi cảm thấy mệt."
+    },
+    {
+      "id": "s12_3",
+      "sentence": "Do you have a fever?",
+      "sentenceVi": "Bạn có bị sốt không?"
+    },
+    {
+      "id": "s12_4",
+      "sentence": "Yes, I think so.",
+      "sentenceVi": "Có, tôi nghĩ vậy."
+    },
+    {
+      "id": "s12_5",
+      "sentence": "I have a sore throat.",
+      "sentenceVi": "Tôi bị đau họng."
+    },
+    {
+      "id": "s12_6",
+      "sentence": "Drink some warm tea.",
+      "sentenceVi": "Hãy uống một chút trà ấm."
+    },
+    {
+      "id": "s12_7",
+      "sentence": "I am allergic to cats.",
+      "sentenceVi": "Tôi bị dị ứng với mèo."
+    },
+    {
+      "id": "s12_8",
+      "sentence": "Are you taking any medicine?",
+      "sentenceVi": "Bạn có đang uống thuốc gì không?"
+    },
+    {
+      "id": "s12_9",
+      "sentence": "Get well soon!",
+      "sentenceVi": "Chúc mau khỏe nhé!"
+    },
+    {
+      "id": "s12_10",
+      "sentence": "Thank you.",
+      "sentenceVi": "Cảm ơn bạn."
     }
   ],
   "writing": [
@@ -75,22 +240,193 @@
       "id": "w12_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
+      "question": "I am _____ better now.",
+      "answer": "feeling",
+      "hint": "đang cảm thấy"
+    },
+    {
+      "id": "w12_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "doctor",
+      "hint": "bác sĩ"
+    },
+    {
+      "id": "w12_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Take your _____.",
+      "answer": "medicine",
+      "hint": "thuốc"
+    },
+    {
+      "id": "w12_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
       "question": "I have a _____.",
       "answer": "headache",
       "hint": "đau đầu"
+    },
+    {
+      "id": "w12_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Wash your _____.",
+      "answer": "hands",
+      "hint": "bàn tay (số nhiều)"
+    },
+    {
+      "id": "w12_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Eat _____ food.",
+      "answer": "healthy",
+      "hint": "lành mạnh"
+    },
+    {
+      "id": "w12_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "My _____ is tired.",
+      "answer": "body",
+      "hint": "cơ thể"
+    },
+    {
+      "id": "w12_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Close your _____.",
+      "answer": "eyes",
+      "hint": "mắt (số nhiều)"
+    },
+    {
+      "id": "w12_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I have a _____.",
+      "answer": "cold",
+      "hint": "cảm lạnh"
+    },
+    {
+      "id": "w12_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Health is _____.",
+      "answer": "important",
+      "hint": "quan trọng"
     }
   ],
   "quizzes": [
     {
       "id": "q12_1",
-      "question": "'Hand' nghĩa là gì?",
+      "question": "'Medicine' nghĩa là gì?",
       "options": [
-        "Tay",
-        "Chân",
-        "Đầu",
-        "Mắt"
+        "Thức ăn",
+        "Nước uống",
+        "Thuốc",
+        "Quần áo"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q12_2",
+      "question": "I am _____ better.",
+      "options": [
+        "feel",
+        "feeling",
+        "feels",
+        "felt"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q12_3",
+      "question": "She _____ feeling well.",
+      "options": [
+        "is not",
+        "am not",
+        "are not",
+        "do not"
       ],
       "correct": 0
+    },
+    {
+      "id": "q12_4",
+      "question": "You _____ go to the doctor.",
+      "options": [
+        "should",
+        "shouldn't",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q12_5",
+      "question": "I have _____ headache.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q12_6",
+      "question": "Wash _____ hands.",
+      "options": [
+        "you",
+        "your",
+        "yours",
+        "me"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q12_7",
+      "question": "'Healthy' nghĩa là gì?",
+      "options": [
+        "Ốm",
+        "Yếu",
+        "Khỏe mạnh",
+        "Mệt"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q12_8",
+      "question": "How _____ you feel?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q12_9",
+      "question": "Get _____ soon!",
+      "options": [
+        "well",
+        "good",
+        "better",
+        "best"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q12_10",
+      "question": "My feet _____ sore.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 2
     }
   ],
   "conversation": [

@@ -16,8 +16,16 @@
         "formula": "S + V2/ed",
         "examples": [
           {
-            "en": "I studied math yesterday.",
-            "vi": "Hôm qua tôi đã học toán."
+            "en": "I studied English yesterday.",
+            "vi": "Tôi đã học tiếng Anh hôm qua."
+          },
+          {
+            "en": "She passed the exam.",
+            "vi": "Cô ấy đã vượt qua kỳ thi."
+          },
+          {
+            "en": "They graduated last year.",
+            "vi": "Họ đã tốt nghiệp năm ngoái."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "She didn't go to university.",
-            "vi": "Cô ấy đã không học đại học."
+            "en": "I didn't go to school.",
+            "vi": "Tôi đã không đi học."
+          },
+          {
+            "en": "He didn't finish his homework.",
+            "vi": "Anh ấy đã không hoàn thành bài tập."
+          },
+          {
+            "en": "We didn't see the teacher.",
+            "vi": "Chúng tôi đã không gặp giáo viên."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "School",
       "phonetic": "/skuːl/",
       "meaning": "Trường học",
-      "example": "I go to school.",
-      "exampleVi": "Tôi đi học."
+      "example": "Go to school.",
+      "exampleVi": "Đi học."
     },
     {
       "id": "v15_2",
+      "word": "Teacher",
+      "phonetic": "/ˈtiː.tʃɚ/",
+      "meaning": "Giáo viên",
+      "example": "My teacher is kind.",
+      "exampleVi": "Giáo viên tôi tốt bụng."
+    },
+    {
+      "id": "v15_3",
+      "word": "Student",
+      "phonetic": "/ˈstuː.dənt/",
+      "meaning": "Học sinh",
+      "example": "A hardworking student.",
+      "exampleVi": "Một học sinh chăm chỉ."
+    },
+    {
+      "id": "v15_4",
+      "word": "Classroom",
+      "phonetic": "/ˈklæs.ruːm/",
+      "meaning": "Lớp học",
+      "example": "The classroom is big.",
+      "exampleVi": "Lớp học lớn."
+    },
+    {
+      "id": "v15_5",
+      "word": "Lesson",
+      "phonetic": "/ˈles.ən/",
+      "meaning": "Bài học",
+      "example": "A difficult lesson.",
+      "exampleVi": "Một bài học khó."
+    },
+    {
+      "id": "v15_6",
+      "word": "Exam",
+      "phonetic": "/ɪɡˈzæm/",
+      "meaning": "Kỳ thi",
+      "example": "Study for the exam.",
+      "exampleVi": "Học cho kỳ thi."
+    },
+    {
+      "id": "v15_7",
+      "word": "Book",
+      "phonetic": "/bʊk/",
+      "meaning": "Quyển sách",
+      "example": "Read a book.",
+      "exampleVi": "Đọc sách."
+    },
+    {
+      "id": "v15_8",
+      "word": "Pen",
+      "phonetic": "/pen/",
+      "meaning": "Bút mực",
+      "example": "Write with a pen.",
+      "exampleVi": "Viết bằng bút mực."
+    },
+    {
+      "id": "v15_9",
+      "word": "University",
+      "phonetic": "/ˌjuː.nəˈvɝː.sə.t̬i/",
+      "meaning": "Trường đại học",
+      "example": "Go to university.",
+      "exampleVi": "Vào đại học."
+    },
+    {
+      "id": "v15_10",
       "word": "Study",
       "phonetic": "/ˈstʌd.i/",
-      "meaning": "Học",
-      "example": "I study English.",
-      "exampleVi": "Tôi học tiếng Anh."
+      "meaning": "Học tập",
+      "example": "Study hard.",
+      "exampleVi": "Học tập chăm chỉ."
     }
   ],
   "listening": [
     {
       "id": "l15_1",
-      "sentence": "I went to school yesterday.",
-      "sentenceVi": "Hôm qua tôi đã đi học."
+      "sentence": "I went to school by bus yesterday.",
+      "sentenceVi": "Hôm qua tôi đã đi học bằng xe buýt."
     },
     {
       "id": "l15_2",
-      "sentence": "She studied hard last night.",
-      "sentenceVi": "Tối qua cô ấy đã học chăm chỉ."
+      "sentence": "Did you finish your homework?",
+      "sentenceVi": "Bạn đã làm xong bài tập chưa?"
+    },
+    {
+      "id": "l15_3",
+      "sentence": "She studied very hard for the exam.",
+      "sentenceVi": "Cô ấy đã học rất chăm chỉ cho kỳ thi."
+    },
+    {
+      "id": "l15_4",
+      "sentence": "The teacher explained the lesson clearly.",
+      "sentenceVi": "Giáo viên đã giải thích bài học một cách rõ ràng."
+    },
+    {
+      "id": "l15_5",
+      "sentence": "We graduated from university in June.",
+      "sentenceVi": "Chúng tôi đã tốt nghiệp đại học vào tháng Sáu."
+    },
+    {
+      "id": "l15_6",
+      "sentence": "He didn't pass the math test.",
+      "sentenceVi": "Anh ấy đã không vượt qua bài kiểm tra toán."
+    },
+    {
+      "id": "l15_7",
+      "sentence": "I bought a new book last week.",
+      "sentenceVi": "Tôi đã mua một cuốn sách mới tuần trước."
+    },
+    {
+      "id": "l15_8",
+      "sentence": "Were you in the classroom yesterday?",
+      "sentenceVi": "Hôm qua bạn có ở trong lớp không?"
+    },
+    {
+      "id": "l15_9",
+      "sentence": "The students were very quiet.",
+      "sentenceVi": "Các học sinh đã rất im lặng."
+    },
+    {
+      "id": "l15_10",
+      "sentence": "I learned many new words today.",
+      "sentenceVi": "Hôm nay tôi đã học được nhiều từ mới."
     }
   ],
   "speaking": [
     {
       "id": "s15_1",
-      "sentence": "Where did you go to school?",
-      "sentenceVi": "Bạn đã học ở đâu?"
+      "sentence": "Did you study last night?",
+      "sentenceVi": "Tối qua bạn có học không?"
+    },
+    {
+      "id": "s15_2",
+      "sentence": "Yes, I studied for two hours.",
+      "sentenceVi": "Có, tôi đã học trong hai tiếng."
+    },
+    {
+      "id": "s15_3",
+      "sentence": "How was the exam?",
+      "sentenceVi": "Kỳ thi thế nào?"
+    },
+    {
+      "id": "s15_4",
+      "sentence": "It was very difficult.",
+      "sentenceVi": "Nó đã rất khó."
+    },
+    {
+      "id": "s15_5",
+      "sentence": "I didn't see you at school.",
+      "sentenceVi": "Tôi đã không thấy bạn ở trường."
+    },
+    {
+      "id": "s15_6",
+      "sentence": "I was sick yesterday.",
+      "sentenceVi": "Hôm qua tôi đã bị ốm."
+    },
+    {
+      "id": "s15_7",
+      "sentence": "What did you learn today?",
+      "sentenceVi": "Hôm nay bạn đã học gì?"
+    },
+    {
+      "id": "s15_8",
+      "sentence": "We learned about history.",
+      "sentenceVi": "Chúng tôi đã học về lịch sử."
+    },
+    {
+      "id": "s15_9",
+      "sentence": "That's interesting!",
+      "sentenceVi": "Thật thú vị!"
+    },
+    {
+      "id": "s15_10",
+      "sentence": "Good job!",
+      "sentenceVi": "Làm tốt lắm!"
     }
   ],
   "writing": [
@@ -75,22 +240,193 @@
       "id": "w15_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I _____ to school yesterday.",
+      "question": "I _____ English yesterday.",
+      "answer": "studied",
+      "hint": "đã học"
+    },
+    {
+      "id": "w15_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She _____ the exam.",
+      "answer": "passed",
+      "hint": "đã vượt qua"
+    },
+    {
+      "id": "w15_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ to school.",
       "answer": "went",
-      "hint": "đi (quá khứ)"
+      "hint": "đã đi"
+    },
+    {
+      "id": "w15_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Did you _____ your homework?",
+      "answer": "finish",
+      "hint": "hoàn thành (dùng sau did)"
+    },
+    {
+      "id": "w15_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ was difficult.",
+      "answer": "lesson",
+      "hint": "bài học"
+    },
+    {
+      "id": "w15_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A hardworking _____.",
+      "answer": "student",
+      "hint": "học sinh"
+    },
+    {
+      "id": "w15_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They _____ last year.",
+      "answer": "graduated",
+      "hint": "đã tốt nghiệp"
+    },
+    {
+      "id": "w15_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Read a _____.",
+      "answer": "book",
+      "hint": "quyển sách"
+    },
+    {
+      "id": "w15_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Write with a _____.",
+      "answer": "pen",
+      "hint": "cái bút"
+    },
+    {
+      "id": "w15_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ was kind.",
+      "answer": "teacher",
+      "hint": "giáo viên"
     }
   ],
   "quizzes": [
     {
       "id": "q15_1",
-      "question": "'Study' nghĩa là gì?",
+      "question": "'University' nghĩa là gì?",
       "options": [
-        "Học",
-        "Dạy",
-        "Chơi",
-        "Làm việc"
+        "Trường cấp 1",
+        "Trường cấp 2",
+        "Trường cấp 3",
+        "Trường đại học"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q15_2",
+      "question": "I _____ a new book yesterday.",
+      "options": [
+        "buy",
+        "bought",
+        "buys",
+        "buying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15_3",
+      "question": "She _____ not go to school.",
+      "options": [
+        "did",
+        "does",
+        "is",
+        "was"
       ],
       "correct": 0
+    },
+    {
+      "id": "q15_4",
+      "question": "Did you _____ the lesson?",
+      "options": [
+        "understand",
+        "understood",
+        "understands",
+        "understanding"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q15_5",
+      "question": "They _____ students last year.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15_6",
+      "question": "The exam _____ very easy.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15_7",
+      "question": "'Graduated' nghĩa là gì?",
+      "options": [
+        "Nhập học",
+        "Tốt nghiệp",
+        "Bỏ học",
+        "Nghỉ học"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q15_8",
+      "question": "I _____ see the teacher.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q15_9",
+      "question": "Where _____ you yesterday?",
+      "options": [
+        "did",
+        "was",
+        "were",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q15_10",
+      "question": "He _____ hard for the test.",
+      "options": [
+        "study",
+        "studies",
+        "studied",
+        "studying"
+      ],
+      "correct": 2
     }
   ],
   "conversation": [

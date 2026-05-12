@@ -16,7 +16,15 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "I come from Vietnam.",
+            "en": "I am Lan.",
+            "vi": "Tôi là Lan."
+          },
+          {
+            "en": "My name is Peter.",
+            "vi": "Tên tôi là Peter."
+          },
+          {
+            "en": "I am from Vietnam.",
             "vi": "Tôi đến từ Việt Nam."
           }
         ]
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "I don't live in London.",
-            "vi": "Tôi không sống ở Luân Đôn."
+            "en": "I am not a teacher.",
+            "vi": "Tôi không phải là giáo viên."
+          },
+          {
+            "en": "My name is not John.",
+            "vi": "Tên tôi không phải là John."
+          },
+          {
+            "en": "I am not from Japan.",
+            "vi": "Tôi không đến từ Nhật Bản."
           }
         ]
       }
@@ -47,27 +63,176 @@
       "word": "Goodbye",
       "phonetic": "/ɡʊdˈbaɪ/",
       "meaning": "Tạm biệt",
-      "example": "Goodbye, see you tomorrow!",
-      "exampleVi": "Tạm biệt, hẹn gặp lại ngày mai!"
+      "example": "Goodbye, see you later.",
+      "exampleVi": "Tạm biệt, hẹn gặp lại sau."
+    },
+    {
+      "id": "v1_3",
+      "word": "Name",
+      "phonetic": "/neɪm/",
+      "meaning": "Tên",
+      "example": "My name is Lan.",
+      "exampleVi": "Tên tôi là Lan."
+    },
+    {
+      "id": "v1_4",
+      "word": "Age",
+      "phonetic": "/eɪdʒ/",
+      "meaning": "Tuổi",
+      "example": "What is your age?",
+      "exampleVi": "Tuổi của bạn là bao nhiêu?"
+    },
+    {
+      "id": "v1_5",
+      "word": "Country",
+      "phonetic": "/ˈkʌn.tri/",
+      "meaning": "Quốc gia",
+      "example": "Vietnam is my country.",
+      "exampleVi": "Việt Nam là đất nước của tôi."
+    },
+    {
+      "id": "v1_6",
+      "word": "Meet",
+      "phonetic": "/miːt/",
+      "meaning": "Gặp gỡ",
+      "example": "Nice to meet you.",
+      "exampleVi": "Rất vui được gặp bạn."
+    },
+    {
+      "id": "v1_7",
+      "word": "Fine",
+      "phonetic": "/faɪn/",
+      "meaning": "Khỏe/Tốt",
+      "example": "I am fine.",
+      "exampleVi": "Tôi khỏe."
+    },
+    {
+      "id": "v1_8",
+      "word": "Friend",
+      "phonetic": "/frend/",
+      "meaning": "Bạn bè",
+      "example": "She is my friend.",
+      "exampleVi": "Cô ấy là bạn tôi."
+    },
+    {
+      "id": "v1_9",
+      "word": "Teacher",
+      "phonetic": "/ˈtiː.tʃɚ/",
+      "meaning": "Giáo viên",
+      "example": "He is a teacher.",
+      "exampleVi": "Ông ấy là giáo viên."
+    },
+    {
+      "id": "v1_10",
+      "word": "Student",
+      "phonetic": "/ˈstuː.dənt/",
+      "meaning": "Học sinh",
+      "example": "I am a student.",
+      "exampleVi": "Tôi là học sinh."
     }
   ],
   "listening": [
     {
       "id": "l1_1",
-      "sentence": "Hello, my name is Anna.",
-      "sentenceVi": "Xin chào, tên tôi là Anna."
+      "sentence": "Hello everyone.",
+      "sentenceVi": "Chào mọi người."
     },
     {
       "id": "l1_2",
-      "sentence": "Nice to meet you!",
-      "sentenceVi": "Rất vui được gặp bạn!"
+      "sentence": "How are you today?",
+      "sentenceVi": "Hôm nay bạn thế nào?"
+    },
+    {
+      "id": "l1_3",
+      "sentence": "I am fine, thank you.",
+      "sentenceVi": "Tôi khỏe, cảm ơn."
+    },
+    {
+      "id": "l1_4",
+      "sentence": "My name is Lan.",
+      "sentenceVi": "Tên tôi là Lan."
+    },
+    {
+      "id": "l1_5",
+      "sentence": "I come from Vietnam.",
+      "sentenceVi": "Tôi đến từ Việt Nam."
+    },
+    {
+      "id": "l1_6",
+      "sentence": "I am a student.",
+      "sentenceVi": "Tôi là học sinh."
+    },
+    {
+      "id": "l1_7",
+      "sentence": "Nice to meet you.",
+      "sentenceVi": "Rất vui được gặp bạn."
+    },
+    {
+      "id": "l1_8",
+      "sentence": "Goodbye!",
+      "sentenceVi": "Tạm biệt!"
+    },
+    {
+      "id": "l1_9",
+      "sentence": "See you tomorrow.",
+      "sentenceVi": "Hẹn gặp lại ngày mai."
+    },
+    {
+      "id": "l1_10",
+      "sentence": "Have a nice day.",
+      "sentenceVi": "Chúc một ngày tốt lành."
     }
   ],
   "speaking": [
     {
       "id": "s1_1",
-      "sentence": "Hello! What is your name?",
-      "sentenceVi": "Xin chào! Tên bạn là gì?"
+      "sentence": "Hi!",
+      "sentenceVi": "Chào!"
+    },
+    {
+      "id": "s1_2",
+      "sentence": "What is your name?",
+      "sentenceVi": "Tên bạn là gì?"
+    },
+    {
+      "id": "s1_3",
+      "sentence": "My name is John.",
+      "sentenceVi": "Tên tôi là John."
+    },
+    {
+      "id": "s1_4",
+      "sentence": "Where are you from?",
+      "sentenceVi": "Bạn từ đâu tới?"
+    },
+    {
+      "id": "s1_5",
+      "sentence": "I am from England.",
+      "sentenceVi": "Tôi từ nước Anh."
+    },
+    {
+      "id": "s1_6",
+      "sentence": "How old are you?",
+      "sentenceVi": "Bạn bao nhiêu tuổi?"
+    },
+    {
+      "id": "s1_7",
+      "sentence": "I am 20 years old.",
+      "sentenceVi": "Tôi 20 tuổi."
+    },
+    {
+      "id": "s1_8",
+      "sentence": "Are you a teacher?",
+      "sentenceVi": "Bạn là giáo viên à?"
+    },
+    {
+      "id": "s1_9",
+      "sentence": "No, I am a student.",
+      "sentenceVi": "Không, tôi là học sinh."
+    },
+    {
+      "id": "s1_10",
+      "sentence": "Bye bye!",
+      "sentenceVi": "Tạm biệt!"
     }
   ],
   "writing": [
@@ -75,9 +240,81 @@
       "id": "w1_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "_____, my name is Tom.",
-      "answer": "Hello",
-      "hint": "Lời chào"
+      "question": "My _____ is Lan.",
+      "answer": "name",
+      "hint": "Tên"
+    },
+    {
+      "id": "w1_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I am _____ Vietnam.",
+      "answer": "from",
+      "hint": "đến từ"
+    },
+    {
+      "id": "w1_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "How _____ you?",
+      "answer": "are",
+      "hint": "thì/là/ở"
+    },
+    {
+      "id": "w1_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Nice to _____ you.",
+      "answer": "meet",
+      "hint": "gặp"
+    },
+    {
+      "id": "w1_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Goodbye, _____ you later.",
+      "answer": "see",
+      "hint": "hẹn gặp"
+    },
+    {
+      "id": "w1_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I am a _____.",
+      "answer": "student",
+      "hint": "học sinh"
+    },
+    {
+      "id": "w1_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I am _____ years old.",
+      "answer": "twenty",
+      "hint": "20"
+    },
+    {
+      "id": "w1_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is my _____.",
+      "answer": "friend",
+      "hint": "bạn"
+    },
+    {
+      "id": "w1_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I am _____.",
+      "answer": "fine",
+      "hint": "khỏe"
+    },
+    {
+      "id": "w1_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is a _____.",
+      "answer": "teacher",
+      "hint": "giáo viên"
     }
   ],
   "quizzes": [
@@ -89,6 +326,105 @@
         "Tạm biệt",
         "Cảm ơn",
         "Xin lỗi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1_2",
+      "question": "I _____ from Vietnam.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1_3",
+      "question": "What is your _____?",
+      "options": [
+        "name",
+        "age",
+        "country",
+        "friend"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1_4",
+      "question": "How _____ you?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1_5",
+      "question": "Nice to _____ you.",
+      "options": [
+        "see",
+        "meet",
+        "greet",
+        "look"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1_6",
+      "question": "I _____ a teacher.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "not"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q1_7",
+      "question": "Where _____ you from?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q1_8",
+      "question": "I am 20 years _____.",
+      "options": [
+        "old",
+        "age",
+        "new",
+        "long"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q1_9",
+      "question": "_____ to meet you.",
+      "options": [
+        "Good",
+        "Nice",
+        "Well",
+        "Fine"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q1_10",
+      "question": "Goodbye, see you _____.",
+      "options": [
+        "later",
+        "after",
+        "then",
+        "now"
       ],
       "correct": 0
     }

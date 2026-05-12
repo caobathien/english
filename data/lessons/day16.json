@@ -16,8 +16,16 @@
         "formula": "S + V2/ed",
         "examples": [
           {
-            "en": "He bought a new computer.",
-            "vi": "Anh ấy đã mua một chiếc máy tính mới."
+            "en": "I bought a new phone.",
+            "vi": "Tôi đã mua một chiếc điện thoại mới."
+          },
+          {
+            "en": "He used the internet.",
+            "vi": "Anh ấy đã sử dụng internet."
+          },
+          {
+            "en": "They fixed the computer.",
+            "vi": "Họ đã sửa chiếc máy tính."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "They didn't use the internet.",
-            "vi": "Họ đã không sử dụng internet."
+            "en": "I didn't send the email.",
+            "vi": "Tôi đã không gửi email."
+          },
+          {
+            "en": "She didn't watch the video.",
+            "vi": "Cô ấy đã không xem video."
+          },
+          {
+            "en": "The app didn't work.",
+            "vi": "Ứng dụng đã không hoạt động."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v16_1",
-      "word": "Phone",
-      "phonetic": "/foʊn/",
-      "meaning": "Điện thoại",
-      "example": "I use my phone.",
-      "exampleVi": "Tôi sử dụng điện thoại."
-    },
-    {
-      "id": "v16_2",
       "word": "Computer",
       "phonetic": "/kəmˈpjuː.t̬ɚ/",
       "meaning": "Máy tính",
-      "example": "He bought a computer.",
-      "exampleVi": "Anh ấy đã mua máy tính."
+      "example": "Use a computer.",
+      "exampleVi": "Sử dụng máy tính."
+    },
+    {
+      "id": "v16_2",
+      "word": "Phone",
+      "phonetic": "/foʊn/",
+      "meaning": "Điện thoại",
+      "example": "Call me on my phone.",
+      "exampleVi": "Gọi cho tôi qua điện thoại."
+    },
+    {
+      "id": "v16_3",
+      "word": "Internet",
+      "phonetic": "/ˈɪn.t̬ɚ.net/",
+      "meaning": "Internet/Mạng",
+      "example": "Search the internet.",
+      "exampleVi": "Tìm kiếm trên mạng."
+    },
+    {
+      "id": "v16_4",
+      "word": "Website",
+      "phonetic": "/ˈweb.saɪt/",
+      "meaning": "Trang web",
+      "example": "Visit a website.",
+      "exampleVi": "Truy cập trang web."
+    },
+    {
+      "id": "v16_5",
+      "word": "Email",
+      "phonetic": "/ˈiː.meɪl/",
+      "meaning": "Thư điện tử",
+      "example": "Send an email.",
+      "exampleVi": "Gửi một email."
+    },
+    {
+      "id": "v16_6",
+      "word": "App",
+      "phonetic": "/æp/",
+      "meaning": "Ứng dụng",
+      "example": "Download an app.",
+      "exampleVi": "Tải một ứng dụng."
+    },
+    {
+      "id": "v16_7",
+      "word": "Screen",
+      "phonetic": "/skriːn/",
+      "meaning": "Màn hình",
+      "example": "A broken screen.",
+      "exampleVi": "Một màn hình bị vỡ."
+    },
+    {
+      "id": "v16_8",
+      "word": "Mouse",
+      "phonetic": "/maʊs/",
+      "meaning": "Chuột máy tính",
+      "example": "Click the mouse.",
+      "exampleVi": "Bấm chuột."
+    },
+    {
+      "id": "v16_9",
+      "word": "Keyboard",
+      "phonetic": "/ˈkiː.bɔːrd/",
+      "meaning": "Bàn phím",
+      "example": "Type on the keyboard.",
+      "exampleVi": "Gõ bàn phím."
+    },
+    {
+      "id": "v16_10",
+      "word": "Laptop",
+      "phonetic": "/ˈlæp.tɑːp/",
+      "meaning": "Máy tính xách tay",
+      "example": "Bring your laptop.",
+      "exampleVi": "Mang theo laptop của bạn."
     }
   ],
   "listening": [
     {
       "id": "l16_1",
-      "sentence": "I bought a new phone yesterday.",
-      "sentenceVi": "Hôm qua tôi đã mua điện thoại mới."
+      "sentence": "I bought a new laptop yesterday.",
+      "sentenceVi": "Hôm qua tôi đã mua một chiếc laptop mới."
     },
     {
       "id": "l16_2",
-      "sentence": "She used the computer last night.",
-      "sentenceVi": "Tối qua cô ấy đã dùng máy tính."
+      "sentence": "Did you check your email this morning?",
+      "sentenceVi": "Sáng nay bạn đã kiểm tra email chưa?"
+    },
+    {
+      "id": "l16_3",
+      "sentence": "The internet was very slow last night.",
+      "sentenceVi": "Tối qua mạng rất chậm."
+    },
+    {
+      "id": "l16_4",
+      "sentence": "He downloaded a new game app.",
+      "sentenceVi": "Anh ấy đã tải một ứng dụng trò chơi mới."
+    },
+    {
+      "id": "l16_5",
+      "sentence": "She broke the screen of her phone.",
+      "sentenceVi": "Cô ấy đã làm vỡ màn hình điện thoại."
+    },
+    {
+      "id": "l16_6",
+      "sentence": "I sent you a message an hour ago.",
+      "sentenceVi": "Tôi đã gửi tin nhắn cho bạn một giờ trước."
+    },
+    {
+      "id": "l16_7",
+      "sentence": "The website didn't load properly.",
+      "sentenceVi": "Trang web đã không tải được bình thường."
+    },
+    {
+      "id": "l16_8",
+      "sentence": "We used the computer to finish the work.",
+      "sentenceVi": "Chúng tôi đã dùng máy tính để hoàn thành công việc."
+    },
+    {
+      "id": "l16_9",
+      "sentence": "He fixed my keyboard yesterday.",
+      "sentenceVi": "Anh ấy đã sửa bàn phím của tôi hôm qua."
+    },
+    {
+      "id": "l16_10",
+      "sentence": "Did they watch the video online?",
+      "sentenceVi": "Họ có xem video trực tuyến không?"
     }
   ],
   "speaking": [
     {
       "id": "s16_1",
-      "sentence": "Do you have a phone?",
-      "sentenceVi": "Bạn có điện thoại không?"
+      "sentence": "My phone is broken.",
+      "sentenceVi": "Điện thoại của tôi bị hỏng rồi."
+    },
+    {
+      "id": "s16_2",
+      "sentence": "What happened?",
+      "sentenceVi": "Chuyện gì đã xảy ra vậy?"
+    },
+    {
+      "id": "s16_3",
+      "sentence": "I dropped it on the floor.",
+      "sentenceVi": "Tôi làm rơi nó xuống sàn."
+    },
+    {
+      "id": "s16_4",
+      "sentence": "Did you fix it?",
+      "sentenceVi": "Bạn đã sửa nó chưa?"
+    },
+    {
+      "id": "s16_5",
+      "sentence": "Not yet.",
+      "sentenceVi": "Chưa."
+    },
+    {
+      "id": "s16_6",
+      "sentence": "I need a new computer.",
+      "sentenceVi": "Tôi cần một chiếc máy tính mới."
+    },
+    {
+      "id": "s16_7",
+      "sentence": "The internet is not working.",
+      "sentenceVi": "Mạng không hoạt động."
+    },
+    {
+      "id": "s16_8",
+      "sentence": "Did you restart the router?",
+      "sentenceVi": "Bạn đã khởi động lại bộ định tuyến chưa?"
+    },
+    {
+      "id": "s16_9",
+      "sentence": "Yes, I did.",
+      "sentenceVi": "Vâng, tôi đã làm rồi."
+    },
+    {
+      "id": "s16_10",
+      "sentence": "Let me check.",
+      "sentenceVi": "Để tôi kiểm tra xem."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w16_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I _____ a new phone yesterday.",
+      "question": "I _____ a new phone.",
       "answer": "bought",
-      "hint": "mua (quá khứ)"
+      "hint": "đã mua"
+    },
+    {
+      "id": "w16_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He _____ the internet.",
+      "answer": "used",
+      "hint": "đã dùng"
+    },
+    {
+      "id": "w16_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ an email.",
+      "answer": "sent",
+      "hint": "đã gửi"
+    },
+    {
+      "id": "w16_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is slow.",
+      "answer": "internet",
+      "hint": "mạng"
+    },
+    {
+      "id": "w16_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A broken _____.",
+      "answer": "screen",
+      "hint": "màn hình"
+    },
+    {
+      "id": "w16_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Download an _____.",
+      "answer": "app",
+      "hint": "ứng dụng"
+    },
+    {
+      "id": "w16_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Type on the _____.",
+      "answer": "keyboard",
+      "hint": "bàn phím"
+    },
+    {
+      "id": "w16_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Visit a _____.",
+      "answer": "website",
+      "hint": "trang web"
+    },
+    {
+      "id": "w16_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Bring your _____.",
+      "answer": "laptop",
+      "hint": "máy tính xách tay"
+    },
+    {
+      "id": "w16_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ worked.",
+      "answer": "computer",
+      "hint": "máy tính"
     }
   ],
   "quizzes": [
     {
       "id": "q16_1",
-      "question": "'Computer' nghĩa là gì?",
+      "question": "'Website' nghĩa là gì?",
       "options": [
-        "Máy tính",
-        "Điện thoại",
-        "Tivi",
-        "Máy ảnh"
+        "Trang web",
+        "Email",
+        "Ứng dụng",
+        "Màn hình"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16_2",
+      "question": "I _____ a new app last night.",
+      "options": [
+        "download",
+        "downloaded",
+        "downloads",
+        "downloading"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q16_3",
+      "question": "He _____ not use the phone.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16_4",
+      "question": "Did you _____ the message?",
+      "options": [
+        "receive",
+        "received",
+        "receives",
+        "receiving"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16_5",
+      "question": "The screen _____ broken yesterday.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q16_6",
+      "question": "I _____ you an email.",
+      "options": [
+        "send",
+        "sent",
+        "sends",
+        "sending"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q16_7",
+      "question": "'Laptop' là loại máy gì?",
+      "options": [
+        "Để bàn",
+        "Xách tay",
+        "Cầm tay",
+        "Máy tính bảng"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q16_8",
+      "question": "The internet _____ slow.",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "am"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16_9",
+      "question": "Did she _____ the computer?",
+      "options": [
+        "fix",
+        "fixed",
+        "fixes",
+        "fixing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q16_10",
+      "question": "They _____ not send it.",
+      "options": [
+        "did",
+        "do",
+        "was",
+        "were"
       ],
       "correct": 0
     }

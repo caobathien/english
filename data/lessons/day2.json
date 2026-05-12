@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "My brother works in a bank.",
-            "vi": "Anh trai tôi làm việc ở ngân hàng."
+            "en": "He is my father.",
+            "vi": "Ông ấy là bố tôi."
+          },
+          {
+            "en": "She is my mother.",
+            "vi": "Bà ấy là mẹ tôi."
+          },
+          {
+            "en": "I have two sisters.",
+            "vi": "Tôi có hai người chị/em gái."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "She doesn't have any sisters.",
-            "vi": "Cô ấy không có chị em gái."
+            "en": "I don't have a brother.",
+            "vi": "Tôi không có anh/em trai."
+          },
+          {
+            "en": "He isn't my cousin.",
+            "vi": "Anh ấy không phải là anh em họ của tôi."
+          },
+          {
+            "en": "They aren't my parents.",
+            "vi": "Họ không phải là bố mẹ tôi."
           }
         ]
       }
@@ -40,34 +56,183 @@
       "phonetic": "/ˈfæm.əl.i/",
       "meaning": "Gia đình",
       "example": "I love my family.",
-      "exampleVi": "Tôi yêu gia đình của tôi."
+      "exampleVi": "Tôi yêu gia đình mình."
     },
     {
       "id": "v2_2",
-      "word": "Friend",
-      "phonetic": "/frend/",
-      "meaning": "Bạn bè",
-      "example": "She is my best friend.",
-      "exampleVi": "Cô ấy là bạn thân của tôi."
+      "word": "Father",
+      "phonetic": "/ˈfɑː.ðɚ/",
+      "meaning": "Bố",
+      "example": "My father is a doctor.",
+      "exampleVi": "Bố tôi là bác sĩ."
+    },
+    {
+      "id": "v2_3",
+      "word": "Mother",
+      "phonetic": "/ˈmʌð.ɚ/",
+      "meaning": "Mẹ",
+      "example": "My mother is a teacher.",
+      "exampleVi": "Mẹ tôi là giáo viên."
+    },
+    {
+      "id": "v2_4",
+      "word": "Brother",
+      "phonetic": "/ˈbrʌð.ɚ/",
+      "meaning": "Anh/Em trai",
+      "example": "I have one brother.",
+      "exampleVi": "Tôi có một người anh/em trai."
+    },
+    {
+      "id": "v2_5",
+      "word": "Sister",
+      "phonetic": "/ˈsɪs.tɚ/",
+      "meaning": "Chị/Em gái",
+      "example": "She is my sister.",
+      "exampleVi": "Cô ấy là chị/em gái tôi."
+    },
+    {
+      "id": "v2_6",
+      "word": "Son",
+      "phonetic": "/sʌn/",
+      "meaning": "Con trai",
+      "example": "He is my son.",
+      "exampleVi": "Nó là con trai tôi."
+    },
+    {
+      "id": "v2_7",
+      "word": "Daughter",
+      "phonetic": "/ˈdɑː.t̬ɚ/",
+      "meaning": "Con gái",
+      "example": "She is my daughter.",
+      "exampleVi": "Nó là con gái tôi."
+    },
+    {
+      "id": "v2_8",
+      "word": "Grandparents",
+      "phonetic": "/ˈɡræn.per.ənts/",
+      "meaning": "Ông bà",
+      "example": "I love my grandparents.",
+      "exampleVi": "Tôi yêu ông bà tôi."
+    },
+    {
+      "id": "v2_9",
+      "word": "Uncle",
+      "phonetic": "/ˈʌŋ.kəl/",
+      "meaning": "Chú/Bác",
+      "example": "He is my uncle.",
+      "exampleVi": "Ông ấy là chú/bác tôi."
+    },
+    {
+      "id": "v2_10",
+      "word": "Aunt",
+      "phonetic": "/ænt/",
+      "meaning": "Cô/Dì",
+      "example": "She is my aunt.",
+      "exampleVi": "Bà ấy là cô/dì tôi."
     }
   ],
   "listening": [
     {
       "id": "l2_1",
+      "sentence": "This is my family photo.",
+      "sentenceVi": "Đây là ảnh gia đình tôi."
+    },
+    {
+      "id": "l2_2",
+      "sentence": "My father is 50 years old.",
+      "sentenceVi": "Bố tôi 50 tuổi."
+    },
+    {
+      "id": "l2_3",
+      "sentence": "My mother is very kind.",
+      "sentenceVi": "Mẹ tôi rất tốt bụng."
+    },
+    {
+      "id": "l2_4",
       "sentence": "I have a big family.",
       "sentenceVi": "Tôi có một gia đình lớn."
     },
     {
-      "id": "l2_2",
-      "sentence": "This is my friend, Alex.",
-      "sentenceVi": "Đây là bạn của tôi, Alex."
+      "id": "l2_5",
+      "sentence": "Do you have any brothers?",
+      "sentenceVi": "Bạn có anh em trai nào không?"
+    },
+    {
+      "id": "l2_6",
+      "sentence": "No, I only have a sister.",
+      "sentenceVi": "Không, tôi chỉ có một người em gái."
+    },
+    {
+      "id": "l2_7",
+      "sentence": "My uncle lives in London.",
+      "sentenceVi": "Chú tôi sống ở Luân Đôn."
+    },
+    {
+      "id": "l2_8",
+      "sentence": "My grandparents are retired.",
+      "sentenceVi": "Ông bà tôi đã nghỉ hưu."
+    },
+    {
+      "id": "l2_9",
+      "sentence": "Is she your daughter?",
+      "sentenceVi": "Cô bé có phải là con gái bạn không?"
+    },
+    {
+      "id": "l2_10",
+      "sentence": "We are a happy family.",
+      "sentenceVi": "Chúng tôi là một gia đình hạnh phúc."
     }
   ],
   "speaking": [
     {
       "id": "s2_1",
-      "sentence": "How many people are there in your family?",
-      "sentenceVi": "Có bao nhiêu người trong gia đình bạn?"
+      "sentence": "Who is he?",
+      "sentenceVi": "Ông ấy là ai?"
+    },
+    {
+      "id": "s2_2",
+      "sentence": "He is my father.",
+      "sentenceVi": "Ông ấy là bố tôi."
+    },
+    {
+      "id": "s2_3",
+      "sentence": "Who is she?",
+      "sentenceVi": "Bà ấy là ai?"
+    },
+    {
+      "id": "s2_4",
+      "sentence": "She is my sister.",
+      "sentenceVi": "Cô ấy là chị/em gái tôi."
+    },
+    {
+      "id": "s2_5",
+      "sentence": "How many siblings do you have?",
+      "sentenceVi": "Bạn có bao nhiêu anh chị em?"
+    },
+    {
+      "id": "s2_6",
+      "sentence": "I have one brother.",
+      "sentenceVi": "Tôi có một anh/em trai."
+    },
+    {
+      "id": "s2_7",
+      "sentence": "My family is small.",
+      "sentenceVi": "Gia đình tôi nhỏ."
+    },
+    {
+      "id": "s2_8",
+      "sentence": "Do you live with your parents?",
+      "sentenceVi": "Bạn có sống cùng bố mẹ không?"
+    },
+    {
+      "id": "s2_9",
+      "sentence": "Yes, I do.",
+      "sentenceVi": "Vâng, tôi có."
+    },
+    {
+      "id": "s2_10",
+      "sentence": "This is my aunt.",
+      "sentenceVi": "Đây là cô/dì của tôi."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w2_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "She is my best _____.",
-      "answer": "friend",
-      "hint": "bạn bè"
+      "question": "My _____ is a doctor.",
+      "answer": "father",
+      "hint": "bố"
+    },
+    {
+      "id": "w2_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I have one _____.",
+      "answer": "brother",
+      "hint": "anh/em trai"
+    },
+    {
+      "id": "w2_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is my _____.",
+      "answer": "mother",
+      "hint": "mẹ"
+    },
+    {
+      "id": "w2_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I have two _____.",
+      "answer": "sisters",
+      "hint": "chị/em gái"
+    },
+    {
+      "id": "w2_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I love my _____.",
+      "answer": "family",
+      "hint": "gia đình"
+    },
+    {
+      "id": "w2_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is my _____.",
+      "answer": "uncle",
+      "hint": "chú/bác"
+    },
+    {
+      "id": "w2_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is my _____.",
+      "answer": "aunt",
+      "hint": "cô/dì"
+    },
+    {
+      "id": "w2_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is my _____.",
+      "answer": "son",
+      "hint": "con trai"
+    },
+    {
+      "id": "w2_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is my _____.",
+      "answer": "daughter",
+      "hint": "con gái"
+    },
+    {
+      "id": "w2_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I love my _____.",
+      "answer": "grandparents",
+      "hint": "ông bà"
     }
   ],
   "quizzes": [
     {
       "id": "q2_1",
-      "question": "Từ vựng 'Family' nghĩa là gì?",
+      "question": "'Father' nghĩa là gì?",
       "options": [
-        "Gia đình",
-        "Bạn bè",
-        "Trường học",
-        "Công việc"
+        "Bố",
+        "Mẹ",
+        "Anh",
+        "Chị"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q2_2",
+      "question": "I _____ two brothers.",
+      "options": [
+        "has",
+        "have",
+        "am",
+        "do"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q2_3",
+      "question": "She _____ my mother.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q2_4",
+      "question": "My _____ are retired.",
+      "options": [
+        "parent",
+        "parents",
+        "grandparents",
+        "uncles"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q2_5",
+      "question": "Who is _____?",
+      "options": [
+        "he",
+        "she",
+        "it",
+        "they"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q2_6",
+      "question": "He is my _____.",
+      "options": [
+        "sister",
+        "daughter",
+        "aunt",
+        "son"
+      ],
+      "correct": 3
+    },
+    {
+      "id": "q2_7",
+      "question": "Do you _____ a sister?",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q2_8",
+      "question": "'Uncle' nghĩa là gì?",
+      "options": [
+        "Chú",
+        "Cô",
+        "Anh",
+        "Em"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q2_9",
+      "question": "They _____ my friends.",
+      "options": [
+        "isn't",
+        "aren't",
+        "don't",
+        "doesn't"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q2_10",
+      "question": "I love _____ family.",
+      "options": [
+        "my",
+        "me",
+        "mine",
+        "I"
       ],
       "correct": 0
     }

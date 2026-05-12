@@ -16,8 +16,16 @@
         "formula": "S + V2/ed",
         "examples": [
           {
-            "en": "She wore a beautiful hat.",
-            "vi": "Cô ấy đã đội một chiếc mũ đẹp."
+            "en": "I wore a red dress.",
+            "vi": "Tôi đã mặc một chiếc váy đỏ."
+          },
+          {
+            "en": "She bought a new hat.",
+            "vi": "Cô ấy đã mua một chiếc mũ mới."
+          },
+          {
+            "en": "They washed their clothes.",
+            "vi": "Họ đã giặt quần áo của mình."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "I didn't buy those shoes.",
-            "vi": "Tôi đã không mua đôi giày đó."
+            "en": "I didn't wear shoes.",
+            "vi": "Tôi đã không đi giày."
+          },
+          {
+            "en": "He didn't like the shirt.",
+            "vi": "Anh ấy đã không thích chiếc áo sơ mi đó."
+          },
+          {
+            "en": "We didn't see the suit.",
+            "vi": "Chúng tôi đã không thấy bộ com-lê."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v19_1",
-      "word": "Shirt",
-      "phonetic": "/ʃɝːt/",
-      "meaning": "Áo sơ mi",
-      "example": "I wear a white shirt.",
-      "exampleVi": "Tôi mặc áo sơ mi trắng."
+      "word": "Clothes",
+      "phonetic": "/kloʊðz/",
+      "meaning": "Quần áo",
+      "example": "Wear new clothes.",
+      "exampleVi": "Mặc quần áo mới."
     },
     {
       "id": "v19_2",
+      "word": "Shirt",
+      "phonetic": "/ʃɝːt/",
+      "meaning": "Áo sơ mi",
+      "example": "A white shirt.",
+      "exampleVi": "Một chiếc áo trắng."
+    },
+    {
+      "id": "v19_3",
+      "word": "Dress",
+      "phonetic": "/dres/",
+      "meaning": "Váy liền",
+      "example": "A beautiful dress.",
+      "exampleVi": "Một chiếc váy đẹp."
+    },
+    {
+      "id": "v19_4",
+      "word": "Hat",
+      "phonetic": "/hæt/",
+      "meaning": "Mũ",
+      "example": "Put on your hat.",
+      "exampleVi": "Đội mũ vào."
+    },
+    {
+      "id": "v19_5",
       "word": "Shoes",
       "phonetic": "/ʃuːz/",
       "meaning": "Giày",
-      "example": "These shoes are new.",
-      "exampleVi": "Đôi giày này mới."
+      "example": "A pair of shoes.",
+      "exampleVi": "Một đôi giày."
+    },
+    {
+      "id": "v19_6",
+      "word": "Pants",
+      "phonetic": "/pænts/",
+      "meaning": "Quần dài",
+      "example": "Blue pants.",
+      "exampleVi": "Quần xanh."
+    },
+    {
+      "id": "v19_7",
+      "word": "Skirt",
+      "phonetic": "/skɝːt/",
+      "meaning": "Chân váy",
+      "example": "A short skirt.",
+      "exampleVi": "Một cái chân váy ngắn."
+    },
+    {
+      "id": "v19_8",
+      "word": "Coat",
+      "phonetic": "/koʊt/",
+      "meaning": "Áo khoác",
+      "example": "Wear a coat.",
+      "exampleVi": "Mặc áo khoác."
+    },
+    {
+      "id": "v19_9",
+      "word": "Sock",
+      "phonetic": "/sɑːk/",
+      "meaning": "Tất/Vớ",
+      "example": "A pair of socks.",
+      "exampleVi": "Một đôi tất."
+    },
+    {
+      "id": "v19_10",
+      "word": "Suit",
+      "phonetic": "/suːt/",
+      "meaning": "Bộ com-lê",
+      "example": "He wore a suit.",
+      "exampleVi": "Anh ấy đã mặc com-lê."
     }
   ],
   "listening": [
     {
       "id": "l19_1",
-      "sentence": "I wore a new shirt yesterday.",
-      "sentenceVi": "Hôm qua tôi đã mặc áo mới."
+      "sentence": "I wore a black suit to the party.",
+      "sentenceVi": "Tôi đã mặc một bộ com-lê đen đến bữa tiệc."
     },
     {
       "id": "l19_2",
-      "sentence": "She bought new shoes.",
-      "sentenceVi": "Cô ấy đã mua giày mới."
+      "sentence": "She bought a beautiful red dress.",
+      "sentenceVi": "Cô ấy đã mua một chiếc váy đỏ rất đẹp."
+    },
+    {
+      "id": "l19_3",
+      "sentence": "Did you wash your clothes yesterday?",
+      "sentenceVi": "Hôm qua bạn đã giặt quần áo chưa?"
+    },
+    {
+      "id": "l19_4",
+      "sentence": "I lost my favorite hat in the park.",
+      "sentenceVi": "Tôi đã làm mất chiếc mũ yêu thích trong công viên."
+    },
+    {
+      "id": "l19_5",
+      "sentence": "He wore new shoes for the race.",
+      "sentenceVi": "Anh ấy đã đi giày mới để chạy đua."
+    },
+    {
+      "id": "l19_6",
+      "sentence": "It was cold, so I wore a coat.",
+      "sentenceVi": "Trời lạnh nên tôi đã mặc áo khoác."
+    },
+    {
+      "id": "l19_7",
+      "sentence": "The pants were too long for me.",
+      "sentenceVi": "Cái quần quá dài đối với tôi."
+    },
+    {
+      "id": "l19_8",
+      "sentence": "Where did you buy that shirt?",
+      "sentenceVi": "Bạn đã mua chiếc áo sơ mi đó ở đâu?"
+    },
+    {
+      "id": "l19_9",
+      "sentence": "She wore a white skirt yesterday.",
+      "sentenceVi": "Hôm qua cô ấy đã mặc một cái chân váy trắng."
+    },
+    {
+      "id": "l19_10",
+      "sentence": "I didn't find my socks this morning.",
+      "sentenceVi": "Sáng nay tôi đã không tìm thấy tất của mình."
     }
   ],
   "speaking": [
     {
       "id": "s19_1",
-      "sentence": "What are you wearing today?",
-      "sentenceVi": "Hôm nay bạn mặc gì?"
+      "sentence": "I like your dress.",
+      "sentenceVi": "Tôi thích chiếc váy của bạn."
+    },
+    {
+      "id": "s19_2",
+      "sentence": "Thank you, I bought it yesterday.",
+      "sentenceVi": "Cảm ơn, tôi đã mua nó hôm qua."
+    },
+    {
+      "id": "s19_3",
+      "sentence": "What did he wear?",
+      "sentenceVi": "Anh ấy đã mặc gì?"
+    },
+    {
+      "id": "s19_4",
+      "sentence": "He wore a blue shirt.",
+      "sentenceVi": "Anh ấy đã mặc áo sơ mi xanh."
+    },
+    {
+      "id": "s19_5",
+      "sentence": "Is it new?",
+      "sentenceVi": "Nó mới à?"
+    },
+    {
+      "id": "s19_6",
+      "sentence": "Yes, it's new.",
+      "sentenceVi": "Vâng, nó mới."
+    },
+    {
+      "id": "s19_7",
+      "sentence": "I need new shoes.",
+      "sentenceVi": "Tôi cần giày mới."
+    },
+    {
+      "id": "s19_8",
+      "sentence": "Me too.",
+      "sentenceVi": "Tôi cũng vậy."
+    },
+    {
+      "id": "s19_9",
+      "sentence": "That hat is cool.",
+      "sentenceVi": "Cái mũ đó ngầu quá."
+    },
+    {
+      "id": "s19_10",
+      "sentence": "Thanks!",
+      "sentenceVi": "Cảm ơn!"
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w19_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I wear a white _____.",
+      "question": "I _____ a red dress.",
+      "answer": "wore",
+      "hint": "đã mặc"
+    },
+    {
+      "id": "w19_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She _____ a new hat.",
+      "answer": "bought",
+      "hint": "đã mua"
+    },
+    {
+      "id": "w19_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A white _____.",
       "answer": "shirt",
       "hint": "áo sơ mi"
+    },
+    {
+      "id": "w19_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A pair of _____.",
+      "answer": "shoes",
+      "hint": "giày"
+    },
+    {
+      "id": "w19_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Put on your _____.",
+      "answer": "hat",
+      "hint": "mũ"
+    },
+    {
+      "id": "w19_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I washed my _____.",
+      "answer": "clothes",
+      "hint": "quần áo"
+    },
+    {
+      "id": "w19_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Blue _____.",
+      "answer": "pants",
+      "hint": "quần dài"
+    },
+    {
+      "id": "w19_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Wear a _____.",
+      "answer": "coat",
+      "hint": "áo khoác"
+    },
+    {
+      "id": "w19_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A pair of _____.",
+      "answer": "socks",
+      "hint": "tất/vớ"
+    },
+    {
+      "id": "w19_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He wore a _____.",
+      "answer": "suit",
+      "hint": "bộ com-lê"
     }
   ],
   "quizzes": [
     {
       "id": "q19_1",
+      "question": "'Dress' là loại quần áo gì?",
+      "options": [
+        "Áo sơ mi",
+        "Váy liền",
+        "Quần dài",
+        "Mũ"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_2",
+      "question": "I _____ new shoes yesterday.",
+      "options": [
+        "wear",
+        "wore",
+        "wears",
+        "wearing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_3",
+      "question": "She _____ not buy the hat.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q19_4",
+      "question": "Did you _____ your clothes?",
+      "options": [
+        "wash",
+        "washed",
+        "washes",
+        "washing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q19_5",
+      "question": "The shirt _____ very expensive.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_6",
+      "question": "I _____ my favorite hat.",
+      "options": [
+        "lose",
+        "lost",
+        "loses",
+        "losing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_7",
       "question": "'Shoes' nghĩa là gì?",
       "options": [
+        "Tất",
         "Giày",
-        "Áo",
-        "Quần",
-        "Mũ"
+        "Mũ",
+        "Áo"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_8",
+      "question": "I _____ not find my socks.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q19_9",
+      "question": "He _____ a black suit.",
+      "options": [
+        "wear",
+        "wore",
+        "wears",
+        "wearing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q19_10",
+      "question": "A beautiful _____.",
+      "options": [
+        "dress",
+        "pants",
+        "suit",
+        "shirt"
       ],
       "correct": 0
     }

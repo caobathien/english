@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "I am listening to a great song.",
-            "vi": "Tôi đang nghe một bài hát tuyệt vời."
+            "en": "I am listening to music.",
+            "vi": "Tôi đang nghe nhạc."
+          },
+          {
+            "en": "She is watching a movie.",
+            "vi": "Cô ấy đang xem một bộ phim."
+          },
+          {
+            "en": "They are singing a song.",
+            "vi": "Họ đang hát một bài hát."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
-            "en": "We are not watching a horror movie.",
-            "vi": "Chúng tôi không đang xem phim kinh dị."
+            "en": "I am not watching TV.",
+            "vi": "Tôi không đang xem tivi."
+          },
+          {
+            "en": "He is not listening to us.",
+            "vi": "Anh ấy không đang nghe chúng tôi."
+          },
+          {
+            "en": "We are not going to the cinema.",
+            "vi": "Chúng tôi không đi xem phim (rạp)."
           }
         ]
       }
@@ -39,35 +55,184 @@
       "word": "Music",
       "phonetic": "/ˈmjuː.zɪk/",
       "meaning": "Âm nhạc",
-      "example": "I listen to music.",
-      "exampleVi": "Tôi nghe nhạc."
+      "example": "Listen to music.",
+      "exampleVi": "Nghe nhạc."
     },
     {
       "id": "v14_2",
       "word": "Movie",
       "phonetic": "/ˈmuː.vi/",
       "meaning": "Phim",
-      "example": "Let's watch a movie.",
-      "exampleVi": "Hãy xem phim đi."
+      "example": "Watch a movie.",
+      "exampleVi": "Xem phim."
+    },
+    {
+      "id": "v14_3",
+      "word": "Song",
+      "phonetic": "/sɔːŋ/",
+      "meaning": "Bài hát",
+      "example": "Sing a song.",
+      "exampleVi": "Hát một bài hát."
+    },
+    {
+      "id": "v14_4",
+      "word": "Singer",
+      "phonetic": "/ˈsɪŋ.ɚ/",
+      "meaning": "Ca sĩ",
+      "example": "She is a singer.",
+      "exampleVi": "Cô ấy là ca sĩ."
+    },
+    {
+      "id": "v14_5",
+      "word": "Actor",
+      "phonetic": "/ˈæk.tɚ/",
+      "meaning": "Diễn viên",
+      "example": "He is an actor.",
+      "exampleVi": "Anh ấy là diễn viên."
+    },
+    {
+      "id": "v14_6",
+      "word": "Cinema",
+      "phonetic": "/ˈsɪn.ə.mə/",
+      "meaning": "Rạp chiếu phim",
+      "example": "Go to the cinema.",
+      "exampleVi": "Đi xem phim."
+    },
+    {
+      "id": "v14_7",
+      "word": "Piano",
+      "phonetic": "/piˈæn.oʊ/",
+      "meaning": "Đàn piano",
+      "example": "Play the piano.",
+      "exampleVi": "Chơi đàn piano."
+    },
+    {
+      "id": "v14_8",
+      "word": "Guitar",
+      "phonetic": "/ɡɪˈtɑːr/",
+      "meaning": "Đàn guitar",
+      "example": "Play the guitar.",
+      "exampleVi": "Chơi đàn guitar."
+    },
+    {
+      "id": "v14_9",
+      "word": "Listen",
+      "phonetic": "/ˈlɪs.ən/",
+      "meaning": "Nghe",
+      "example": "Listen to me.",
+      "exampleVi": "Hãy nghe tôi."
+    },
+    {
+      "id": "v14_10",
+      "word": "Watch",
+      "phonetic": "/wɑːtʃ/",
+      "meaning": "Xem",
+      "example": "Watch TV.",
+      "exampleVi": "Xem tivi."
     }
   ],
   "listening": [
     {
       "id": "l14_1",
-      "sentence": "I listen to music every day.",
-      "sentenceVi": "Tôi nghe nhạc mỗi ngày."
+      "sentence": "What are you listening to?",
+      "sentenceVi": "Bạn đang nghe gì vậy?"
     },
     {
       "id": "l14_2",
-      "sentence": "This movie is interesting.",
-      "sentenceVi": "Bộ phim này thú vị."
+      "sentence": "I am listening to a new song.",
+      "sentenceVi": "Tôi đang nghe một bài hát mới."
+    },
+    {
+      "id": "l14_3",
+      "sentence": "She is watching a romantic movie.",
+      "sentenceVi": "Cô ấy đang xem một bộ phim lãng mạn."
+    },
+    {
+      "id": "l14_4",
+      "sentence": "Are they going to the cinema tonight?",
+      "sentenceVi": "Họ có đi xem phim tối nay không?"
+    },
+    {
+      "id": "l14_5",
+      "sentence": "The singer is performing on stage.",
+      "sentenceVi": "Ca sĩ đang biểu diễn trên sân khấu."
+    },
+    {
+      "id": "l14_6",
+      "sentence": "He is playing the guitar beautifully.",
+      "sentenceVi": "Anh ấy đang chơi guitar rất hay."
+    },
+    {
+      "id": "l14_7",
+      "sentence": "I am not watching horror movies.",
+      "sentenceVi": "Tôi không đang xem phim kinh dị."
+    },
+    {
+      "id": "l14_8",
+      "sentence": "Is she playing the piano?",
+      "sentenceVi": "Cô ấy có đang chơi piano không?"
+    },
+    {
+      "id": "l14_9",
+      "sentence": "We are singing together.",
+      "sentenceVi": "Chúng tôi đang hát cùng nhau."
+    },
+    {
+      "id": "l14_10",
+      "sentence": "The actor is very famous.",
+      "sentenceVi": "Diễn viên đó rất nổi tiếng."
     }
   ],
   "speaking": [
     {
       "id": "s14_1",
-      "sentence": "What kind of music do you like?",
-      "sentenceVi": "Bạn thích thể loại nhạc nào?"
+      "sentence": "Do you like music?",
+      "sentenceVi": "Bạn có thích âm nhạc không?"
+    },
+    {
+      "id": "s14_2",
+      "sentence": "Yes, I love pop music.",
+      "sentenceVi": "Có, tôi yêu nhạc pop."
+    },
+    {
+      "id": "s14_3",
+      "sentence": "Who is your favorite singer?",
+      "sentenceVi": "Ca sĩ yêu thích của bạn là ai?"
+    },
+    {
+      "id": "s14_4",
+      "sentence": "I like Taylor Swift.",
+      "sentenceVi": "Tôi thích Taylor Swift."
+    },
+    {
+      "id": "s14_5",
+      "sentence": "What movie are you watching?",
+      "sentenceVi": "Bạn đang xem phim gì thế?"
+    },
+    {
+      "id": "s14_6",
+      "sentence": "I am watching an action movie.",
+      "sentenceVi": "Tôi đang xem một bộ phim hành động."
+    },
+    {
+      "id": "s14_7",
+      "sentence": "Do you play any instruments?",
+      "sentenceVi": "Bạn có chơi nhạc cụ nào không?"
+    },
+    {
+      "id": "s14_8",
+      "sentence": "I play the guitar.",
+      "sentenceVi": "Tôi chơi guitar."
+    },
+    {
+      "id": "s14_9",
+      "sentence": "Let's go to the cinema.",
+      "sentenceVi": "Chúng ta hãy đi rạp chiếu phim đi."
+    },
+    {
+      "id": "s14_10",
+      "sentence": "Great idea!",
+      "sentenceVi": "Ý kiến hay đấy!"
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w14_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "Let's watch a _____.",
+      "question": "I am _____ to music.",
+      "answer": "listening",
+      "hint": "đang nghe"
+    },
+    {
+      "id": "w14_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is _____ a movie.",
+      "answer": "watching",
+      "hint": "đang xem"
+    },
+    {
+      "id": "w14_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They are _____ a song.",
+      "answer": "singing",
+      "hint": "đang hát"
+    },
+    {
+      "id": "w14_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is a famous _____.",
+      "answer": "singer",
+      "hint": "ca sĩ"
+    },
+    {
+      "id": "w14_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is an _____.",
+      "answer": "actor",
+      "hint": "diễn viên"
+    },
+    {
+      "id": "w14_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "cinema",
+      "hint": "rạp chiếu phim"
+    },
+    {
+      "id": "w14_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I play the _____.",
+      "answer": "guitar",
+      "hint": "đàn guitar"
+    },
+    {
+      "id": "w14_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She plays the _____.",
+      "answer": "piano",
+      "hint": "đàn piano"
+    },
+    {
+      "id": "w14_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Listen to the _____.",
+      "answer": "music",
+      "hint": "âm nhạc"
+    },
+    {
+      "id": "w14_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Watch a _____.",
       "answer": "movie",
-      "hint": "phim"
+      "hint": "bộ phim"
     }
   ],
   "quizzes": [
     {
       "id": "q14_1",
-      "question": "'Music' nghĩa là gì?",
+      "question": "'Movie' nghĩa là gì?",
       "options": [
-        "Âm nhạc",
-        "Phim",
-        "Sách",
-        "Trò chơi"
+        "Bài hát",
+        "Bộ phim",
+        "Vở kịch",
+        "Quyển sách"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q14_2",
+      "question": "I am listening _____ music.",
+      "options": [
+        "to",
+        "at",
+        "on",
+        "in"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14_3",
+      "question": "She _____ watching a movie.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14_4",
+      "question": "They are _____ a song.",
+      "options": [
+        "sing",
+        "singing",
+        "sings",
+        "sang"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q14_5",
+      "question": "Are you _____ the piano?",
+      "options": [
+        "play",
+        "playing",
+        "plays",
+        "played"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q14_6",
+      "question": "I am _____ watching TV.",
+      "options": [
+        "not",
+        "no",
+        "don't",
+        "doesn't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14_7",
+      "question": "'Singer' nghĩa là gì?",
+      "options": [
+        "Diễn viên",
+        "Ca sĩ",
+        "Nhạc sĩ",
+        "Họa sĩ"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q14_8",
+      "question": "Go to the _____.",
+      "options": [
+        "cinema",
+        "theatre",
+        "museum",
+        "park"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14_9",
+      "question": "He _____ playing the guitar.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q14_10",
+      "question": "A famous _____.",
+      "options": [
+        "actor",
+        "actress",
+        "action",
+        "acting"
       ],
       "correct": 0
     }

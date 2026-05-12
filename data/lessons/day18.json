@@ -18,6 +18,14 @@
           {
             "en": "I cleaned the house.",
             "vi": "Tôi đã dọn dẹp nhà cửa."
+          },
+          {
+            "en": "She bought a new sofa.",
+            "vi": "Cô ấy đã mua một chiếc ghế sofa mới."
+          },
+          {
+            "en": "We moved to a new flat.",
+            "vi": "Chúng tôi đã chuyển đến một căn hộ mới."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "He didn't paint the walls.",
-            "vi": "Anh ấy đã không sơn tường."
+            "en": "I didn't paint the walls.",
+            "vi": "Tôi đã không sơn tường."
+          },
+          {
+            "en": "He didn't fix the chair.",
+            "vi": "Anh ấy đã không sửa cái ghế."
+          },
+          {
+            "en": "They didn't sell the house.",
+            "vi": "Họ đã không bán ngôi nhà."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v18_1",
-      "word": "House",
-      "phonetic": "/haʊs/",
-      "meaning": "Ngôi nhà",
-      "example": "This is my house.",
-      "exampleVi": "Đây là nhà của tôi."
+      "word": "Home",
+      "phonetic": "/hoʊm/",
+      "meaning": "Nhà/Tổ ấm",
+      "example": "Stay at home.",
+      "exampleVi": "Ở nhà."
     },
     {
       "id": "v18_2",
+      "word": "House",
+      "phonetic": "/haʊs/",
+      "meaning": "Ngôi nhà",
+      "example": "A big house.",
+      "exampleVi": "Một ngôi nhà lớn."
+    },
+    {
+      "id": "v18_3",
+      "word": "Sofa",
+      "phonetic": "/ˈsoʊ.fə/",
+      "meaning": "Ghế sofa",
+      "example": "Sit on the sofa.",
+      "exampleVi": "Ngồi trên sofa."
+    },
+    {
+      "id": "v18_4",
+      "word": "Table",
+      "phonetic": "/ˈteɪ.bəl/",
+      "meaning": "Cái bàn",
+      "example": "On the table.",
+      "exampleVi": "Trên bàn."
+    },
+    {
+      "id": "v18_5",
       "word": "Chair",
       "phonetic": "/tʃer/",
       "meaning": "Cái ghế",
-      "example": "Sit on the chair.",
-      "exampleVi": "Hãy ngồi lên ghế."
+      "example": "A wooden chair.",
+      "exampleVi": "Một cái ghế gỗ."
+    },
+    {
+      "id": "v18_6",
+      "word": "Bed",
+      "phonetic": "/bed/",
+      "meaning": "Cái giường",
+      "example": "Go to bed.",
+      "exampleVi": "Đi ngủ."
+    },
+    {
+      "id": "v18_7",
+      "word": "Kitchen",
+      "phonetic": "/ˈkɪtʃ.ən/",
+      "meaning": "Nhà bếp",
+      "example": "Cook in the kitchen.",
+      "exampleVi": "Nấu ăn trong bếp."
+    },
+    {
+      "id": "v18_8",
+      "word": "Door",
+      "phonetic": "/dɔːr/",
+      "meaning": "Cánh cửa",
+      "example": "Open the door.",
+      "exampleVi": "Mở cửa."
+    },
+    {
+      "id": "v18_9",
+      "word": "Window",
+      "phonetic": "/ˈwɪn.doʊ/",
+      "meaning": "Cửa sổ",
+      "example": "Look out the window.",
+      "exampleVi": "Nhìn ra ngoài cửa sổ."
+    },
+    {
+      "id": "v18_10",
+      "word": "Room",
+      "phonetic": "/ruːm/",
+      "meaning": "Căn phòng",
+      "example": "A clean room.",
+      "exampleVi": "Một căn phòng sạch sẽ."
     }
   ],
   "listening": [
     {
       "id": "l18_1",
-      "sentence": "I cleaned my house yesterday.",
-      "sentenceVi": "Hôm qua tôi đã dọn nhà."
+      "sentence": "I stayed at home last weekend.",
+      "sentenceVi": "Tôi đã ở nhà vào cuối tuần trước."
     },
     {
       "id": "l18_2",
-      "sentence": "He moved the chair.",
-      "sentenceVi": "Anh ấy đã di chuyển cái ghế."
+      "sentence": "She cleaned her room yesterday.",
+      "sentenceVi": "Hôm qua cô ấy đã dọn dẹp phòng của mình."
+    },
+    {
+      "id": "l18_3",
+      "sentence": "We bought some new furniture.",
+      "sentenceVi": "Chúng tôi đã mua một số nội thất mới."
+    },
+    {
+      "id": "l18_4",
+      "sentence": "He fixed the broken window.",
+      "sentenceVi": "Anh ấy đã sửa cái cửa sổ bị vỡ."
+    },
+    {
+      "id": "l18_5",
+      "sentence": "The cat was sleeping on the sofa.",
+      "sentenceVi": "Con mèo đang ngủ trên sofa."
+    },
+    {
+      "id": "l18_6",
+      "sentence": "Did you paint the kitchen?",
+      "sentenceVi": "Bạn đã sơn nhà bếp chưa?"
+    },
+    {
+      "id": "l18_7",
+      "sentence": "I opened the door for her.",
+      "sentenceVi": "Tôi đã mở cửa cho cô ấy."
+    },
+    {
+      "id": "l18_8",
+      "sentence": "The table was very old.",
+      "sentenceVi": "Cái bàn đã rất cũ."
+    },
+    {
+      "id": "l18_9",
+      "sentence": "We moved into this house last year.",
+      "sentenceVi": "Chúng tôi đã chuyển vào ngôi nhà này năm ngoái."
+    },
+    {
+      "id": "l18_10",
+      "sentence": "I didn't see you in the room.",
+      "sentenceVi": "Tôi đã không thấy bạn trong phòng."
     }
   ],
   "speaking": [
     {
       "id": "s18_1",
-      "sentence": "How many rooms does your house have?",
-      "sentenceVi": "Nhà bạn có bao nhiêu phòng?"
+      "sentence": "Where do you live?",
+      "sentenceVi": "Bạn sống ở đâu?"
+    },
+    {
+      "id": "s18_2",
+      "sentence": "I live in a small house.",
+      "sentenceVi": "Tôi sống trong một ngôi nhà nhỏ."
+    },
+    {
+      "id": "s18_3",
+      "sentence": "How many rooms are there?",
+      "sentenceVi": "Có bao nhiêu phòng?"
+    },
+    {
+      "id": "s18_4",
+      "sentence": "There are four rooms.",
+      "sentenceVi": "Có 4 phòng."
+    },
+    {
+      "id": "s18_5",
+      "sentence": "Did you buy a new sofa?",
+      "sentenceVi": "Bạn đã mua sofa mới à?"
+    },
+    {
+      "id": "s18_6",
+      "sentence": "Yes, it's very comfortable.",
+      "sentenceVi": "Vâng, nó rất thoải mái."
+    },
+    {
+      "id": "s18_7",
+      "sentence": "I like your kitchen.",
+      "sentenceVi": "Tôi thích nhà bếp của bạn."
+    },
+    {
+      "id": "s18_8",
+      "sentence": "Thank you, I cleaned it.",
+      "sentenceVi": "Cảm ơn, tôi đã dọn dẹp nó rồi."
+    },
+    {
+      "id": "s18_9",
+      "sentence": "Close the window, please.",
+      "sentenceVi": "Làm ơn đóng cửa sổ lại."
+    },
+    {
+      "id": "s18_10",
+      "sentence": "Okay, sure.",
+      "sentenceVi": "Được thôi, chắc chắn rồi."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w18_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "This is my _____.",
-      "answer": "house",
-      "hint": "ngôi nhà"
+      "question": "I _____ the house.",
+      "answer": "cleaned",
+      "hint": "đã dọn dẹp"
+    },
+    {
+      "id": "w18_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She _____ a new sofa.",
+      "answer": "bought",
+      "hint": "đã mua"
+    },
+    {
+      "id": "w18_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Sit on the _____.",
+      "answer": "sofa",
+      "hint": "ghế sofa"
+    },
+    {
+      "id": "w18_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Open the _____.",
+      "answer": "door",
+      "hint": "cánh cửa"
+    },
+    {
+      "id": "w18_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "In the _____.",
+      "answer": "kitchen",
+      "hint": "nhà bếp"
+    },
+    {
+      "id": "w18_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "On the _____.",
+      "answer": "table",
+      "hint": "cái bàn"
+    },
+    {
+      "id": "w18_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He _____ the window.",
+      "answer": "fixed",
+      "hint": "đã sửa"
+    },
+    {
+      "id": "w18_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A wooden _____.",
+      "answer": "chair",
+      "hint": "cái ghế"
+    },
+    {
+      "id": "w18_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to _____.",
+      "answer": "bed",
+      "hint": "đi ngủ (bed)"
+    },
+    {
+      "id": "w18_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A clean _____.",
+      "answer": "room",
+      "hint": "căn phòng"
     }
   ],
   "quizzes": [
     {
       "id": "q18_1",
-      "question": "'Chair' nghĩa là gì?",
+      "question": "'Kitchen' là phòng gì?",
       "options": [
-        "Cái ghế",
-        "Cái bàn",
-        "Cái giường",
-        "Cái tủ"
+        "Khách",
+        "Ngủ",
+        "Bếp",
+        "Tắm"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q18_2",
+      "question": "I _____ at home yesterday.",
+      "options": [
+        "stay",
+        "stayed",
+        "stays",
+        "staying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q18_3",
+      "question": "They _____ not move last week.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q18_4",
+      "question": "Did you _____ the door?",
+      "options": [
+        "open",
+        "opened",
+        "opens",
+        "opening"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q18_5",
+      "question": "The chair _____ very expensive.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q18_6",
+      "question": "We _____ a new bed.",
+      "options": [
+        "buy",
+        "bought",
+        "buys",
+        "buying"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q18_7",
+      "question": "'Window' nghĩa là gì?",
+      "options": [
+        "Cửa sổ",
+        "Cửa chính",
+        "Bức tường",
+        "Trần nhà"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q18_8",
+      "question": "I _____ see you there.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q18_9",
+      "question": "She _____ her room.",
+      "options": [
+        "clean",
+        "cleaned",
+        "cleans",
+        "cleaning"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q18_10",
+      "question": "A big _____.",
+      "options": [
+        "house",
+        "sofa",
+        "table",
+        "chair"
       ],
       "correct": 0
     }

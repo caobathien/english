@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "A teacher works at a school.",
-            "vi": "Một giáo viên làm việc tại trường học."
+            "en": "I am a doctor.",
+            "vi": "Tôi là một bác sĩ."
+          },
+          {
+            "en": "She works at a bank.",
+            "vi": "Cô ấy làm việc tại ngân hàng."
+          },
+          {
+            "en": "A teacher teaches students.",
+            "vi": "Một giáo viên dạy học sinh."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "He doesn't work on weekends.",
-            "vi": "Anh ấy không làm việc vào cuối tuần."
+            "en": "I don't work in a factory.",
+            "vi": "Tôi không làm việc ở nhà máy."
+          },
+          {
+            "en": "He is not a pilot.",
+            "vi": "Anh ấy không phải là phi công."
+          },
+          {
+            "en": "They don't have a job.",
+            "vi": "Họ không có việc làm."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v5_1",
-      "word": "Teacher",
-      "phonetic": "/ˈtiː.tʃɚ/",
-      "meaning": "Giáo viên",
-      "example": "She is a teacher.",
-      "exampleVi": "Cô ấy là giáo viên."
+      "word": "Job",
+      "phonetic": "/dʒɑːb/",
+      "meaning": "Công việc",
+      "example": "What is your job?",
+      "exampleVi": "Công việc của bạn là gì?"
     },
     {
       "id": "v5_2",
       "word": "Doctor",
       "phonetic": "/ˈdɑːk.tɚ/",
       "meaning": "Bác sĩ",
-      "example": "He is a doctor.",
-      "exampleVi": "Anh ấy là bác sĩ."
+      "example": "The doctor helps people.",
+      "exampleVi": "Bác sĩ giúp đỡ mọi người."
+    },
+    {
+      "id": "v5_3",
+      "word": "Teacher",
+      "phonetic": "/ˈtiː.tʃɚ/",
+      "meaning": "Giáo viên",
+      "example": "My teacher is nice.",
+      "exampleVi": "Giáo viên của tôi rất tốt."
+    },
+    {
+      "id": "v5_4",
+      "word": "Nurse",
+      "phonetic": "/nɝːs/",
+      "meaning": "Y tá",
+      "example": "The nurse is kind.",
+      "exampleVi": "Y tá rất tử tế."
+    },
+    {
+      "id": "v5_5",
+      "word": "Engineer",
+      "phonetic": "/ˌen.dʒɪˈnɪr/",
+      "meaning": "Kỹ sư",
+      "example": "He is an engineer.",
+      "exampleVi": "Anh ấy là kỹ sư."
+    },
+    {
+      "id": "v5_6",
+      "word": "Police officer",
+      "phonetic": "/pəˈliːs ˌɑː.fɪ.sɚ/",
+      "meaning": "Cảnh sát",
+      "example": "The police officer is brave.",
+      "exampleVi": "Cảnh sát rất dũng cảm."
+    },
+    {
+      "id": "v5_7",
+      "word": "Chef",
+      "phonetic": "/ʃef/",
+      "meaning": "Đầu bếp",
+      "example": "The chef cooks food.",
+      "exampleVi": "Đầu bếp nấu ăn."
+    },
+    {
+      "id": "v5_8",
+      "word": "Farmer",
+      "phonetic": "/ˈfɑːr.mɚ/",
+      "meaning": "Nông dân",
+      "example": "The farmer works hard.",
+      "exampleVi": "Nông dân làm việc chăm chỉ."
+    },
+    {
+      "id": "v5_9",
+      "word": "Driver",
+      "phonetic": "/ˈdraɪ.vɚ/",
+      "meaning": "Tài xế",
+      "example": "The driver is careful.",
+      "exampleVi": "Tài xế rất cẩn thận."
+    },
+    {
+      "id": "v5_10",
+      "word": "Artist",
+      "phonetic": "/ˈɑːr.tɪst/",
+      "meaning": "Họa sĩ",
+      "example": "The artist paints.",
+      "exampleVi": "Họa sĩ vẽ tranh."
     }
   ],
   "listening": [
     {
       "id": "l5_1",
-      "sentence": "I am a teacher.",
-      "sentenceVi": "Tôi là giáo viên."
+      "sentence": "What do you do?",
+      "sentenceVi": "Bạn làm nghề gì?"
     },
     {
       "id": "l5_2",
-      "sentence": "He works in a hospital.",
-      "sentenceVi": "Anh ấy làm việc ở bệnh viện."
+      "sentence": "I am a doctor.",
+      "sentenceVi": "Tôi là bác sĩ."
+    },
+    {
+      "id": "l5_3",
+      "sentence": "Where do you work?",
+      "sentenceVi": "Bạn làm việc ở đâu?"
+    },
+    {
+      "id": "l5_4",
+      "sentence": "I work in a hospital.",
+      "sentenceVi": "Tôi làm việc ở bệnh viện."
+    },
+    {
+      "id": "l5_5",
+      "sentence": "My sister is a nurse.",
+      "sentenceVi": "Em gái tôi là y tá."
+    },
+    {
+      "id": "l5_6",
+      "sentence": "He is a famous chef.",
+      "sentenceVi": "Anh ấy là một đầu bếp nổi tiếng."
+    },
+    {
+      "id": "l5_7",
+      "sentence": "The teacher is in the classroom.",
+      "sentenceVi": "Giáo viên đang ở trong lớp."
+    },
+    {
+      "id": "l5_8",
+      "sentence": "Does he work at a farm?",
+      "sentenceVi": "Anh ấy có làm việc ở trang trại không?"
+    },
+    {
+      "id": "l5_9",
+      "sentence": "No, he is an engineer.",
+      "sentenceVi": "Không, anh ấy là kỹ sư."
+    },
+    {
+      "id": "l5_10",
+      "sentence": "Being a driver is hard.",
+      "sentenceVi": "Làm tài xế rất vất vả."
     }
   ],
   "speaking": [
     {
       "id": "s5_1",
-      "sentence": "What do you do?",
-      "sentenceVi": "Bạn làm nghề gì?"
+      "sentence": "What is your father's job?",
+      "sentenceVi": "Công việc của bố bạn là gì?"
+    },
+    {
+      "id": "s5_2",
+      "sentence": "He is a farmer.",
+      "sentenceVi": "Ông ấy là nông dân."
+    },
+    {
+      "id": "s5_3",
+      "sentence": "How about your mother?",
+      "sentenceVi": "Còn mẹ bạn thì sao?"
+    },
+    {
+      "id": "s5_4",
+      "sentence": "She is an artist.",
+      "sentenceVi": "Bà ấy là họa sĩ."
+    },
+    {
+      "id": "s5_5",
+      "sentence": "I want to be a teacher.",
+      "sentenceVi": "Tôi muốn trở thành giáo viên."
+    },
+    {
+      "id": "s5_6",
+      "sentence": "Why?",
+      "sentenceVi": "Tại sao?"
+    },
+    {
+      "id": "s5_7",
+      "sentence": "Because I love children.",
+      "sentenceVi": "Vì tôi yêu trẻ em."
+    },
+    {
+      "id": "s5_8",
+      "sentence": "He is a police officer.",
+      "sentenceVi": "Anh ấy là cảnh sát."
+    },
+    {
+      "id": "s5_9",
+      "sentence": "She is a chef.",
+      "sentenceVi": "Cô ấy là đầu bếp."
+    },
+    {
+      "id": "s5_10",
+      "sentence": "That's a cool job!",
+      "sentenceVi": "Đó là một công việc tuyệt vời!"
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w5_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "She is a _____.",
-      "answer": "teacher",
-      "hint": "giáo viên"
+      "question": "I am a _____.",
+      "answer": "doctor",
+      "hint": "bác sĩ"
+    },
+    {
+      "id": "w5_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She works as a _____.",
+      "answer": "nurse",
+      "hint": "y tá"
+    },
+    {
+      "id": "w5_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is an _____.",
+      "answer": "engineer",
+      "hint": "kỹ sư"
+    },
+    {
+      "id": "w5_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "My father is a _____.",
+      "answer": "farmer",
+      "hint": "nông dân"
+    },
+    {
+      "id": "w5_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ paints pictures.",
+      "answer": "artist",
+      "hint": "họa sĩ"
+    },
+    {
+      "id": "w5_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ cooks food.",
+      "answer": "chef",
+      "hint": "đầu bếp"
+    },
+    {
+      "id": "w5_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "What is your _____?",
+      "answer": "job",
+      "hint": "công việc"
+    },
+    {
+      "id": "w5_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He is a _____ officer.",
+      "answer": "police",
+      "hint": "cảnh sát (police...)"
+    },
+    {
+      "id": "w5_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ drives a bus.",
+      "answer": "driver",
+      "hint": "tài xế"
+    },
+    {
+      "id": "w5_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I work at a _____.",
+      "answer": "hospital",
+      "hint": "bệnh viện"
     }
   ],
   "quizzes": [
     {
       "id": "q5_1",
-      "question": "'Doctor' nghĩa là gì?",
+      "question": "'Chef' nghĩa là gì?",
       "options": [
         "Bác sĩ",
-        "Giáo viên",
+        "Y tá",
+        "Đầu bếp",
+        "Kỹ sư"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q5_2",
+      "question": "What _____ you do?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q5_3",
+      "question": "He _____ in a bank.",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5_4",
+      "question": "I am _____ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5_5",
+      "question": "She _____ a nurse.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q5_6",
+      "question": "My father _____ work at a school.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5_7",
+      "question": "The _____ helps patients.",
+      "options": [
+        "teacher",
+        "doctor",
+        "chef",
+        "farmer"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q5_8",
+      "question": "'Farmer' nghĩa là gì?",
+      "options": [
+        "Nông dân",
+        "Công nhân",
         "Kỹ sư",
-        "Công nhân"
+        "Bác sĩ"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q5_9",
+      "question": "Does she _____ as a teacher?",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q5_10",
+      "question": "They _____ have a job.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
       ],
       "correct": 0
     }

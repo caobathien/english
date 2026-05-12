@@ -17,7 +17,15 @@
         "examples": [
           {
             "en": "I felt very happy.",
-            "vi": "Tôi đã cảm thấy rất vui."
+            "vi": "Tôi đã cảm thấy rất hạnh phúc."
+          },
+          {
+            "en": "She cried after the movie.",
+            "vi": "Cô ấy đã khóc sau bộ phim."
+          },
+          {
+            "en": "They smiled at me.",
+            "vi": "Họ đã mỉm cười với tôi."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "She didn't cry.",
-            "vi": "Cô ấy đã không khóc."
+            "en": "I didn't feel angry.",
+            "vi": "Tôi đã không cảm thấy tức giận."
+          },
+          {
+            "en": "He wasn't sad.",
+            "vi": "Anh ấy đã không buồn."
+          },
+          {
+            "en": "We didn't laugh.",
+            "vi": "Chúng tôi đã không cười."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v21_1",
-      "word": "Happy",
-      "phonetic": "/ˈhæp.i/",
-      "meaning": "Vui vẻ",
-      "example": "I am happy today.",
-      "exampleVi": "Hôm nay tôi vui."
+      "word": "Emotion",
+      "phonetic": "/ɪˈmoʊ.ʃən/",
+      "meaning": "Cảm xúc",
+      "example": "Strong emotions.",
+      "exampleVi": "Cảm xúc mạnh mẽ."
     },
     {
       "id": "v21_2",
+      "word": "Happy",
+      "phonetic": "/ˈhæp.i/",
+      "meaning": "Hạnh phúc",
+      "example": "I am happy.",
+      "exampleVi": "Tôi hạnh phúc."
+    },
+    {
+      "id": "v21_3",
       "word": "Sad",
       "phonetic": "/sæd/",
       "meaning": "Buồn",
-      "example": "She felt sad.",
-      "exampleVi": "Cô ấy cảm thấy buồn."
+      "example": "Don't be sad.",
+      "exampleVi": "Đừng buồn."
+    },
+    {
+      "id": "v21_4",
+      "word": "Angry",
+      "phonetic": "/ˈæŋ.ɡri/",
+      "meaning": "Tức giận",
+      "example": "He is angry.",
+      "exampleVi": "Anh ấy đang tức giận."
+    },
+    {
+      "id": "v21_5",
+      "word": "Surprised",
+      "phonetic": "/sɚˈpraɪzd/",
+      "meaning": "Ngạc nhiên",
+      "example": "A surprised look.",
+      "exampleVi": "Một vẻ mặt ngạc nhiên."
+    },
+    {
+      "id": "v21_6",
+      "word": "Scared",
+      "phonetic": "/skerd/",
+      "meaning": "Sợ hãi",
+      "example": "I am scared.",
+      "exampleVi": "Tôi sợ hãi."
+    },
+    {
+      "id": "v21_7",
+      "word": "Excited",
+      "phonetic": "/ɪkˈsaɪ.t̬ɪd/",
+      "meaning": "Hào hứng",
+      "example": "Very excited.",
+      "exampleVi": "Rất hào hứng."
+    },
+    {
+      "id": "v21_8",
+      "word": "Bored",
+      "phonetic": "/bɔːrd/",
+      "meaning": "Chán nản",
+      "example": "I feel bored.",
+      "exampleVi": "Tôi thấy chán."
+    },
+    {
+      "id": "v21_9",
+      "word": "Smile",
+      "phonetic": "/smaɪl/",
+      "meaning": "Mỉm cười",
+      "example": "A big smile.",
+      "exampleVi": "Một nụ cười lớn."
+    },
+    {
+      "id": "v21_10",
+      "word": "Laugh",
+      "phonetic": "/læf/",
+      "meaning": "Cười to",
+      "example": "Don't laugh.",
+      "exampleVi": "Đừng cười."
     }
   ],
   "listening": [
     {
       "id": "l21_1",
-      "sentence": "I was very happy yesterday.",
-      "sentenceVi": "Hôm qua tôi rất vui."
+      "sentence": "I felt very happy when I saw her.",
+      "sentenceVi": "Tôi đã cảm thấy rất hạnh phúc khi gặp cô ấy."
     },
     {
       "id": "l21_2",
-      "sentence": "He felt sad after the movie.",
-      "sentenceVi": "Anh ấy buồn sau khi xem phim."
+      "sentence": "She was sad because she lost her key.",
+      "sentenceVi": "Cô ấy đã buồn vì đánh mất chìa khóa."
+    },
+    {
+      "id": "l21_3",
+      "sentence": "He got angry at the broken computer.",
+      "sentenceVi": "Anh ấy đã tức giận vì cái máy tính bị hỏng."
+    },
+    {
+      "id": "l21_4",
+      "sentence": "We were surprised by the news.",
+      "sentenceVi": "Chúng tôi đã ngạc nhiên trước tin tức đó."
+    },
+    {
+      "id": "l21_5",
+      "sentence": "I was scared of the big dog.",
+      "sentenceVi": "Tôi đã sợ con chó lớn đó."
+    },
+    {
+      "id": "l21_6",
+      "sentence": "They were excited about the trip.",
+      "sentenceVi": "Họ đã rất hào hứng về chuyến đi."
+    },
+    {
+      "id": "l21_7",
+      "sentence": "I felt a bit bored during the meeting.",
+      "sentenceVi": "Tôi cảm thấy hơi chán trong cuộc họp."
+    },
+    {
+      "id": "l21_8",
+      "sentence": "She smiled at everyone in the room.",
+      "sentenceVi": "Cô ấy đã mỉm cười với mọi người trong phòng."
+    },
+    {
+      "id": "l21_9",
+      "sentence": "We laughed at the funny joke.",
+      "sentenceVi": "Chúng tôi đã cười vì câu đùa hài hước."
+    },
+    {
+      "id": "l21_10",
+      "sentence": "Did you feel better after the talk?",
+      "sentenceVi": "Bạn có cảm thấy tốt hơn sau cuộc trò chuyện không?"
     }
   ],
   "speaking": [
     {
       "id": "s21_1",
-      "sentence": "How do you feel today?",
-      "sentenceVi": "Hôm nay bạn cảm thấy thế nào?"
+      "sentence": "How did you feel yesterday?",
+      "sentenceVi": "Hôm qua bạn cảm thấy thế nào?"
+    },
+    {
+      "id": "s21_2",
+      "sentence": "I felt very happy.",
+      "sentenceVi": "Tôi đã cảm thấy rất hạnh phúc."
+    },
+    {
+      "id": "s21_3",
+      "sentence": "Why?",
+      "sentenceVi": "Tại sao?"
+    },
+    {
+      "id": "s21_4",
+      "sentence": "Because I passed the exam.",
+      "sentenceVi": "Vì tôi đã vượt qua kỳ thi."
+    },
+    {
+      "id": "s21_5",
+      "sentence": "Was he angry?",
+      "sentenceVi": "Anh ấy có tức giận không?"
+    },
+    {
+      "id": "s21_6",
+      "sentence": "No, he was just surprised.",
+      "sentenceVi": "Không, anh ấy chỉ ngạc nhiên thôi."
+    },
+    {
+      "id": "s21_7",
+      "sentence": "Don't be scared.",
+      "sentenceVi": "Đừng sợ."
+    },
+    {
+      "id": "s21_8",
+      "sentence": "I am excited for tomorrow.",
+      "sentenceVi": "Tôi hào hứng cho ngày mai."
+    },
+    {
+      "id": "s21_9",
+      "sentence": "She has a beautiful smile.",
+      "sentenceVi": "Cô ấy có nụ cười đẹp."
+    },
+    {
+      "id": "s21_10",
+      "sentence": "We laughed a lot.",
+      "sentenceVi": "Chúng tôi đã cười rất nhiều."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w21_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I am _____ today.",
-      "answer": "happy",
-      "hint": "vui vẻ"
+      "question": "I _____ very happy.",
+      "answer": "felt",
+      "hint": "đã cảm thấy"
+    },
+    {
+      "id": "w21_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She _____ after the movie.",
+      "answer": "cried",
+      "hint": "đã khóc"
+    },
+    {
+      "id": "w21_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They _____ at me.",
+      "answer": "smiled",
+      "hint": "đã mỉm cười"
+    },
+    {
+      "id": "w21_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He was _____.",
+      "answer": "angry",
+      "hint": "tức giận"
+    },
+    {
+      "id": "w21_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I was _____.",
+      "answer": "scared",
+      "hint": "sợ hãi"
+    },
+    {
+      "id": "w21_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We _____ a lot.",
+      "answer": "laughed",
+      "hint": "đã cười"
+    },
+    {
+      "id": "w21_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Don't be _____.",
+      "answer": "sad",
+      "hint": "buồn"
+    },
+    {
+      "id": "w21_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Very _____.",
+      "answer": "excited",
+      "hint": "hào hứng"
+    },
+    {
+      "id": "w21_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I feel _____.",
+      "answer": "bored",
+      "hint": "chán"
+    },
+    {
+      "id": "w21_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A big _____.",
+      "answer": "smile",
+      "hint": "nụ cười"
     }
   ],
   "quizzes": [
     {
       "id": "q21_1",
-      "question": "'Sad' nghĩa là gì?",
+      "question": "'Happy' nghĩa là gì?",
       "options": [
         "Buồn",
-        "Vui",
         "Giận",
+        "Hạnh phúc",
         "Sợ"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q21_2",
+      "question": "I _____ happy yesterday.",
+      "options": [
+        "was",
+        "were",
+        "am",
+        "did"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q21_3",
+      "question": "She _____ not cry.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q21_4",
+      "question": "They _____ surprised.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q21_5",
+      "question": "He _____ angry at me.",
+      "options": [
+        "get",
+        "got",
+        "gets",
+        "getting"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q21_6",
+      "question": "I _____ feel scared.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q21_7",
+      "question": "'Angry' nghĩa là gì?",
+      "options": [
+        "Vui",
+        "Buồn",
+        "Giận",
+        "Lo"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q21_8",
+      "question": "We _____ a lot.",
+      "options": [
+        "laugh",
+        "laughed",
+        "laughs",
+        "laughing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q21_9",
+      "question": "A beautiful _____.",
+      "options": [
+        "smile",
+        "smiled",
+        "smiles",
+        "smiling"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q21_10",
+      "question": "Was she _____?",
+      "options": [
+        "sad",
+        "sadly",
+        "sadder",
+        "saddest"
       ],
       "correct": 0
     }

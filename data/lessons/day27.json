@@ -18,6 +18,14 @@
           {
             "en": "I will become a doctor.",
             "vi": "Tôi sẽ trở thành bác sĩ."
+          },
+          {
+            "en": "She will travel around the world.",
+            "vi": "Cô ấy sẽ đi du lịch vòng quanh thế giới."
+          },
+          {
+            "en": "They will achieve their goals.",
+            "vi": "Họ sẽ đạt được mục tiêu của mình."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "She won't give up.",
-            "vi": "Cô ấy sẽ không bỏ cuộc."
+            "en": "I won't give up.",
+            "vi": "Tôi sẽ không bỏ cuộc."
+          },
+          {
+            "en": "He won't fail the exam.",
+            "vi": "Anh ấy sẽ không trượt kỳ thi."
+          },
+          {
+            "en": "We won't forget our dreams.",
+            "vi": "Chúng tôi sẽ không quên giấc mơ của mình."
           }
         ]
       }
@@ -38,29 +54,133 @@
       "id": "v27_1",
       "word": "Dream",
       "phonetic": "/driːm/",
-      "meaning": "Ước mơ",
-      "example": "My dream is to travel.",
-      "exampleVi": "Ước mơ của tôi là đi du lịch."
+      "meaning": "Ước mơ/Giấc mơ",
+      "example": "Follow your dream.",
+      "exampleVi": "Theo đuổi ước mơ."
     },
     {
       "id": "v27_2",
       "word": "Goal",
       "phonetic": "/ɡoʊl/",
       "meaning": "Mục tiêu",
-      "example": "I will reach my goal.",
-      "exampleVi": "Tôi sẽ đạt được mục tiêu."
+      "example": "Set a goal.",
+      "exampleVi": "Đặt mục tiêu."
+    },
+    {
+      "id": "v27_3",
+      "word": "Future",
+      "phonetic": "/ˈfjuː.tʃɚ/",
+      "meaning": "Tương lai",
+      "example": "Think about the future.",
+      "exampleVi": "Nghĩ về tương lai."
+    },
+    {
+      "id": "v27_4",
+      "word": "Become",
+      "phonetic": "/bɪˈkʌm/",
+      "meaning": "Trở thành",
+      "example": "Become famous.",
+      "exampleVi": "Trở nên nổi tiếng."
+    },
+    {
+      "id": "v27_5",
+      "word": "Success",
+      "phonetic": "/səkˈses/",
+      "meaning": "Thành công",
+      "example": "Wish you success.",
+      "exampleVi": "Chúc bạn thành công."
+    },
+    {
+      "id": "v27_6",
+      "word": "Believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "Tin tưởng",
+      "example": "Believe in yourself.",
+      "exampleVi": "Tin vào chính mình."
+    },
+    {
+      "id": "v27_7",
+      "word": "Work hard",
+      "phonetic": "/wɝːk hɑːrd/",
+      "meaning": "Làm việc chăm chỉ",
+      "example": "I work hard.",
+      "exampleVi": "Tôi làm việc chăm chỉ."
+    },
+    {
+      "id": "v27_8",
+      "word": "Travel",
+      "phonetic": "/ˈtræv.əl/",
+      "meaning": "Du lịch",
+      "example": "Travel the world.",
+      "exampleVi": "Du lịch thế giới."
+    },
+    {
+      "id": "v27_9",
+      "word": "Achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "Đạt được",
+      "example": "Achieve success.",
+      "exampleVi": "Đạt được thành công."
+    },
+    {
+      "id": "v27_10",
+      "word": "Hope",
+      "phonetic": "/hoʊp/",
+      "meaning": "Hy vọng",
+      "example": "I hope so.",
+      "exampleVi": "Tôi hy vọng vậy."
     }
   ],
   "listening": [
     {
       "id": "l27_1",
-      "sentence": "I will follow my dream.",
-      "sentenceVi": "Tôi sẽ theo đuổi ước mơ."
+      "sentence": "I will work hard to achieve my dreams.",
+      "sentenceVi": "Tôi sẽ làm việc chăm chỉ để đạt được ước mơ của mình."
     },
     {
       "id": "l27_2",
-      "sentence": "She will achieve her goals.",
-      "sentenceVi": "Cô ấy sẽ đạt được mục tiêu."
+      "sentence": "She will become a famous singer one day.",
+      "sentenceVi": "Một ngày nào đó cô ấy sẽ trở thành một ca sĩ nổi tiếng."
+    },
+    {
+      "id": "l27_3",
+      "sentence": "Will you travel around the world in the future?",
+      "sentenceVi": "Trong tương lai bạn sẽ đi du lịch vòng quanh thế giới chứ?"
+    },
+    {
+      "id": "l27_4",
+      "sentence": "I won't give up until I succeed.",
+      "sentenceVi": "Tôi sẽ không bỏ cuộc cho đến khi tôi thành công."
+    },
+    {
+      "id": "l27_5",
+      "sentence": "He will set a new goal for next year.",
+      "sentenceVi": "Anh ấy sẽ đặt một mục tiêu mới cho năm tới."
+    },
+    {
+      "id": "l27_6",
+      "sentence": "Believe in yourself and you will win.",
+      "sentenceVi": "Hãy tin vào chính mình và bạn sẽ chiến thắng."
+    },
+    {
+      "id": "l27_7",
+      "sentence": "They will find success in their business.",
+      "sentenceVi": "Họ sẽ tìm thấy thành công trong công việc kinh doanh của mình."
+    },
+    {
+      "id": "l27_8",
+      "sentence": "I hope the future will be bright.",
+      "sentenceVi": "Tôi hy vọng tương lai sẽ tươi sáng."
+    },
+    {
+      "id": "l27_9",
+      "sentence": "We won't forget our roots while dreaming big.",
+      "sentenceVi": "Chúng tôi sẽ không quên cội nguồn trong khi mơ ước lớn lao."
+    },
+    {
+      "id": "l27_10",
+      "sentence": "What will you become when you grow up?",
+      "sentenceVi": "Bạn sẽ trở thành gì khi lớn lên?"
     }
   ],
   "speaking": [
@@ -68,6 +188,51 @@
       "id": "s27_1",
       "sentence": "What is your dream?",
       "sentenceVi": "Ước mơ của bạn là gì?"
+    },
+    {
+      "id": "s27_2",
+      "sentence": "I want to be a doctor.",
+      "sentenceVi": "Tôi muốn trở thành bác sĩ."
+    },
+    {
+      "id": "s27_3",
+      "sentence": "That's a great goal.",
+      "sentenceVi": "Đó là một mục tiêu tuyệt vời."
+    },
+    {
+      "id": "s27_4",
+      "sentence": "I'll work hard for it.",
+      "sentenceVi": "Tôi sẽ làm việc chăm chỉ vì nó."
+    },
+    {
+      "id": "s27_5",
+      "sentence": "Will you travel the world?",
+      "sentenceVi": "Bạn sẽ đi du lịch thế giới chứ?"
+    },
+    {
+      "id": "s27_6",
+      "sentence": "Yes, I will.",
+      "sentenceVi": "Vâng, tôi sẽ đi."
+    },
+    {
+      "id": "s27_7",
+      "sentence": "Never give up!",
+      "sentenceVi": "Đừng bao giờ bỏ cuộc!"
+    },
+    {
+      "id": "s27_8",
+      "sentence": "I won't.",
+      "sentenceVi": "Tôi sẽ không đâu."
+    },
+    {
+      "id": "s27_9",
+      "sentence": "I believe in you.",
+      "sentenceVi": "Tôi tin bạn."
+    },
+    {
+      "id": "s27_10",
+      "sentence": "Thank you for your support.",
+      "sentenceVi": "Cảm ơn vì sự ủng hộ của bạn."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w27_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "My _____ is to travel the world.",
+      "question": "I will _____ a doctor.",
+      "answer": "become",
+      "hint": "trở thành"
+    },
+    {
+      "id": "w27_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Follow your _____.",
       "answer": "dream",
       "hint": "ước mơ"
+    },
+    {
+      "id": "w27_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Set a _____.",
+      "answer": "goal",
+      "hint": "mục tiêu"
+    },
+    {
+      "id": "w27_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ in yourself.",
+      "answer": "Believe",
+      "hint": "Tin tưởng"
+    },
+    {
+      "id": "w27_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ so.",
+      "answer": "hope",
+      "hint": "hy vọng"
+    },
+    {
+      "id": "w27_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Work _____.",
+      "answer": "hard",
+      "hint": "chăm chỉ"
+    },
+    {
+      "id": "w27_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Wish you _____.",
+      "answer": "success",
+      "hint": "thành công"
+    },
+    {
+      "id": "w27_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ the world.",
+      "answer": "Travel",
+      "hint": "Du lịch"
+    },
+    {
+      "id": "w27_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "In the _____.",
+      "answer": "future",
+      "hint": "tương lai"
+    },
+    {
+      "id": "w27_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I won't _____ up.",
+      "answer": "give",
+      "hint": "từ bỏ (give...)"
     }
   ],
   "quizzes": [
     {
       "id": "q27_1",
+      "question": "'Dream' nghĩa là gì?",
+      "options": [
+        "Giấc mơ",
+        "Thực tế",
+        "Hiện tại",
+        "Quá khứ"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_2",
+      "question": "I _____ work hard.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_3",
+      "question": "She _____ become famous.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_4",
+      "question": "Will you _____ your goals?",
+      "options": [
+        "achieve",
+        "achieves",
+        "achieving",
+        "achieved"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_5",
+      "question": "I _____ give up.",
+      "options": [
+        "won't",
+        "will",
+        "am not",
+        "don't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_6",
       "question": "'Goal' nghĩa là gì?",
       "options": [
         "Mục tiêu",
-        "Ước mơ",
-        "Kế hoạch",
-        "Sở thích"
+        "Vạch xuất phát",
+        "Kết quả",
+        "Quá trình"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_7",
+      "question": "Believe _____ yourself.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_8",
+      "question": "I'll _____ a pilot.",
+      "options": [
+        "become",
+        "becoming",
+        "becomes",
+        "became"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_9",
+      "question": "Wish you _____.",
+      "options": [
+        "success",
+        "successful",
+        "successfully",
+        "succeed"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q27_10",
+      "question": "The future _____ bright.",
+      "options": [
+        "will be",
+        "be",
+        "is",
+        "do"
       ],
       "correct": 0
     }

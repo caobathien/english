@@ -16,8 +16,16 @@
         "formula": "S + V2/ed",
         "examples": [
           {
-            "en": "We saw a lion at the zoo.",
-            "vi": "Chúng tôi đã thấy một con sư tử ở sở thú."
+            "en": "I saw a big elephant.",
+            "vi": "Tôi đã thấy một con voi lớn."
+          },
+          {
+            "en": "The dog barked at me.",
+            "vi": "Con chó đã sủa tôi."
+          },
+          {
+            "en": "They visited the zoo.",
+            "vi": "Họ đã đi thăm sở thú."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + did not + V",
         "examples": [
           {
-            "en": "The cat didn't catch the mouse.",
-            "vi": "Con mèo đã không bắt được con chuột."
+            "en": "I didn't see any lions.",
+            "vi": "Tôi đã không thấy con sư tử nào."
+          },
+          {
+            "en": "The cat didn't eat the fish.",
+            "vi": "Con mèo đã không ăn cá."
+          },
+          {
+            "en": "We didn't catch the bird.",
+            "vi": "Chúng tôi đã không bắt được con chim."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v17_1",
-      "word": "Dog",
-      "phonetic": "/dɑːɡ/",
-      "meaning": "Con chó",
-      "example": "I have a dog.",
-      "exampleVi": "Tôi có một con chó."
+      "word": "Animal",
+      "phonetic": "/ˈæn.ɪ.məl/",
+      "meaning": "Động vật",
+      "example": "I like animals.",
+      "exampleVi": "Tôi thích động vật."
     },
     {
       "id": "v17_2",
+      "word": "Dog",
+      "phonetic": "/dɔːɡ/",
+      "meaning": "Con chó",
+      "example": "A loyal dog.",
+      "exampleVi": "Một con chó trung thành."
+    },
+    {
+      "id": "v17_3",
       "word": "Cat",
       "phonetic": "/kæt/",
       "meaning": "Con mèo",
-      "example": "The cat is sleeping.",
-      "exampleVi": "Con mèo đang ngủ."
+      "example": "A cute cat.",
+      "exampleVi": "Một con mèo đáng yêu."
+    },
+    {
+      "id": "v17_4",
+      "word": "Elephant",
+      "phonetic": "/ˈel.ə.fənt/",
+      "meaning": "Con voi",
+      "example": "A big elephant.",
+      "exampleVi": "Một con voi lớn."
+    },
+    {
+      "id": "v17_5",
+      "word": "Lion",
+      "phonetic": "/ˈlaɪ.ən/",
+      "meaning": "Con sư tử",
+      "example": "A brave lion.",
+      "exampleVi": "Một con sư tử dũng cảm."
+    },
+    {
+      "id": "v17_6",
+      "word": "Bird",
+      "phonetic": "/bɝːd/",
+      "meaning": "Con chim",
+      "example": "A small bird.",
+      "exampleVi": "Một con chim nhỏ."
+    },
+    {
+      "id": "v17_7",
+      "word": "Fish",
+      "phonetic": "/fɪʃ/",
+      "meaning": "Con cá",
+      "example": "A colorful fish.",
+      "exampleVi": "Một con cá nhiều màu sắc."
+    },
+    {
+      "id": "v17_8",
+      "word": "Tiger",
+      "phonetic": "/ˈtaɪ.ɡɚ/",
+      "meaning": "Con hổ",
+      "example": "A dangerous tiger.",
+      "exampleVi": "Một con hổ nguy hiểm."
+    },
+    {
+      "id": "v17_9",
+      "word": "Zoo",
+      "phonetic": "/zuː/",
+      "meaning": "Sở thú",
+      "example": "Go to the zoo.",
+      "exampleVi": "Đi sở thú."
+    },
+    {
+      "id": "v17_10",
+      "word": "Pet",
+      "phonetic": "/pet/",
+      "meaning": "Thú cưng",
+      "example": "I have a pet.",
+      "exampleVi": "Tôi có một con thú cưng."
     }
   ],
   "listening": [
     {
       "id": "l17_1",
-      "sentence": "I saw a big dog yesterday.",
-      "sentenceVi": "Hôm qua tôi đã thấy một con chó lớn."
+      "sentence": "We went to the zoo yesterday.",
+      "sentenceVi": "Hôm qua chúng tôi đã đi sở thú."
     },
     {
       "id": "l17_2",
-      "sentence": "She liked cats when she was young.",
-      "sentenceVi": "Cô ấy thích mèo khi còn nhỏ."
+      "sentence": "I saw a lot of animals there.",
+      "sentenceVi": "Tôi đã thấy rất nhiều động vật ở đó."
+    },
+    {
+      "id": "l17_3",
+      "sentence": "The elephant was very large.",
+      "sentenceVi": "Con voi đã rất to lớn."
+    },
+    {
+      "id": "l17_4",
+      "sentence": "Did you see the lions?",
+      "sentenceVi": "Bạn có thấy những con sư tử không?"
+    },
+    {
+      "id": "l17_5",
+      "sentence": "My dog barked at the neighbor.",
+      "sentenceVi": "Con chó của tôi đã sủa người hàng xóm."
+    },
+    {
+      "id": "l17_6",
+      "sentence": "The cat slept on the sofa all day.",
+      "sentenceVi": "Con mèo đã ngủ trên sofa cả ngày."
+    },
+    {
+      "id": "l17_7",
+      "sentence": "We fed the birds in the park.",
+      "sentenceVi": "Chúng tôi đã cho chim ăn trong công viên."
+    },
+    {
+      "id": "l17_8",
+      "sentence": "He caught a big fish last weekend.",
+      "sentenceVi": "Anh ấy đã bắt được một con cá lớn vào cuối tuần trước."
+    },
+    {
+      "id": "l17_9",
+      "sentence": "The tiger was sleeping in the cage.",
+      "sentenceVi": "Con hổ đang ngủ trong chuồng."
+    },
+    {
+      "id": "l17_10",
+      "sentence": "I didn't have a pet when I was young.",
+      "sentenceVi": "Tôi không có thú cưng khi tôi còn nhỏ."
     }
   ],
   "speaking": [
     {
       "id": "s17_1",
-      "sentence": "Do you have any pets?",
-      "sentenceVi": "Bạn có nuôi thú cưng nào không?"
+      "sentence": "Do you like animals?",
+      "sentenceVi": "Bạn có thích động vật không?"
+    },
+    {
+      "id": "s17_2",
+      "sentence": "Yes, I love dogs.",
+      "sentenceVi": "Có, tôi yêu chó."
+    },
+    {
+      "id": "s17_3",
+      "sentence": "Do you have a pet?",
+      "sentenceVi": "Bạn có thú cưng không?"
+    },
+    {
+      "id": "s17_4",
+      "sentence": "Yes, I have a cat.",
+      "sentenceVi": "Có, tôi có một con mèo."
+    },
+    {
+      "id": "s17_5",
+      "sentence": "What did you see at the zoo?",
+      "sentenceVi": "Bạn đã thấy gì ở sở thú?"
+    },
+    {
+      "id": "s17_6",
+      "sentence": "I saw an elephant.",
+      "sentenceVi": "Tôi đã thấy một con voi."
+    },
+    {
+      "id": "s17_7",
+      "sentence": "Was it big?",
+      "sentenceVi": "Nó có to không?"
+    },
+    {
+      "id": "s17_8",
+      "sentence": "Yes, very big!",
+      "sentenceVi": "Có, rất to!"
+    },
+    {
+      "id": "s17_9",
+      "sentence": "I am afraid of tigers.",
+      "sentenceVi": "Tôi sợ hổ lắm."
+    },
+    {
+      "id": "s17_10",
+      "sentence": "Me too.",
+      "sentenceVi": "Tôi cũng vậy."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w17_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "The _____ is sleeping.",
+      "question": "I _____ a lion at the zoo.",
+      "answer": "saw",
+      "hint": "đã thấy"
+    },
+    {
+      "id": "w17_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The dog _____ at me.",
+      "answer": "barked",
+      "hint": "đã sủa"
+    },
+    {
+      "id": "w17_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A big _____.",
+      "answer": "elephant",
+      "hint": "con voi"
+    },
+    {
+      "id": "w17_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A cute _____.",
       "answer": "cat",
       "hint": "con mèo"
+    },
+    {
+      "id": "w17_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We went to the _____.",
+      "answer": "zoo",
+      "hint": "sở thú"
+    },
+    {
+      "id": "w17_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I have a _____.",
+      "answer": "pet",
+      "hint": "thú cưng"
+    },
+    {
+      "id": "w17_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A colorful _____.",
+      "answer": "fish",
+      "hint": "con cá"
+    },
+    {
+      "id": "w17_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A dangerous _____.",
+      "answer": "tiger",
+      "hint": "con hổ"
+    },
+    {
+      "id": "w17_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A small _____.",
+      "answer": "bird",
+      "hint": "con chim"
+    },
+    {
+      "id": "w17_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ like animals.",
+      "answer": "didn't",
+      "hint": "đã không"
     }
   ],
   "quizzes": [
     {
       "id": "q17_1",
-      "question": "'Dog' nghĩa là gì?",
+      "question": "'Elephant' là con gì?",
       "options": [
-        "Con chó",
-        "Con mèo",
-        "Con chim",
-        "Con cá"
+        "Hổ",
+        "Sư tử",
+        "Voi",
+        "Chó"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q17_2",
+      "question": "I _____ a dog yesterday.",
+      "options": [
+        "see",
+        "saw",
+        "sees",
+        "seeing"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q17_3",
+      "question": "The cat _____ not eat.",
+      "options": [
+        "did",
+        "does",
+        "was",
+        "is"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q17_4",
+      "question": "Did you _____ to the zoo?",
+      "options": [
+        "go",
+        "went",
+        "goes",
+        "going"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q17_5",
+      "question": "They _____ happy to see us.",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "do"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q17_6",
+      "question": "The lion _____ very loud.",
+      "options": [
+        "roar",
+        "roared",
+        "roars",
+        "roaring"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q17_7",
+      "question": "'Zoo' nghĩa là gì?",
+      "options": [
+        "Sở thú",
+        "Công viên",
+        "Bảo tàng",
+        "Trường học"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q17_8",
+      "question": "I _____ have a pet.",
+      "options": [
+        "didn't",
+        "don't",
+        "wasn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q17_9",
+      "question": "We _____ the birds.",
+      "options": [
+        "feed",
+        "fed",
+        "feeds",
+        "feeding"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q17_10",
+      "question": "A loyal _____.",
+      "options": [
+        "dog",
+        "cat",
+        "bird",
+        "fish"
       ],
       "correct": 0
     }

@@ -18,6 +18,14 @@
           {
             "en": "I will move to a big city.",
             "vi": "Tôi sẽ chuyển đến một thành phố lớn."
+          },
+          {
+            "en": "The city will be more modern.",
+            "vi": "Thành phố sẽ hiện đại hơn."
+          },
+          {
+            "en": "We will take the subway.",
+            "vi": "Chúng tôi sẽ đi tàu điện ngầm."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "He won't take the subway.",
-            "vi": "Anh ấy sẽ không đi tàu điện ngầm."
+            "en": "He won't live in the countryside.",
+            "vi": "Anh ấy sẽ không sống ở nông thôn."
+          },
+          {
+            "en": "There won't be much traffic.",
+            "vi": "Sẽ không có nhiều giao thông (tắc nghẽn)."
+          },
+          {
+            "en": "I won't stay out late.",
+            "vi": "Tôi sẽ không ở ngoài muộn."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v22_1",
-      "word": "Park",
-      "phonetic": "/pɑːrk/",
-      "meaning": "Công viên",
-      "example": "I will go to the park.",
-      "exampleVi": "Tôi sẽ đi công viên."
+      "word": "City",
+      "phonetic": "/ˈsɪt.i/",
+      "meaning": "Thành phố",
+      "example": "A busy city.",
+      "exampleVi": "Thành phố nhộn nhịp."
     },
     {
       "id": "v22_2",
+      "word": "Subway",
+      "phonetic": "/ˈsʌb.weɪ/",
+      "meaning": "Tàu điện ngầm",
+      "example": "Take the subway.",
+      "exampleVi": "Đi tàu điện ngầm."
+    },
+    {
+      "id": "v22_3",
+      "word": "Traffic",
+      "phonetic": "/ˈtræf.ɪk/",
+      "meaning": "Giao thông",
+      "example": "Heavy traffic.",
+      "exampleVi": "Giao thông đông đúc."
+    },
+    {
+      "id": "v22_4",
       "word": "Building",
       "phonetic": "/ˈbɪl.dɪŋ/",
       "meaning": "Tòa nhà",
-      "example": "That building is tall.",
-      "exampleVi": "Tòa nhà đó cao."
+      "example": "A tall building.",
+      "exampleVi": "Một tòa nhà cao tầng."
+    },
+    {
+      "id": "v22_5",
+      "word": "Street",
+      "phonetic": "/striːt/",
+      "meaning": "Con phố",
+      "example": "Cross the street.",
+      "exampleVi": "Băng qua đường."
+    },
+    {
+      "id": "v22_6",
+      "word": "Park",
+      "phonetic": "/pɑːrk/",
+      "meaning": "Công viên",
+      "example": "Meet in the park.",
+      "exampleVi": "Gặp nhau ở công viên."
+    },
+    {
+      "id": "v22_7",
+      "word": "Library",
+      "phonetic": "/ˈlaɪ.brer.i/",
+      "meaning": "Thư viện",
+      "example": "Go to the library.",
+      "exampleVi": "Đi thư viện."
+    },
+    {
+      "id": "v22_8",
+      "word": "Center",
+      "phonetic": "/ˈsen.t̬ɚ/",
+      "meaning": "Trung tâm",
+      "example": "City center.",
+      "exampleVi": "Trung tâm thành phố."
+    },
+    {
+      "id": "v22_9",
+      "word": "Modern",
+      "phonetic": "/ˈmɑː.dɚn/",
+      "meaning": "Hiện đại",
+      "example": "A modern city.",
+      "exampleVi": "Một thành phố hiện đại."
+    },
+    {
+      "id": "v22_10",
+      "word": "Crowded",
+      "phonetic": "/ˈkraʊ.dɪd/",
+      "meaning": "Đông đúc",
+      "example": "A crowded place.",
+      "exampleVi": "Một nơi đông đúc."
     }
   ],
   "listening": [
     {
       "id": "l22_1",
-      "sentence": "I will visit the park tomorrow.",
-      "sentenceVi": "Ngày mai tôi sẽ đến công viên."
+      "sentence": "I will visit the city center tomorrow.",
+      "sentenceVi": "Tôi sẽ đến thăm trung tâm thành phố vào ngày mai."
     },
     {
       "id": "l22_2",
-      "sentence": "There are many buildings in the city.",
-      "sentenceVi": "Có nhiều tòa nhà trong thành phố."
+      "sentence": "The subway will be very crowded.",
+      "sentenceVi": "Tàu điện ngầm sẽ rất đông đúc."
+    },
+    {
+      "id": "l22_3",
+      "sentence": "We will see many tall buildings.",
+      "sentenceVi": "Chúng ta sẽ thấy nhiều tòa nhà cao tầng."
+    },
+    {
+      "id": "l22_4",
+      "sentence": "He will find a job in the city.",
+      "sentenceVi": "Anh ấy sẽ tìm được một công việc ở thành phố."
+    },
+    {
+      "id": "l22_5",
+      "sentence": "There will be new parks for children.",
+      "sentenceVi": "Sẽ có những công viên mới cho trẻ em."
+    },
+    {
+      "id": "l22_6",
+      "sentence": "I won't take the bus, I'll walk.",
+      "sentenceVi": "Tôi sẽ không đi xe buýt, tôi sẽ đi bộ."
+    },
+    {
+      "id": "l22_7",
+      "sentence": "Will you move to a new apartment?",
+      "sentenceVi": "Bạn sẽ chuyển đến một căn hộ mới chứ?"
+    },
+    {
+      "id": "l22_8",
+      "sentence": "The traffic won't be a problem.",
+      "sentenceVi": "Giao thông sẽ không phải là một vấn đề."
+    },
+    {
+      "id": "l22_9",
+      "sentence": "She will study at the central library.",
+      "sentenceVi": "Cô ấy sẽ học tại thư viện trung tâm."
+    },
+    {
+      "id": "l22_10",
+      "sentence": "The city will look beautiful at night.",
+      "sentenceVi": "Thành phố sẽ trông rất đẹp vào ban đêm."
     }
   ],
   "speaking": [
     {
       "id": "s22_1",
-      "sentence": "Do you like living in the city?",
-      "sentenceVi": "Bạn có thích sống ở thành phố không?"
+      "sentence": "Where will you go tomorrow?",
+      "sentenceVi": "Ngày mai bạn sẽ đi đâu?"
+    },
+    {
+      "id": "s22_2",
+      "sentence": "I'll go to the city center.",
+      "sentenceVi": "Tôi sẽ đến trung tâm thành phố."
+    },
+    {
+      "id": "s22_3",
+      "sentence": "Will you take the subway?",
+      "sentenceVi": "Bạn sẽ đi tàu điện ngầm chứ?"
+    },
+    {
+      "id": "s22_4",
+      "sentence": "Yes, it's faster.",
+      "sentenceVi": "Vâng, nó nhanh hơn."
+    },
+    {
+      "id": "s22_5",
+      "sentence": "Is the city crowded?",
+      "sentenceVi": "Thành phố có đông đúc không?"
+    },
+    {
+      "id": "s22_6",
+      "sentence": "Yes, very crowded.",
+      "sentenceVi": "Có, rất đông đúc."
+    },
+    {
+      "id": "s22_7",
+      "sentence": "I like modern buildings.",
+      "sentenceVi": "Tôi thích những tòa nhà hiện đại."
+    },
+    {
+      "id": "s22_8",
+      "sentence": "I'll meet you in the park.",
+      "sentenceVi": "Tôi sẽ gặp bạn ở công viên."
+    },
+    {
+      "id": "s22_9",
+      "sentence": "Don't be late!",
+      "sentenceVi": "Đừng đến muộn nhé!"
+    },
+    {
+      "id": "s22_10",
+      "sentence": "I won't.",
+      "sentenceVi": "Tôi sẽ không đâu."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w22_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I will go to the _____.",
+      "question": "I will _____ to the city.",
+      "answer": "move",
+      "hint": "chuyển (đến)"
+    },
+    {
+      "id": "w22_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Take the _____.",
+      "answer": "subway",
+      "hint": "tàu điện ngầm"
+    },
+    {
+      "id": "w22_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A tall _____.",
+      "answer": "building",
+      "hint": "tòa nhà"
+    },
+    {
+      "id": "w22_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A busy _____.",
+      "answer": "street",
+      "hint": "con phố"
+    },
+    {
+      "id": "w22_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Heavy _____.",
+      "answer": "traffic",
+      "hint": "giao thông"
+    },
+    {
+      "id": "w22_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A _____ city.",
+      "answer": "modern",
+      "hint": "hiện đại"
+    },
+    {
+      "id": "w22_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Meet in the _____.",
       "answer": "park",
       "hint": "công viên"
+    },
+    {
+      "id": "w22_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "library",
+      "hint": "thư viện"
+    },
+    {
+      "id": "w22_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "City _____.",
+      "answer": "center",
+      "hint": "trung tâm"
+    },
+    {
+      "id": "w22_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A _____ place.",
+      "answer": "crowded",
+      "hint": "đông đúc"
     }
   ],
   "quizzes": [
     {
       "id": "q22_1",
-      "question": "'Building' nghĩa là gì?",
+      "question": "'Subway' là phương tiện gì?",
       "options": [
-        "Tòa nhà",
-        "Công viên",
-        "Cây cầu",
-        "Con đường"
+        "Xe buýt",
+        "Tàu điện ngầm",
+        "Taxi",
+        "Máy bay"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q22_2",
+      "question": "I _____ visit you tomorrow.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_3",
+      "question": "They _____ not move next year.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_4",
+      "question": "Will you _____ the bus?",
+      "options": [
+        "take",
+        "takes",
+        "taking",
+        "taken"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_5",
+      "question": "The building _____ be tall.",
+      "options": [
+        "will",
+        "won't",
+        "is",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_6",
+      "question": "There _____ be a lot of traffic.",
+      "options": [
+        "will",
+        "is",
+        "are",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_7",
+      "question": "'Modern' nghĩa là gì?",
+      "options": [
+        "Cổ kính",
+        "Hiện đại",
+        "Đông đúc",
+        "Yên tĩnh"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q22_8",
+      "question": "I _____ stay out late.",
+      "options": [
+        "won't",
+        "will",
+        "am not",
+        "don't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_9",
+      "question": "Where _____ you go?",
+      "options": [
+        "will",
+        "shall",
+        "do",
+        "are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q22_10",
+      "question": "A _____ street.",
+      "options": [
+        "busy",
+        "busily",
+        "modern",
+        "crowded"
       ],
       "correct": 0
     }

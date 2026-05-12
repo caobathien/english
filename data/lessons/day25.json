@@ -16,8 +16,16 @@
         "formula": "S + will + V",
         "examples": [
           {
-            "en": "We will order pizza.",
-            "vi": "Chúng tôi sẽ gọi bánh pizza."
+            "en": "I will order a pizza.",
+            "vi": "Tôi sẽ gọi một chiếc pizza."
+          },
+          {
+            "en": "We will have dinner at 7.",
+            "vi": "Chúng tôi sẽ ăn tối lúc 7 giờ."
+          },
+          {
+            "en": "The waiter will bring the bill.",
+            "vi": "Người phục vụ sẽ mang hóa đơn đến."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "I won't eat dessert.",
-            "vi": "Tôi sẽ không ăn món tráng miệng."
+            "en": "I won't eat spicy food.",
+            "vi": "Tôi sẽ không ăn thức ăn cay."
+          },
+          {
+            "en": "She won't drink soda.",
+            "vi": "Cô ấy sẽ không uống nước ngọt."
+          },
+          {
+            "en": "They won't tip the waiter.",
+            "vi": "Họ sẽ không đưa tiền tip cho người phục vụ."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v25_1",
-      "word": "Menu",
-      "phonetic": "/ˈmen.juː/",
-      "meaning": "Thực đơn",
-      "example": "Can I see the menu?",
-      "exampleVi": "Cho tôi xem thực đơn?"
+      "word": "Restaurant",
+      "phonetic": "/ˈres.tə.rɑːnt/",
+      "meaning": "Nhà hàng",
+      "example": "A nice restaurant.",
+      "exampleVi": "Một nhà hàng đẹp."
     },
     {
       "id": "v25_2",
+      "word": "Menu",
+      "phonetic": "/ˈmen.juː/",
+      "meaning": "Thực đơn",
+      "example": "Read the menu.",
+      "exampleVi": "Đọc thực đơn."
+    },
+    {
+      "id": "v25_3",
       "word": "Order",
       "phonetic": "/ˈɔːr.dɚ/",
-      "meaning": "Gọi món",
-      "example": "I will order chicken.",
-      "exampleVi": "Tôi sẽ gọi gà."
+      "meaning": "Gọi món/Đặt hàng",
+      "example": "Order food.",
+      "exampleVi": "Gọi món ăn."
+    },
+    {
+      "id": "v25_4",
+      "word": "Waiter",
+      "phonetic": "/ˈweɪ.t̬ɚ/",
+      "meaning": "Người phục vụ nam",
+      "example": "Ask the waiter.",
+      "exampleVi": "Hỏi người phục vụ."
+    },
+    {
+      "id": "v25_5",
+      "word": "Waitress",
+      "phonetic": "/ˈweɪ.trəs/",
+      "meaning": "Người phục vụ nữ",
+      "example": "She is a waitress.",
+      "exampleVi": "Cô ấy là phục vụ nữ."
+    },
+    {
+      "id": "v25_6",
+      "word": "Bill",
+      "phonetic": "/bɪl/",
+      "meaning": "Hóa đơn",
+      "example": "Pay the bill.",
+      "exampleVi": "Thanh toán hóa đơn."
+    },
+    {
+      "id": "v25_7",
+      "word": "Delicious",
+      "phonetic": "/dɪˈlɪʃ.əs/",
+      "meaning": "Ngon",
+      "example": "The food is delicious.",
+      "exampleVi": "Thức ăn rất ngon."
+    },
+    {
+      "id": "v25_8",
+      "word": "Table",
+      "phonetic": "/ˈteɪ.bəl/",
+      "meaning": "Cái bàn",
+      "example": "Book a table.",
+      "exampleVi": "Đặt bàn."
+    },
+    {
+      "id": "v25_9",
+      "word": "Dessert",
+      "phonetic": "/dɪˈzɝːt/",
+      "meaning": "Món tráng miệng",
+      "example": "I want dessert.",
+      "exampleVi": "Tôi muốn món tráng miệng."
+    },
+    {
+      "id": "v25_10",
+      "word": "Tip",
+      "phonetic": "/tɪp/",
+      "meaning": "Tiền tip/Tiền boa",
+      "example": "Leave a tip.",
+      "exampleVi": "Để lại tiền tip."
     }
   ],
   "listening": [
     {
       "id": "l25_1",
-      "sentence": "Can I see the menu, please?",
-      "sentenceVi": "Cho tôi xem thực đơn được không?"
+      "sentence": "I will book a table for two at 8 PM.",
+      "sentenceVi": "Tôi sẽ đặt bàn cho hai người lúc 8 giờ tối."
     },
     {
       "id": "l25_2",
-      "sentence": "I will order a coffee.",
-      "sentenceVi": "Tôi sẽ gọi một ly cà phê."
+      "sentence": "The waiter will bring the menu soon.",
+      "sentenceVi": "Người phục vụ sẽ sớm mang thực đơn tới."
+    },
+    {
+      "id": "l25_3",
+      "sentence": "What will you order for dinner?",
+      "sentenceVi": "Bạn sẽ gọi món gì cho bữa tối?"
+    },
+    {
+      "id": "l25_4",
+      "sentence": "I will try the delicious pasta.",
+      "sentenceVi": "Tôi sẽ thử món mì Ý ngon tuyệt."
+    },
+    {
+      "id": "l25_5",
+      "sentence": "Will you have dessert after the meal?",
+      "sentenceVi": "Bạn sẽ dùng món tráng miệng sau bữa ăn chứ?"
+    },
+    {
+      "id": "l25_6",
+      "sentence": "The bill won't be very expensive.",
+      "sentenceVi": "Hóa đơn sẽ không quá đắt đâu."
+    },
+    {
+      "id": "l25_7",
+      "sentence": "She will pay by credit card.",
+      "sentenceVi": "Cô ấy sẽ thanh toán bằng thẻ tín dụng."
+    },
+    {
+      "id": "l25_8",
+      "sentence": "We will leave a tip for the waitress.",
+      "sentenceVi": "Chúng tôi sẽ để lại tiền tip cho cô phục vụ."
+    },
+    {
+      "id": "l25_9",
+      "sentence": "I won't drink wine today.",
+      "sentenceVi": "Hôm nay tôi sẽ không uống rượu."
+    },
+    {
+      "id": "l25_10",
+      "sentence": "The food will be ready in ten minutes.",
+      "sentenceVi": "Thức ăn sẽ sẵn sàng trong mười phút nữa."
     }
   ],
   "speaking": [
     {
       "id": "s25_1",
-      "sentence": "What would you like to order?",
-      "sentenceVi": "Bạn muốn gọi món gì?"
+      "sentence": "Let's go to a restaurant.",
+      "sentenceVi": "Chúng ta hãy đi nhà hàng đi."
+    },
+    {
+      "id": "s25_2",
+      "sentence": "Good idea, I'm hungry.",
+      "sentenceVi": "Ý kiến hay đấy, tôi đang đói."
+    },
+    {
+      "id": "s25_3",
+      "sentence": "Can we see the menu?",
+      "sentenceVi": "Chúng tôi có thể xem thực đơn không?"
+    },
+    {
+      "id": "s25_4",
+      "sentence": "Here it is.",
+      "sentenceVi": "Đây ạ."
+    },
+    {
+      "id": "s25_5",
+      "sentence": "I'll order a steak.",
+      "sentenceVi": "Tôi sẽ gọi món bít tết."
+    },
+    {
+      "id": "s25_6",
+      "sentence": "I'll have a salad.",
+      "sentenceVi": "Tôi sẽ dùng món salad."
+    },
+    {
+      "id": "s25_7",
+      "sentence": "The food is delicious!",
+      "sentenceVi": "Thức ăn ngon quá!"
+    },
+    {
+      "id": "s25_8",
+      "sentence": "Would you like dessert?",
+      "sentenceVi": "Bạn có muốn dùng món tráng miệng không?"
+    },
+    {
+      "id": "s25_9",
+      "sentence": "No, just the bill, please.",
+      "sentenceVi": "Không, cho tôi hóa đơn thôi."
+    },
+    {
+      "id": "s25_10",
+      "sentence": "I'll pay for it.",
+      "sentenceVi": "Tôi sẽ trả tiền."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w25_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "Can I see the _____?",
+      "question": "I will _____ a pizza.",
+      "answer": "order",
+      "hint": "gọi món"
+    },
+    {
+      "id": "w25_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Ask the _____.",
+      "answer": "waiter",
+      "hint": "người phục vụ"
+    },
+    {
+      "id": "w25_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Pay the _____.",
+      "answer": "bill",
+      "hint": "hóa đơn"
+    },
+    {
+      "id": "w25_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The food is _____.",
+      "answer": "delicious",
+      "hint": "ngon"
+    },
+    {
+      "id": "w25_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Read the _____.",
       "answer": "menu",
       "hint": "thực đơn"
+    },
+    {
+      "id": "w25_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Book a _____.",
+      "answer": "table",
+      "hint": "cái bàn"
+    },
+    {
+      "id": "w25_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I want _____.",
+      "answer": "dessert",
+      "hint": "món tráng miệng"
+    },
+    {
+      "id": "w25_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Leave a _____.",
+      "answer": "tip",
+      "hint": "tiền boa"
+    },
+    {
+      "id": "w25_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A nice _____.",
+      "answer": "restaurant",
+      "hint": "nhà hàng"
+    },
+    {
+      "id": "w25_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She is a _____.",
+      "answer": "waitress",
+      "hint": "phục vụ nữ"
     }
   ],
   "quizzes": [
     {
       "id": "q25_1",
-      "question": "'Order' nghĩa là gì?",
+      "question": "'Delicious' nghĩa là gì?",
       "options": [
-        "Gọi món",
-        "Nấu ăn",
-        "Trả tiền",
-        "Ăn"
+        "Ngon",
+        "Dở",
+        "Mặn",
+        "Ngọt"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_2",
+      "question": "I _____ order some food.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_3",
+      "question": "They _____ not tip him.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_4",
+      "question": "Will you _____ a table?",
+      "options": [
+        "book",
+        "books",
+        "booking",
+        "booked"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_5",
+      "question": "The bill _____ be $50.",
+      "options": [
+        "will",
+        "is",
+        "are",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_6",
+      "question": "'Menu' nghĩa là gì?",
+      "options": [
+        "Thực đơn",
+        "Hóa đơn",
+        "Bàn ăn",
+        "Món ăn"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_7",
+      "question": "A _____ waitress.",
+      "options": [
+        "kind",
+        "kindly",
+        "kinds",
+        "kinded"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_8",
+      "question": "I'll _____ by card.",
+      "options": [
+        "pay",
+        "pays",
+        "paying",
+        "paid"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_9",
+      "question": "Would you like _____?",
+      "options": [
+        "dessert",
+        "bill",
+        "menu",
+        "table"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q25_10",
+      "question": "The food _____ be ready.",
+      "options": [
+        "will",
+        "be",
+        "is",
+        "do"
       ],
       "correct": 0
     }

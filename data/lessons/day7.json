@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "The store opens at 9 AM.",
-            "vi": "Cửa hàng mở cửa lúc 9 giờ sáng."
+            "en": "I buy new clothes.",
+            "vi": "Tôi mua quần áo mới."
+          },
+          {
+            "en": "The store sells shoes.",
+            "vi": "Cửa hàng bán giày."
+          },
+          {
+            "en": "Prices are high here.",
+            "vi": "Giá cả ở đây rất cao."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "They don't sell shoes here.",
-            "vi": "Họ không bán giày ở đây."
+            "en": "I don't have enough money.",
+            "vi": "Tôi không có đủ tiền."
+          },
+          {
+            "en": "They don't sell food here.",
+            "vi": "Họ không bán thực phẩm ở đây."
+          },
+          {
+            "en": "It doesn't cost much.",
+            "vi": "Nó không tốn nhiều tiền."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v7_1",
-      "word": "Buy",
-      "phonetic": "/baɪ/",
-      "meaning": "Mua",
-      "example": "I buy a shirt.",
-      "exampleVi": "Tôi mua một cái áo."
+      "word": "Shop",
+      "phonetic": "/ʃɑːp/",
+      "meaning": "Cửa hàng",
+      "example": "Go to the shop.",
+      "exampleVi": "Đi đến cửa hàng."
     },
     {
       "id": "v7_2",
+      "word": "Buy",
+      "phonetic": "/baɪ/",
+      "meaning": "Mua",
+      "example": "I want to buy a bag.",
+      "exampleVi": "Tôi muốn mua một cái túi."
+    },
+    {
+      "id": "v7_3",
+      "word": "Sell",
+      "phonetic": "/sel/",
+      "meaning": "Bán",
+      "example": "They sell flowers.",
+      "exampleVi": "Họ bán hoa."
+    },
+    {
+      "id": "v7_4",
       "word": "Price",
       "phonetic": "/praɪs/",
       "meaning": "Giá cả",
-      "example": "The price is good.",
-      "exampleVi": "Giá tốt."
+      "example": "The price is low.",
+      "exampleVi": "Giá thấp."
+    },
+    {
+      "id": "v7_5",
+      "word": "Money",
+      "phonetic": "/ˈmʌn.i/",
+      "meaning": "Tiền",
+      "example": "I have some money.",
+      "exampleVi": "Tôi có một ít tiền."
+    },
+    {
+      "id": "v7_6",
+      "word": "Cost",
+      "phonetic": "/kɑːst/",
+      "meaning": "Giá/Tốn phí",
+      "example": "How much does it cost?",
+      "exampleVi": "Nó giá bao nhiêu?"
+    },
+    {
+      "id": "v7_7",
+      "word": "Cheap",
+      "phonetic": "/tʃiːp/",
+      "meaning": "Rẻ",
+      "example": "This is cheap.",
+      "exampleVi": "Cái này rẻ."
+    },
+    {
+      "id": "v7_8",
+      "word": "Expensive",
+      "phonetic": "/ɪkˈspen.sɪv/",
+      "meaning": "Đắt",
+      "example": "It is too expensive.",
+      "exampleVi": "Nó quá đắt."
+    },
+    {
+      "id": "v7_9",
+      "word": "Store",
+      "phonetic": "/stɔːr/",
+      "meaning": "Cửa hàng/Kho",
+      "example": "A big store.",
+      "exampleVi": "Một cửa hàng lớn."
+    },
+    {
+      "id": "v7_10",
+      "word": "Market",
+      "phonetic": "/ˈmɑːr.kɪt/",
+      "meaning": "Chợ",
+      "example": "I go to the market.",
+      "exampleVi": "Tôi đi chợ."
     }
   ],
   "listening": [
     {
       "id": "l7_1",
-      "sentence": "I want to buy a book.",
-      "sentenceVi": "Tôi muốn mua một cuốn sách."
+      "sentence": "I need to go shopping.",
+      "sentenceVi": "Tôi cần đi mua sắm."
     },
     {
       "id": "l7_2",
-      "sentence": "How much is this?",
-      "sentenceVi": "Cái này bao nhiêu tiền?"
+      "sentence": "Where is the nearest market?",
+      "sentenceVi": "Chợ gần nhất ở đâu?"
+    },
+    {
+      "id": "l7_3",
+      "sentence": "How much is this shirt?",
+      "sentenceVi": "Cái áo sơ mi này giá bao nhiêu?"
+    },
+    {
+      "id": "l7_4",
+      "sentence": "It is ten dollars.",
+      "sentenceVi": "Nó giá mười đô la."
+    },
+    {
+      "id": "l7_5",
+      "sentence": "That is very cheap.",
+      "sentenceVi": "Cái đó rất rẻ."
+    },
+    {
+      "id": "l7_6",
+      "sentence": "I want to buy these shoes.",
+      "sentenceVi": "Tôi muốn mua đôi giày này."
+    },
+    {
+      "id": "l7_7",
+      "sentence": "Do you have change?",
+      "sentenceVi": "Bạn có tiền lẻ không?"
+    },
+    {
+      "id": "l7_8",
+      "sentence": "The shop is closed today.",
+      "sentenceVi": "Cửa hàng đóng cửa hôm nay."
+    },
+    {
+      "id": "l7_9",
+      "sentence": "Everything is on sale.",
+      "sentenceVi": "Mọi thứ đang được giảm giá."
+    },
+    {
+      "id": "l7_10",
+      "sentence": "I don't have enough money.",
+      "sentenceVi": "Tôi không có đủ tiền."
     }
   ],
   "speaking": [
     {
       "id": "s7_1",
       "sentence": "How much is it?",
-      "sentenceVi": "Nó bao nhiêu tiền?"
+      "sentenceVi": "Nó giá bao nhiêu?"
+    },
+    {
+      "id": "s7_2",
+      "sentence": "It's 20 dollars.",
+      "sentenceVi": "Nó giá 20 đô la."
+    },
+    {
+      "id": "s7_3",
+      "sentence": "Can I have a discount?",
+      "sentenceVi": "Tôi có được giảm giá không?"
+    },
+    {
+      "id": "s7_4",
+      "sentence": "No, sorry.",
+      "sentenceVi": "Không, xin lỗi."
+    },
+    {
+      "id": "s7_5",
+      "sentence": "I'll take it.",
+      "sentenceVi": "Tôi sẽ lấy nó."
+    },
+    {
+      "id": "s7_6",
+      "sentence": "Do you accept credit cards?",
+      "sentenceVi": "Bạn có chấp nhận thẻ tín dụng không?"
+    },
+    {
+      "id": "s7_7",
+      "sentence": "Yes, we do.",
+      "sentenceVi": "Vâng, chúng tôi có."
+    },
+    {
+      "id": "s7_8",
+      "sentence": "Here is your receipt.",
+      "sentenceVi": "Đây là hóa đơn của bạn."
+    },
+    {
+      "id": "s7_9",
+      "sentence": "Thank you.",
+      "sentenceVi": "Cảm ơn bạn."
+    },
+    {
+      "id": "s7_10",
+      "sentence": "Have a nice day!",
+      "sentenceVi": "Chúc một ngày tốt lành!"
     }
   ],
   "writing": [
@@ -77,18 +242,189 @@
       "instruction": "Điền vào chỗ trống",
       "question": "How _____ is it?",
       "answer": "much",
-      "hint": "bao nhiêu"
+      "hint": "bao nhiêu (giá)"
+    },
+    {
+      "id": "w7_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I want to _____ this.",
+      "answer": "buy",
+      "hint": "mua"
+    },
+    {
+      "id": "w7_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "The _____ is too high.",
+      "answer": "price",
+      "hint": "giá cả"
+    },
+    {
+      "id": "w7_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "It is very _____.",
+      "answer": "cheap",
+      "hint": "rẻ"
+    },
+    {
+      "id": "w7_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "It is too _____.",
+      "answer": "expensive",
+      "hint": "đắt"
+    },
+    {
+      "id": "w7_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I don't have ____.",
+      "answer": "money",
+      "hint": "tiền"
+    },
+    {
+      "id": "w7_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They _____ flowers.",
+      "answer": "sell",
+      "hint": "bán"
+    },
+    {
+      "id": "w7_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Go to the _____.",
+      "answer": "shop",
+      "hint": "cửa hàng"
+    },
+    {
+      "id": "w7_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Where is the _____?",
+      "answer": "market",
+      "hint": "chợ"
+    },
+    {
+      "id": "w7_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "How much does it _____?",
+      "answer": "cost",
+      "hint": "giá/tốn"
     }
   ],
   "quizzes": [
     {
       "id": "q7_1",
-      "question": "'Buy' nghĩa là gì?",
+      "question": "'Expensive' nghĩa là gì?",
       "options": [
-        "Mua",
-        "Bán",
-        "Trả tiền",
-        "Hỏi giá"
+        "Rẻ",
+        "Đắt",
+        "Đẹp",
+        "Xấu"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q7_2",
+      "question": "How much _____ it cost?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q7_3",
+      "question": "I want to _____ a bag.",
+      "options": [
+        "buy",
+        "sell",
+        "give",
+        "take"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7_4",
+      "question": "The shop _____ shoes.",
+      "options": [
+        "buy",
+        "sell",
+        "sells",
+        "selling"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q7_5",
+      "question": "It is _____ cheap.",
+      "options": [
+        "very",
+        "too",
+        "so",
+        "all"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7_6",
+      "question": "Do you have _____ money?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "an"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q7_7",
+      "question": "_____ price is low.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "Some"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7_8",
+      "question": "'Cheap' nghĩa là gì?",
+      "options": [
+        "Rẻ",
+        "Đắt",
+        "Cao",
+        "Thấp"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7_9",
+      "question": "They _____ sell food.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q7_10",
+      "question": "Everything is _____ sale.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
       ],
       "correct": 0
     }

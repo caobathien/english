@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "She drinks coffee in the morning.",
-            "vi": "Cô ấy uống cà phê vào buổi sáng."
+            "en": "I eat bread for breakfast.",
+            "vi": "Tôi ăn bánh mì cho bữa sáng."
+          },
+          {
+            "en": "She drinks water.",
+            "vi": "Cô ấy uống nước."
+          },
+          {
+            "en": "They like spicy food.",
+            "vi": "Họ thích thức ăn cay."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + do/does + not + V",
         "examples": [
           {
-            "en": "I don't eat spicy food.",
-            "vi": "Tôi không ăn thức ăn cay."
+            "en": "I don't drink coffee.",
+            "vi": "Tôi không uống cà phê."
+          },
+          {
+            "en": "He doesn't eat meat.",
+            "vi": "Anh ấy không ăn thịt."
+          },
+          {
+            "en": "We don't like soda.",
+            "vi": "Chúng tôi không thích nước ngọt."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v6_1",
-      "word": "Apple",
-      "phonetic": "/ˈæp.əl/",
-      "meaning": "Quả táo",
-      "example": "I eat an apple.",
-      "exampleVi": "Tôi ăn một quả táo."
+      "word": "Bread",
+      "phonetic": "/bred/",
+      "meaning": "Bánh mì",
+      "example": "I like bread.",
+      "exampleVi": "Tôi thích bánh mì."
     },
     {
       "id": "v6_2",
+      "word": "Milk",
+      "phonetic": "/mɪlk/",
+      "meaning": "Sữa",
+      "example": "Drink your milk.",
+      "exampleVi": "Hãy uống sữa của bạn."
+    },
+    {
+      "id": "v6_3",
       "word": "Water",
       "phonetic": "/ˈwɑː.t̬ɚ/",
       "meaning": "Nước",
-      "example": "I drink water.",
-      "exampleVi": "Tôi uống nước."
+      "example": "I need water.",
+      "exampleVi": "Tôi cần nước."
+    },
+    {
+      "id": "v6_4",
+      "word": "Coffee",
+      "phonetic": "/ˈkɑː.fi/",
+      "meaning": "Cà phê",
+      "example": "He drinks coffee.",
+      "exampleVi": "Anh ấy uống cà phê."
+    },
+    {
+      "id": "v6_5",
+      "word": "Tea",
+      "phonetic": "/tiː/",
+      "meaning": "Trà",
+      "example": "I like green tea.",
+      "exampleVi": "Tôi thích trà xanh."
+    },
+    {
+      "id": "v6_6",
+      "word": "Fruit",
+      "phonetic": "/fruːt/",
+      "meaning": "Trái cây",
+      "example": "Eat more fruit.",
+      "exampleVi": "Hãy ăn thêm trái cây."
+    },
+    {
+      "id": "v6_7",
+      "word": "Vegetable",
+      "phonetic": "/ˈvedʒ.tə.bəl/",
+      "meaning": "Rau củ",
+      "example": "Vegetables are healthy.",
+      "exampleVi": "Rau củ rất tốt cho sức khỏe."
+    },
+    {
+      "id": "v6_8",
+      "word": "Rice",
+      "phonetic": "/raɪs/",
+      "meaning": "Cơm/Gạo",
+      "example": "I eat rice every day.",
+      "exampleVi": "Tôi ăn cơm mỗi ngày."
+    },
+    {
+      "id": "v6_9",
+      "word": "Meat",
+      "phonetic": "/miːt/",
+      "meaning": "Thịt",
+      "example": "He doesn't eat meat.",
+      "exampleVi": "Anh ấy không ăn thịt."
+    },
+    {
+      "id": "v6_10",
+      "word": "Egg",
+      "phonetic": "/eɡ/",
+      "meaning": "Trứng",
+      "example": "I like eggs.",
+      "exampleVi": "Tôi thích trứng."
     }
   ],
   "listening": [
     {
       "id": "l6_1",
-      "sentence": "I like eating apples.",
-      "sentenceVi": "Tôi thích ăn táo."
+      "sentence": "What do you want to eat?",
+      "sentenceVi": "Bạn muốn ăn gì?"
     },
     {
       "id": "l6_2",
-      "sentence": "She drinks coffee.",
-      "sentenceVi": "Cô ấy uống cà phê."
+      "sentence": "I want some rice and eggs.",
+      "sentenceVi": "Tôi muốn ăn cơm và trứng."
+    },
+    {
+      "id": "l6_3",
+      "sentence": "Do you like fruit?",
+      "sentenceVi": "Bạn có thích trái cây không?"
+    },
+    {
+      "id": "l6_4",
+      "sentence": "Yes, I like apples and bananas.",
+      "sentenceVi": "Vâng, tôi thích táo và chuối."
+    },
+    {
+      "id": "l6_5",
+      "sentence": "I drink milk every morning.",
+      "sentenceVi": "Tôi uống sữa mỗi sáng."
+    },
+    {
+      "id": "l6_6",
+      "sentence": "Coffee is too bitter for me.",
+      "sentenceVi": "Cà phê quá đắng đối với tôi."
+    },
+    {
+      "id": "l6_7",
+      "sentence": "We have vegetables for dinner.",
+      "sentenceVi": "Chúng tôi ăn rau cho bữa tối."
+    },
+    {
+      "id": "l6_8",
+      "sentence": "Is there any water in the fridge?",
+      "sentenceVi": "Có nước trong tủ lạnh không?"
+    },
+    {
+      "id": "l6_9",
+      "sentence": "I love eating bread with butter.",
+      "sentenceVi": "Tôi thích ăn bánh mì với bơ."
+    },
+    {
+      "id": "l6_10",
+      "sentence": "Let's drink some tea.",
+      "sentenceVi": "Hãy uống một chút trà nào."
     }
   ],
   "speaking": [
     {
       "id": "s6_1",
-      "sentence": "What is your favorite food?",
-      "sentenceVi": "Món ăn yêu thích của bạn là gì?"
+      "sentence": "Are you hungry?",
+      "sentenceVi": "Bạn có đói không?"
+    },
+    {
+      "id": "s6_2",
+      "sentence": "Yes, I am.",
+      "sentenceVi": "Vâng, tôi có."
+    },
+    {
+      "id": "s6_3",
+      "sentence": "What would you like?",
+      "sentenceVi": "Bạn muốn dùng gì?"
+    },
+    {
+      "id": "s6_4",
+      "sentence": "I'd like a sandwich.",
+      "sentenceVi": "Tôi muốn một cái bánh sandwich."
+    },
+    {
+      "id": "s6_5",
+      "sentence": "Anything to drink?",
+      "sentenceVi": "Có uống gì không?"
+    },
+    {
+      "id": "s6_6",
+      "sentence": "Water, please.",
+      "sentenceVi": "Cho tôi nước nhé."
+    },
+    {
+      "id": "s6_7",
+      "sentence": "I don't like coffee.",
+      "sentenceVi": "Tôi không thích cà phê."
+    },
+    {
+      "id": "s6_8",
+      "sentence": "I prefer tea.",
+      "sentenceVi": "Tôi thích trà hơn."
+    },
+    {
+      "id": "s6_9",
+      "sentence": "Enjoy your meal!",
+      "sentenceVi": "Chúc ngon miệng!"
+    },
+    {
+      "id": "s6_10",
+      "sentence": "Thank you.",
+      "sentenceVi": "Cảm ơn bạn."
     }
   ],
   "writing": [
@@ -78,17 +243,188 @@
       "question": "I drink _____.",
       "answer": "water",
       "hint": "nước"
+    },
+    {
+      "id": "w6_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I eat _____ every day.",
+      "answer": "rice",
+      "hint": "cơm"
+    },
+    {
+      "id": "w6_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She likes _____.",
+      "answer": "fruit",
+      "hint": "trái cây"
+    },
+    {
+      "id": "w6_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He drinks _____ in the morning.",
+      "answer": "coffee",
+      "hint": "cà phê"
+    },
+    {
+      "id": "w6_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ is good for health.",
+      "answer": "Vegetable",
+      "hint": "Rau củ"
+    },
+    {
+      "id": "w6_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I eat _____ for breakfast.",
+      "answer": "bread",
+      "hint": "bánh mì"
+    },
+    {
+      "id": "w6_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Do you like _____?",
+      "answer": "milk",
+      "hint": "sữa"
+    },
+    {
+      "id": "w6_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like _____ tea.",
+      "answer": "green",
+      "hint": "xanh (trà...)"
+    },
+    {
+      "id": "w6_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I want an _____.",
+      "answer": "egg",
+      "hint": "quả trứng"
+    },
+    {
+      "id": "w6_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He doesn't eat _____.",
+      "answer": "meat",
+      "hint": "thịt"
     }
   ],
   "quizzes": [
     {
       "id": "q6_1",
-      "question": "'Water' nghĩa là gì?",
+      "question": "'Vegetable' nghĩa là gì?",
       "options": [
-        "Nước",
+        "Trái cây",
+        "Rau củ",
+        "Thịt",
+        "Trứng"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q6_2",
+      "question": "I _____ coffee.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "drank"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_3",
+      "question": "She _____ eat meat.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q6_4",
+      "question": "Do you want _____ water?",
+      "options": [
+        "some",
+        "a",
+        "an",
+        "any"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_5",
+      "question": "They _____ like rice.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "aren't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_6",
+      "question": "Apples are _____.",
+      "options": [
+        "fruit",
+        "vegetable",
+        "meat",
+        "bread"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_7",
+      "question": "'Egg' nghĩa là gì?",
+      "options": [
+        "Trứng",
         "Sữa",
-        "Cà phê",
-        "Trà"
+        "Trà",
+        "Cơm"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_8",
+      "question": "I have bread _____ breakfast.",
+      "options": [
+        "for",
+        "at",
+        "in",
+        "on"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_9",
+      "question": "_____ you like tea?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q6_10",
+      "question": "Water is _____.",
+      "options": [
+        "healthy",
+        "bitter",
+        "sweet",
+        "hot"
       ],
       "correct": 0
     }

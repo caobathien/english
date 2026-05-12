@@ -16,8 +16,16 @@
         "formula": "S + am/is/are + V-ing",
         "examples": [
           {
-            "en": "He is playing tennis.",
-            "vi": "Anh ấy đang chơi quần vợt."
+            "en": "He is playing football.",
+            "vi": "Anh ấy đang chơi bóng đá."
+          },
+          {
+            "en": "They are running a race.",
+            "vi": "Họ đang chạy đua."
+          },
+          {
+            "en": "We are winning the game.",
+            "vi": "Chúng tôi đang thắng trận đấu."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + am/is/are + not + V-ing",
         "examples": [
           {
-            "en": "They are not watching the game.",
-            "vi": "Họ không đang xem trận đấu."
+            "en": "I am not playing tennis.",
+            "vi": "Tôi đang không chơi tennis."
+          },
+          {
+            "en": "She is not swimming today.",
+            "vi": "Cô ấy không đang bơi hôm nay."
+          },
+          {
+            "en": "They are not losing.",
+            "vi": "Họ đang không thua."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v13_1",
-      "word": "Soccer",
-      "phonetic": "/ˈsɑː.kɚ/",
-      "meaning": "Bóng đá",
-      "example": "I play soccer.",
-      "exampleVi": "Tôi chơi bóng đá."
+      "word": "Sport",
+      "phonetic": "/spɔːrt/",
+      "meaning": "Thể thao",
+      "example": "I like sports.",
+      "exampleVi": "Tôi thích thể thao."
     },
     {
       "id": "v13_2",
+      "word": "Football",
+      "phonetic": "/ˈfʊt.bɑːl/",
+      "meaning": "Bóng đá",
+      "example": "Play football.",
+      "exampleVi": "Chơi bóng đá."
+    },
+    {
+      "id": "v13_3",
+      "word": "Tennis",
+      "phonetic": "/ˈten.ɪs/",
+      "meaning": "Tennis/Quần vợt",
+      "example": "Play tennis.",
+      "exampleVi": "Chơi tennis."
+    },
+    {
+      "id": "v13_4",
       "word": "Swimming",
       "phonetic": "/ˈswɪm.ɪŋ/",
       "meaning": "Bơi lội",
-      "example": "She likes swimming.",
-      "exampleVi": "Cô ấy thích bơi lội."
+      "example": "I like swimming.",
+      "exampleVi": "Tôi thích bơi."
+    },
+    {
+      "id": "v13_5",
+      "word": "Running",
+      "phonetic": "/ˈrʌn.ɪŋ/",
+      "meaning": "Chạy bộ",
+      "example": "Running is good.",
+      "exampleVi": "Chạy bộ rất tốt."
+    },
+    {
+      "id": "v13_6",
+      "word": "Team",
+      "phonetic": "/tiːm/",
+      "meaning": "Đội",
+      "example": "My team is great.",
+      "exampleVi": "Đội của tôi rất tuyệt."
+    },
+    {
+      "id": "v13_7",
+      "word": "Game",
+      "phonetic": "/ɡeɪm/",
+      "meaning": "Trò chơi/Trận đấu",
+      "example": "A fun game.",
+      "exampleVi": "Một trò chơi vui."
+    },
+    {
+      "id": "v13_8",
+      "word": "Ball",
+      "phonetic": "/bɑːl/",
+      "meaning": "Quả bóng",
+      "example": "Kick the ball.",
+      "exampleVi": "Đá quả bóng."
+    },
+    {
+      "id": "v13_9",
+      "word": "Win",
+      "phonetic": "/wɪn/",
+      "meaning": "Thắng",
+      "example": "We want to win.",
+      "exampleVi": "Chúng tôi muốn thắng."
+    },
+    {
+      "id": "v13_10",
+      "word": "Lose",
+      "phonetic": "/luːz/",
+      "meaning": "Thua",
+      "example": "Don't lose.",
+      "exampleVi": "Đừng để thua."
     }
   ],
   "listening": [
     {
       "id": "l13_1",
-      "sentence": "I play soccer every Sunday.",
-      "sentenceVi": "Tôi chơi bóng đá mỗi Chủ Nhật."
+      "sentence": "Are you playing football now?",
+      "sentenceVi": "Bây giờ bạn có đang chơi bóng đá không?"
     },
     {
       "id": "l13_2",
-      "sentence": "He is swimming in the pool.",
-      "sentenceVi": "Anh ấy đang bơi trong hồ."
+      "sentence": "The team is practicing hard.",
+      "sentenceVi": "Đội đang luyện tập chăm chỉ."
+    },
+    {
+      "id": "l13_3",
+      "sentence": "She is winning the tennis match.",
+      "sentenceVi": "Cô ấy đang thắng trận tennis."
+    },
+    {
+      "id": "l13_4",
+      "sentence": "They are running in the park.",
+      "sentenceVi": "Họ đang chạy bộ trong công viên."
+    },
+    {
+      "id": "l13_5",
+      "sentence": "I am not swimming because it's cold.",
+      "sentenceVi": "Tôi không bơi vì trời lạnh."
+    },
+    {
+      "id": "l13_6",
+      "sentence": "Who is winning the game?",
+      "sentenceVi": "Ai đang thắng trận đấu?"
+    },
+    {
+      "id": "l13_7",
+      "sentence": "Kick the ball to me!",
+      "sentenceVi": "Đá quả bóng cho tôi!"
+    },
+    {
+      "id": "l13_8",
+      "sentence": "We are losing the match.",
+      "sentenceVi": "Chúng tôi đang thua trận."
+    },
+    {
+      "id": "l13_9",
+      "sentence": "He is a great sports player.",
+      "sentenceVi": "Anh ấy là một vận động viên tuyệt vời."
+    },
+    {
+      "id": "l13_10",
+      "sentence": "Are they playing together?",
+      "sentenceVi": "Họ đang chơi cùng nhau à?"
     }
   ],
   "speaking": [
     {
       "id": "s13_1",
-      "sentence": "What sport do you like?",
-      "sentenceVi": "Bạn thích môn thể thao nào?"
+      "sentence": "What is your favorite sport?",
+      "sentenceVi": "Môn thể thao yêu thích của bạn là gì?"
+    },
+    {
+      "id": "s13_2",
+      "sentence": "I like football.",
+      "sentenceVi": "Tôi thích bóng đá."
+    },
+    {
+      "id": "s13_3",
+      "sentence": "Are you playing today?",
+      "sentenceVi": "Hôm nay bạn có chơi không?"
+    },
+    {
+      "id": "s13_4",
+      "sentence": "No, I am tired.",
+      "sentenceVi": "Không, tôi mệt rồi."
+    },
+    {
+      "id": "s13_5",
+      "sentence": "Let's go running.",
+      "sentenceVi": "Chúng ta đi chạy bộ đi."
+    },
+    {
+      "id": "s13_6",
+      "sentence": "I love swimming in the sea.",
+      "sentenceVi": "Tôi yêu bơi lội dưới biển."
+    },
+    {
+      "id": "s13_7",
+      "sentence": "Who is your favorite team?",
+      "sentenceVi": "Đội bóng yêu thích của bạn là gì?"
+    },
+    {
+      "id": "s13_8",
+      "sentence": "I like Manchester United.",
+      "sentenceVi": "Tôi thích Manchester United."
+    },
+    {
+      "id": "s13_9",
+      "sentence": "We are winning!",
+      "sentenceVi": "Chúng ta đang thắng!"
+    },
+    {
+      "id": "s13_10",
+      "sentence": "Keep going!",
+      "sentenceVi": "Tiếp tục cố gắng nào!"
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w13_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I play _____ every Sunday.",
-      "answer": "soccer",
-      "hint": "bóng đá"
+      "question": "He is _____ football.",
+      "answer": "playing",
+      "hint": "đang chơi"
+    },
+    {
+      "id": "w13_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like _____.",
+      "answer": "swimming",
+      "hint": "bơi lội"
+    },
+    {
+      "id": "w13_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We are _____ the game.",
+      "answer": "winning",
+      "hint": "đang thắng"
+    },
+    {
+      "id": "w13_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Kick the _____.",
+      "answer": "ball",
+      "hint": "quả bóng"
+    },
+    {
+      "id": "w13_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "My _____ is great.",
+      "answer": "team",
+      "hint": "đội"
+    },
+    {
+      "id": "w13_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "They are _____.",
+      "answer": "running",
+      "hint": "đang chạy"
+    },
+    {
+      "id": "w13_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I play _____.",
+      "answer": "tennis",
+      "hint": "tennis"
+    },
+    {
+      "id": "w13_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Don't _____.",
+      "answer": "lose",
+      "hint": "thua"
+    },
+    {
+      "id": "w13_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "A fun _____.",
+      "answer": "game",
+      "hint": "trò chơi/trận đấu"
+    },
+    {
+      "id": "w13_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like _____.",
+      "answer": "sports",
+      "hint": "thể thao"
     }
   ],
   "quizzes": [
     {
       "id": "q13_1",
-      "question": "'Swimming' nghĩa là gì?",
+      "question": "'Football' là môn gì?",
       "options": [
-        "Bơi lội",
-        "Chạy bộ",
         "Bóng đá",
-        "Nhảy"
+        "Bóng chuyền",
+        "Bóng rổ",
+        "Bóng chày"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_2",
+      "question": "They are _____ now.",
+      "options": [
+        "run",
+        "running",
+        "runs",
+        "ran"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q13_3",
+      "question": "We _____ winning.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q13_4",
+      "question": "Is she _____ tennis?",
+      "options": [
+        "play",
+        "playing",
+        "plays",
+        "played"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q13_5",
+      "question": "I am _____ losing.",
+      "options": [
+        "not",
+        "no",
+        "don't",
+        "doesn't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_6",
+      "question": "'Win' nghĩa là gì?",
+      "options": [
+        "Thắng",
+        "Thua",
+        "Hòa",
+        "Chơi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_7",
+      "question": "Kick the _____.",
+      "options": [
+        "ball",
+        "game",
+        "team",
+        "sport"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_8",
+      "question": "Are _____ playing together?",
+      "options": [
+        "you",
+        "your",
+        "yours",
+        "me"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_9",
+      "question": "My favorite _____ is swimming.",
+      "options": [
+        "sport",
+        "game",
+        "team",
+        "ball"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q13_10",
+      "question": "He _____ playing well.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
       ],
       "correct": 0
     }

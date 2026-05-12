@@ -16,8 +16,16 @@
         "formula": "S + V(s/es)",
         "examples": [
           {
-            "en": "They read books every night.",
-            "vi": "Họ đọc sách mỗi tối."
+            "en": "I like reading books.",
+            "vi": "Tôi thích đọc sách."
+          },
+          {
+            "en": "He plays the guitar.",
+            "vi": "Anh ấy chơi đàn guitar."
+          },
+          {
+            "en": "They love swimming.",
+            "vi": "Họ yêu thích bơi lội."
           }
         ]
       },
@@ -25,6 +33,14 @@
         "title": "Phủ định",
         "formula": "S + do/does + not + V",
         "examples": [
+          {
+            "en": "I don't like dancing.",
+            "vi": "Tôi không thích nhảy múa."
+          },
+          {
+            "en": "She doesn't play soccer.",
+            "vi": "Cô ấy không chơi bóng đá."
+          },
           {
             "en": "We don't watch TV.",
             "vi": "Chúng tôi không xem tivi."
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v4_1",
-      "word": "Read",
-      "phonetic": "/riːd/",
-      "meaning": "Đọc",
-      "example": "I read books.",
-      "exampleVi": "Tôi đọc sách."
+      "word": "Hobby",
+      "phonetic": "/ˈhɑː.bi/",
+      "meaning": "Sở thích",
+      "example": "Reading is my hobby.",
+      "exampleVi": "Đọc sách là sở thích của tôi."
     },
     {
       "id": "v4_2",
-      "word": "Listen",
-      "phonetic": "/ˈlɪs.ən/",
-      "meaning": "Nghe",
+      "word": "Reading",
+      "phonetic": "/ˈriː.dɪŋ/",
+      "meaning": "Đọc sách",
+      "example": "I like reading.",
+      "exampleVi": "Tôi thích đọc sách."
+    },
+    {
+      "id": "v4_3",
+      "word": "Music",
+      "phonetic": "/ˈmjuː.zɪk/",
+      "meaning": "Âm nhạc",
       "example": "I listen to music.",
       "exampleVi": "Tôi nghe nhạc."
+    },
+    {
+      "id": "v4_4",
+      "word": "Cooking",
+      "phonetic": "/ˈkʊk.ɪŋ/",
+      "meaning": "Nấu ăn",
+      "example": "Cooking is fun.",
+      "exampleVi": "Nấu ăn rất vui."
+    },
+    {
+      "id": "v4_5",
+      "word": "Sports",
+      "phonetic": "/spɔːrts/",
+      "meaning": "Thể thao",
+      "example": "I play sports.",
+      "exampleVi": "Tôi chơi thể thao."
+    },
+    {
+      "id": "v4_6",
+      "word": "Travel",
+      "phonetic": "/ˈtræv.əl/",
+      "meaning": "Du lịch",
+      "example": "I love to travel.",
+      "exampleVi": "Tôi yêu du lịch."
+    },
+    {
+      "id": "v4_7",
+      "word": "Photography",
+      "phonetic": "/fəˈtɑː.ɡrə.fi/",
+      "meaning": "Nhiếp ảnh",
+      "example": "I like photography.",
+      "exampleVi": "Tôi thích nhiếp ảnh."
+    },
+    {
+      "id": "v4_8",
+      "word": "Painting",
+      "phonetic": "/ˈpeɪn.tɪŋ/",
+      "meaning": "Hội họa",
+      "example": "Painting is relaxing.",
+      "exampleVi": "Vẽ tranh rất thư giãn."
+    },
+    {
+      "id": "v4_9",
+      "word": "Dancing",
+      "phonetic": "/ˈdæn.sɪŋ/",
+      "meaning": "Nhảy múa",
+      "example": "She enjoys dancing.",
+      "exampleVi": "Cô ấy thích nhảy múa."
+    },
+    {
+      "id": "v4_10",
+      "word": "Gaming",
+      "phonetic": "/ˈɡeɪ.mɪŋ/",
+      "meaning": "Chơi game",
+      "example": "Gaming is popular.",
+      "exampleVi": "Chơi game rất phổ biến."
     }
   ],
   "listening": [
     {
       "id": "l4_1",
-      "sentence": "I like reading books.",
-      "sentenceVi": "Tôi thích đọc sách."
+      "sentence": "What are your hobbies?",
+      "sentenceVi": "Sở thích của bạn là gì?"
     },
     {
       "id": "l4_2",
-      "sentence": "He likes playing soccer.",
-      "sentenceVi": "Anh ấy thích chơi bóng đá."
+      "sentence": "I like listening to music.",
+      "sentenceVi": "Tôi thích nghe nhạc."
+    },
+    {
+      "id": "l4_3",
+      "sentence": "My brother loves playing soccer.",
+      "sentenceVi": "Anh trai tôi yêu bóng đá."
+    },
+    {
+      "id": "l4_4",
+      "sentence": "She enjoys cooking for her family.",
+      "sentenceVi": "Cô ấy thích nấu ăn cho gia đình."
+    },
+    {
+      "id": "l4_5",
+      "sentence": "We go swimming every weekend.",
+      "sentenceVi": "Chúng tôi đi bơi mỗi cuối tuần."
+    },
+    {
+      "id": "l4_6",
+      "sentence": "I take photos in the park.",
+      "sentenceVi": "Tôi chụp ảnh trong công viên."
+    },
+    {
+      "id": "l4_7",
+      "sentence": "He spends time gaming.",
+      "sentenceVi": "Anh ấy dành thời gian chơi game."
+    },
+    {
+      "id": "l4_8",
+      "sentence": "Do you like reading books?",
+      "sentenceVi": "Bạn có thích đọc sách không?"
+    },
+    {
+      "id": "l4_9",
+      "sentence": "Yes, I read every night.",
+      "sentenceVi": "Vâng, tôi đọc mỗi tối."
+    },
+    {
+      "id": "l4_10",
+      "sentence": "Traveling is very exciting.",
+      "sentenceVi": "Du lịch rất thú vị."
     }
   ],
   "speaking": [
     {
       "id": "s4_1",
-      "sentence": "What are your hobbies?",
-      "sentenceVi": "Sở thích của bạn là gì?"
+      "sentence": "Do you have any hobbies?",
+      "sentenceVi": "Bạn có sở thích nào không?"
+    },
+    {
+      "id": "s4_2",
+      "sentence": "Yes, I like reading.",
+      "sentenceVi": "Có, tôi thích đọc sách."
+    },
+    {
+      "id": "s4_3",
+      "sentence": "What kind of books?",
+      "sentenceVi": "Loại sách gì?"
+    },
+    {
+      "id": "s4_4",
+      "sentence": "I like novels.",
+      "sentenceVi": "Tôi thích tiểu thuyết."
+    },
+    {
+      "id": "s4_5",
+      "sentence": "I don't like sports.",
+      "sentenceVi": "Tôi không thích thể thao."
+    },
+    {
+      "id": "s4_6",
+      "sentence": "How about music?",
+      "sentenceVi": "Còn âm nhạc thì sao?"
+    },
+    {
+      "id": "s4_7",
+      "sentence": "I love pop music.",
+      "sentenceVi": "Tôi yêu nhạc pop."
+    },
+    {
+      "id": "s4_8",
+      "sentence": "She plays the piano.",
+      "sentenceVi": "Cô ấy chơi piano."
+    },
+    {
+      "id": "s4_9",
+      "sentence": "I want to travel more.",
+      "sentenceVi": "Tôi muốn đi du lịch nhiều hơn."
+    },
+    {
+      "id": "s4_10",
+      "sentence": "That sounds great!",
+      "sentenceVi": "Nghe có vẻ tuyệt vời!"
     }
   ],
   "writing": [
@@ -75,22 +240,193 @@
       "id": "w4_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "I like _____ to music.",
-      "answer": "listening",
-      "hint": "nghe (nhạc)"
+      "question": "I like _____ books.",
+      "answer": "reading",
+      "hint": "đọc"
+    },
+    {
+      "id": "w4_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "My _____ is music.",
+      "answer": "hobby",
+      "hint": "sở thích"
+    },
+    {
+      "id": "w4_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I love to _____.",
+      "answer": "travel",
+      "hint": "du lịch"
+    },
+    {
+      "id": "w4_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "She enjoys _____.",
+      "answer": "cooking",
+      "hint": "nấu ăn"
+    },
+    {
+      "id": "w4_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I play _____.",
+      "answer": "sports",
+      "hint": "thể thao"
+    },
+    {
+      "id": "w4_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I listen to _____.",
+      "answer": "music",
+      "hint": "âm nhạc"
+    },
+    {
+      "id": "w4_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "He likes _____.",
+      "answer": "gaming",
+      "hint": "chơi game"
+    },
+    {
+      "id": "w4_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I like _____ photos.",
+      "answer": "taking",
+      "hint": "chụp (ảnh)"
+    },
+    {
+      "id": "w4_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Painting is _____.",
+      "answer": "relaxing",
+      "hint": "thư giãn"
+    },
+    {
+      "id": "w4_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "We like _____.",
+      "answer": "dancing",
+      "hint": "nhảy múa"
     }
   ],
   "quizzes": [
     {
       "id": "q4_1",
-      "question": "'Read' nghĩa là gì?",
+      "question": "'Hobby' nghĩa là gì?",
       "options": [
-        "Đọc",
-        "Nghe",
-        "Viết",
-        "Nói"
+        "Công việc",
+        "Sở thích",
+        "Học tập",
+        "Nghỉ ngơi"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q4_2",
+      "question": "I like _____ music.",
+      "options": [
+        "listen",
+        "listening",
+        "to listen",
+        "listened"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q4_3",
+      "question": "She _____ play soccer.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q4_4",
+      "question": "Do you have _____ hobbies?",
+      "options": [
+        "any",
+        "some",
+        "a",
+        "an"
       ],
       "correct": 0
+    },
+    {
+      "id": "q4_5",
+      "question": "He _____ reading.",
+      "options": [
+        "like",
+        "likes",
+        "liking",
+        "liked"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q4_6",
+      "question": "They _____ watch TV.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "aren't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q4_7",
+      "question": "Cooking _____ fun.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q4_8",
+      "question": "'Travel' nghĩa là gì?",
+      "options": [
+        "Làm việc",
+        "Đi lại",
+        "Du lịch",
+        "Mua sắm"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q4_9",
+      "question": "I _____ photography.",
+      "options": [
+        "like",
+        "likes",
+        "am like",
+        "liking"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q4_10",
+      "question": "What _____ your hobbies?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
+      ],
+      "correct": 2
     }
   ],
   "conversation": [

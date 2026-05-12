@@ -16,8 +16,16 @@
         "formula": "S + will + V",
         "examples": [
           {
-            "en": "He will post a new photo.",
-            "vi": "Anh ấy sẽ đăng một bức ảnh mới."
+            "en": "I will post a new photo.",
+            "vi": "Tôi sẽ đăng một bức ảnh mới."
+          },
+          {
+            "en": "She will send you a link.",
+            "vi": "Cô ấy sẽ gửi cho bạn một đường liên kết."
+          },
+          {
+            "en": "They will share the video.",
+            "vi": "Họ sẽ chia sẻ video đó."
           }
         ]
       },
@@ -26,8 +34,16 @@
         "formula": "S + will not (won't) + V",
         "examples": [
           {
-            "en": "They won't share the video.",
-            "vi": "Họ sẽ không chia sẻ video đó."
+            "en": "I won't delete my account.",
+            "vi": "Tôi sẽ không xóa tài khoản của mình."
+          },
+          {
+            "en": "He won't check his messages.",
+            "vi": "Anh ấy sẽ không kiểm tra tin nhắn."
+          },
+          {
+            "en": "We won't use Facebook today.",
+            "vi": "Chúng tôi sẽ không dùng Facebook hôm nay."
           }
         ]
       }
@@ -36,38 +52,187 @@
   "vocabulary": [
     {
       "id": "v26_1",
-      "word": "Share",
-      "phonetic": "/ʃer/",
-      "meaning": "Chia sẻ",
-      "example": "I will share this photo.",
-      "exampleVi": "Tôi sẽ chia sẻ bức ảnh này."
+      "word": "Social media",
+      "phonetic": "/ˌsoʊ.ʃəl ˈmiː.di.ə/",
+      "meaning": "Mạng xã hội",
+      "example": "I use social media.",
+      "exampleVi": "Tôi dùng mạng xã hội."
     },
     {
       "id": "v26_2",
+      "word": "Account",
+      "phonetic": "/əˈkaʊnt/",
+      "meaning": "Tài khoản",
+      "example": "My Facebook account.",
+      "exampleVi": "Tài khoản Facebook của tôi."
+    },
+    {
+      "id": "v26_3",
+      "word": "Post",
+      "phonetic": "/poʊst/",
+      "meaning": "Đăng bài/Bài đăng",
+      "example": "Post a picture.",
+      "exampleVi": "Đăng một bức ảnh."
+    },
+    {
+      "id": "v26_4",
       "word": "Message",
       "phonetic": "/ˈmes.ɪdʒ/",
       "meaning": "Tin nhắn",
-      "example": "Send me a message.",
-      "exampleVi": "Gửi tin nhắn cho tôi."
+      "example": "Send a message.",
+      "exampleVi": "Gửi tin nhắn."
+    },
+    {
+      "id": "v26_5",
+      "word": "Share",
+      "phonetic": "/ʃer/",
+      "meaning": "Chia sẻ",
+      "example": "Share a link.",
+      "exampleVi": "Chia sẻ đường link."
+    },
+    {
+      "id": "v26_6",
+      "word": "Like",
+      "phonetic": "/laɪk/",
+      "meaning": "Thích (nút like)",
+      "example": "Give a like.",
+      "exampleVi": "Bấm thích."
+    },
+    {
+      "id": "v26_7",
+      "word": "Comment",
+      "phonetic": "/ˈkɑː.ment/",
+      "meaning": "Bình luận",
+      "example": "Write a comment.",
+      "exampleVi": "Viết bình luận."
+    },
+    {
+      "id": "v26_8",
+      "word": "Follow",
+      "phonetic": "/ˈfɑː.loʊ/",
+      "meaning": "Theo dõi",
+      "example": "Follow me.",
+      "exampleVi": "Theo dõi tôi."
+    },
+    {
+      "id": "v26_9",
+      "word": "Video",
+      "phonetic": "/ˈvɪd.i.oʊ/",
+      "meaning": "Video",
+      "example": "Watch a video.",
+      "exampleVi": "Xem video."
+    },
+    {
+      "id": "v26_10",
+      "word": "Photo",
+      "phonetic": "/ˈfoʊ.t̬oʊ/",
+      "meaning": "Ảnh",
+      "example": "Take a photo.",
+      "exampleVi": "Chụp ảnh."
     }
   ],
   "listening": [
     {
       "id": "l26_1",
-      "sentence": "I will share a photo online.",
-      "sentenceVi": "Tôi sẽ chia sẻ ảnh trên mạng."
+      "sentence": "I will post a status update later.",
+      "sentenceVi": "Tôi sẽ đăng cập nhật trạng thái sau."
     },
     {
       "id": "l26_2",
-      "sentence": "She will send me a message.",
-      "sentenceVi": "Cô ấy sẽ gửi tin nhắn cho tôi."
+      "sentence": "She will send a message to her friend.",
+      "sentenceVi": "Cô ấy sẽ gửi tin nhắn cho bạn mình."
+    },
+    {
+      "id": "l26_3",
+      "sentence": "Will you share this video on your wall?",
+      "sentenceVi": "Bạn sẽ chia sẻ video này lên tường của mình chứ?"
+    },
+    {
+      "id": "l26_4",
+      "sentence": "They won't like your post if it's boring.",
+      "sentenceVi": "Họ sẽ không thích bài đăng của bạn nếu nó nhàm chán."
+    },
+    {
+      "id": "l26_5",
+      "sentence": "I will comment on your photo.",
+      "sentenceVi": "Tôi sẽ bình luận vào ảnh của bạn."
+    },
+    {
+      "id": "l26_6",
+      "sentence": "He will delete the old account.",
+      "sentenceVi": "Anh ấy sẽ xóa tài khoản cũ."
+    },
+    {
+      "id": "l26_7",
+      "sentence": "The video will go viral soon.",
+      "sentenceVi": "Video sẽ sớm trở nên phổ biến."
+    },
+    {
+      "id": "l26_8",
+      "sentence": "I won't follow him anymore.",
+      "sentenceVi": "Tôi sẽ không theo dõi anh ta nữa."
+    },
+    {
+      "id": "l26_9",
+      "sentence": "She will take a lot of photos at the party.",
+      "sentenceVi": "Cô ấy sẽ chụp rất nhiều ảnh tại bữa tiệc."
+    },
+    {
+      "id": "l26_10",
+      "sentence": "Check your messages, I sent a link.",
+      "sentenceVi": "Kiểm tra tin nhắn đi, tôi đã gửi một đường link."
     }
   ],
   "speaking": [
     {
       "id": "s26_1",
-      "sentence": "Do you use social media?",
-      "sentenceVi": "Bạn có dùng mạng xã hội không?"
+      "sentence": "Do you use Instagram?",
+      "sentenceVi": "Bạn có dùng Instagram không?"
+    },
+    {
+      "id": "s26_2",
+      "sentence": "Yes, I post photos there.",
+      "sentenceVi": "Có, tôi đăng ảnh ở đó."
+    },
+    {
+      "id": "s26_3",
+      "sentence": "Did you see my new post?",
+      "sentenceVi": "Bạn đã thấy bài đăng mới của tôi chưa?"
+    },
+    {
+      "id": "s26_4",
+      "sentence": "Yes, I liked it.",
+      "sentenceVi": "Rồi, tôi đã thích nó rồi."
+    },
+    {
+      "id": "s26_5",
+      "sentence": "Can you share this link?",
+      "sentenceVi": "Bạn có thể chia sẻ link này không?"
+    },
+    {
+      "id": "s26_6",
+      "sentence": "Sure, I'll do it now.",
+      "sentenceVi": "Chắc chắn rồi, tôi sẽ làm ngay."
+    },
+    {
+      "id": "s26_7",
+      "sentence": "I'll send you a message.",
+      "sentenceVi": "Tôi sẽ gửi tin nhắn cho bạn."
+    },
+    {
+      "id": "s26_8",
+      "sentence": "Okay, I'll check it later.",
+      "sentenceVi": "Được rồi, tôi sẽ kiểm tra sau."
+    },
+    {
+      "id": "s26_9",
+      "sentence": "Don't write a mean comment.",
+      "sentenceVi": "Đừng viết bình luận khiếm nhã."
+    },
+    {
+      "id": "s26_10",
+      "sentence": "I won't.",
+      "sentenceVi": "Tôi sẽ không đâu."
     }
   ],
   "writing": [
@@ -75,20 +240,191 @@
       "id": "w26_1",
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
-      "question": "Send me a _____.",
+      "question": "I will _____ a photo.",
+      "answer": "post",
+      "hint": "đăng"
+    },
+    {
+      "id": "w26_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Send a _____.",
       "answer": "message",
       "hint": "tin nhắn"
+    },
+    {
+      "id": "w26_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Share a _____.",
+      "answer": "link",
+      "hint": "đường liên kết"
+    },
+    {
+      "id": "w26_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Write a _____.",
+      "answer": "comment",
+      "hint": "bình luận"
+    },
+    {
+      "id": "w26_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ my account.",
+      "answer": "Delete",
+      "hint": "Xóa"
+    },
+    {
+      "id": "w26_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I use _____ media.",
+      "answer": "social",
+      "hint": "xã hội (social...)"
+    },
+    {
+      "id": "w26_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Give a _____.",
+      "answer": "like",
+      "hint": "thích"
+    },
+    {
+      "id": "w26_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ me on Twitter.",
+      "answer": "Follow",
+      "hint": "Theo dõi"
+    },
+    {
+      "id": "w26_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Watch a _____.",
+      "answer": "video",
+      "hint": "video"
+    },
+    {
+      "id": "w26_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Take a _____.",
+      "answer": "photo",
+      "hint": "ảnh"
     }
   ],
   "quizzes": [
     {
       "id": "q26_1",
-      "question": "'Share' nghĩa là gì?",
+      "question": "'Message' nghĩa là gì?",
       "options": [
+        "Tin nhắn",
+        "Bài đăng",
+        "Ảnh",
+        "Video"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_2",
+      "question": "I _____ post it later.",
+      "options": [
+        "will",
+        "won't",
+        "am",
+        "do"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_3",
+      "question": "She _____ not check it.",
+      "options": [
+        "will",
+        "won't",
+        "do",
+        "does"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_4",
+      "question": "Will you _____ the link?",
+      "options": [
+        "share",
+        "shares",
+        "sharing",
+        "shared"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_5",
+      "question": "I _____ delete my account.",
+      "options": [
+        "won't",
+        "will",
+        "am not",
+        "don't"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_6",
+      "question": "'Comment' nghĩa là gì?",
+      "options": [
+        "Bình luận",
         "Chia sẻ",
-        "Xóa",
-        "Tải về",
-        "Đăng ký"
+        "Thích",
+        "Theo dõi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_7",
+      "question": "A _____ photo.",
+      "options": [
+        "new",
+        "newly",
+        "news",
+        "newing"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_8",
+      "question": "I'll _____ you a message.",
+      "options": [
+        "send",
+        "sends",
+        "sending",
+        "sent"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_9",
+      "question": "Follow _____ on Instagram.",
+      "options": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q26_10",
+      "question": "The video _____ go viral.",
+      "options": [
+        "will",
+        "is",
+        "are",
+        "be"
       ],
       "correct": 0
     }

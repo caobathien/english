@@ -16,8 +16,16 @@
         "formula": "Present / Past / Future",
         "examples": [
           {
-            "en": "I learn English every day. Yesterday I learned vocabulary. Tomorrow I will practice speaking.",
-            "vi": "Tôi học tiếng Anh mỗi ngày. Hôm qua tôi đã học từ vựng. Ngày mai tôi sẽ luyện nói."
+            "en": "I learn English every day.",
+            "vi": "Tôi học tiếng Anh mỗi ngày."
+          },
+          {
+            "en": "Yesterday I learned new words.",
+            "vi": "Hôm qua tôi đã học những từ mới."
+          },
+          {
+            "en": "Tomorrow I will practice speaking.",
+            "vi": "Ngày mai tôi sẽ luyện nói."
           }
         ]
       }
@@ -26,38 +34,187 @@
   "vocabulary": [
     {
       "id": "v29_1",
-      "word": "Practice",
-      "phonetic": "/ˈpræk.tɪs/",
-      "meaning": "Luyện tập",
-      "example": "I practice every day.",
-      "exampleVi": "Tôi luyện tập mỗi ngày."
+      "word": "Review",
+      "phonetic": "/rɪˈvjuː/",
+      "meaning": "Ôn tập",
+      "example": "Review your lessons.",
+      "exampleVi": "Ôn lại các bài học của bạn."
     },
     {
       "id": "v29_2",
+      "word": "Practice",
+      "phonetic": "/ˈpræk.tɪs/",
+      "meaning": "Luyện tập",
+      "example": "Practice makes perfect.",
+      "exampleVi": "Luyện tập tạo nên sự hoàn hảo."
+    },
+    {
+      "id": "v29_3",
       "word": "Remember",
       "phonetic": "/rɪˈmem.bɚ/",
-      "meaning": "Nhớ",
-      "example": "Do you remember?",
-      "exampleVi": "Bạn có nhớ không?"
+      "meaning": "Ghi nhớ",
+      "example": "Remember my name.",
+      "exampleVi": "Hãy nhớ tên tôi."
+    },
+    {
+      "id": "v29_4",
+      "word": "Understand",
+      "phonetic": "/ˌʌn.dɚˈstænd/",
+      "meaning": "Hiểu",
+      "example": "I understand.",
+      "exampleVi": "Tôi hiểu."
+    },
+    {
+      "id": "v29_5",
+      "word": "Knowledge",
+      "phonetic": "/ˈnɑː.lɪdʒ/",
+      "meaning": "Kiến thức",
+      "example": "Gain knowledge.",
+      "exampleVi": "Tiếp thu kiến thức."
+    },
+    {
+      "id": "v29_6",
+      "word": "Improve",
+      "phonetic": "/ɪmˈpruːv/",
+      "meaning": "Cải thiện",
+      "example": "Improve your skills.",
+      "exampleVi": "Cải thiện kỹ năng của bạn."
+    },
+    {
+      "id": "v29_7",
+      "word": "Progress",
+      "phonetic": "/ˈprɑː.ɡres/",
+      "meaning": "Sự tiến bộ",
+      "example": "Make progress.",
+      "exampleVi": "Có sự tiến bộ."
+    },
+    {
+      "id": "v29_8",
+      "word": "Goal",
+      "phonetic": "/ɡoʊl/",
+      "meaning": "Mục tiêu",
+      "example": "Achieve your goal.",
+      "exampleVi": "Đạt được mục tiêu của bạn."
+    },
+    {
+      "id": "v29_9",
+      "word": "Success",
+      "phonetic": "/səkˈses/",
+      "meaning": "Thành công",
+      "example": "Success is hard work.",
+      "exampleVi": "Thành công là nhờ làm việc chăm chỉ."
+    },
+    {
+      "id": "v29_10",
+      "word": "Confidence",
+      "phonetic": "/ˈkɑːn.fə.dəns/",
+      "meaning": "Sự tự tin",
+      "example": "Speak with confidence.",
+      "exampleVi": "Nói chuyện với sự tự tin."
     }
   ],
   "listening": [
     {
       "id": "l29_1",
-      "sentence": "I practice English every day.",
-      "sentenceVi": "Tôi luyện tiếng Anh mỗi ngày."
+      "sentence": "We have finished four weeks of learning.",
+      "sentenceVi": "Chúng ta đã hoàn thành bốn tuần học."
     },
     {
       "id": "l29_2",
-      "sentence": "Do you remember this word?",
-      "sentenceVi": "Bạn có nhớ từ này không?"
+      "sentence": "It is time to review what we learned.",
+      "sentenceVi": "Đã đến lúc ôn lại những gì chúng ta đã học."
+    },
+    {
+      "id": "l29_3",
+      "sentence": "I practice English for thirty minutes every day.",
+      "sentenceVi": "Tôi luyện tập tiếng Anh 30 phút mỗi ngày."
+    },
+    {
+      "id": "l29_4",
+      "sentence": "Did you remember all the vocabulary?",
+      "sentenceVi": "Bạn có nhớ hết các từ vựng không?"
+    },
+    {
+      "id": "l29_5",
+      "sentence": "I understand the grammar rules now.",
+      "sentenceVi": "Bây giờ tôi đã hiểu các quy tắc ngữ pháp."
+    },
+    {
+      "id": "l29_6",
+      "sentence": "My speaking skills are improving.",
+      "sentenceVi": "Kỹ năng nói của tôi đang được cải thiện."
+    },
+    {
+      "id": "l29_7",
+      "sentence": "I made a lot of progress this month.",
+      "sentenceVi": "Tôi đã có nhiều tiến bộ trong tháng này."
+    },
+    {
+      "id": "l29_8",
+      "sentence": "Always set a clear goal for your study.",
+      "sentenceVi": "Luôn đặt mục tiêu rõ ràng cho việc học của bạn."
+    },
+    {
+      "id": "l29_9",
+      "sentence": "Don't be afraid to make mistakes.",
+      "sentenceVi": "Đừng sợ mắc lỗi."
+    },
+    {
+      "id": "l29_10",
+      "sentence": "Confidence is the key to success.",
+      "sentenceVi": "Tự tin là chìa khóa của thành công."
     }
   ],
   "speaking": [
     {
       "id": "s29_1",
-      "sentence": "What did you learn this month?",
-      "sentenceVi": "Tháng này bạn đã học được gì?"
+      "sentence": "How was your learning process?",
+      "sentenceVi": "Quá trình học tập của bạn thế nào?"
+    },
+    {
+      "id": "s29_2",
+      "sentence": "It was very interesting.",
+      "sentenceVi": "Nó đã rất thú vị."
+    },
+    {
+      "id": "s29_3",
+      "sentence": "What did you like the most?",
+      "sentenceVi": "Bạn thích điều gì nhất?"
+    },
+    {
+      "id": "s29_4",
+      "sentence": "I liked the topics about daily life.",
+      "sentenceVi": "Tôi thích các chủ đề về cuộc sống hàng ngày."
+    },
+    {
+      "id": "s29_5",
+      "sentence": "Are you confident now?",
+      "sentenceVi": "Bây giờ bạn đã tự tin chưa?"
+    },
+    {
+      "id": "s29_6",
+      "sentence": "Yes, more than before.",
+      "sentenceVi": "Rồi, tự tin hơn trước."
+    },
+    {
+      "id": "s29_7",
+      "sentence": "I will continue to practice.",
+      "sentenceVi": "Tôi sẽ tiếp tục luyện tập."
+    },
+    {
+      "id": "s29_8",
+      "sentence": "That's great to hear!",
+      "sentenceVi": "Thật tuyệt khi nghe vậy!"
+    },
+    {
+      "id": "s29_9",
+      "sentence": "Keep up the good work.",
+      "sentenceVi": "Hãy tiếp tục phát huy nhé."
+    },
+    {
+      "id": "s29_10",
+      "sentence": "Thank you for your help.",
+      "sentenceVi": "Cảm ơn vì sự giúp đỡ của bạn."
     }
   ],
   "writing": [
@@ -66,19 +223,190 @@
       "type": "fill-blank",
       "instruction": "Điền vào chỗ trống",
       "question": "I _____ English every day.",
-      "answer": "practice",
-      "hint": "luyện tập"
+      "answer": "learn",
+      "hint": "học"
+    },
+    {
+      "id": "w29_2",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Yesterday I _____ new words.",
+      "answer": "learned",
+      "hint": "đã học"
+    },
+    {
+      "id": "w29_3",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ makes perfect.",
+      "answer": "Practice",
+      "hint": "Luyện tập"
+    },
+    {
+      "id": "w29_4",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "I _____ the rules.",
+      "answer": "understand",
+      "hint": "hiểu"
+    },
+    {
+      "id": "w29_5",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Improve your _____.",
+      "answer": "skills",
+      "hint": "kỹ năng"
+    },
+    {
+      "id": "w29_6",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Make _____.",
+      "answer": "progress",
+      "hint": "sự tiến bộ"
+    },
+    {
+      "id": "w29_7",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Achieve your _____.",
+      "answer": "goal",
+      "hint": "mục tiêu"
+    },
+    {
+      "id": "w29_8",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Speak with _____.",
+      "answer": "confidence",
+      "hint": "sự tự tin"
+    },
+    {
+      "id": "w29_9",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "Don't _____ your dreams.",
+      "answer": "forget",
+      "hint": "quên"
+    },
+    {
+      "id": "w29_10",
+      "type": "fill-blank",
+      "instruction": "Điền vào chỗ trống",
+      "question": "_____ what you learned.",
+      "answer": "Review",
+      "hint": "Ôn tập"
     }
   ],
   "quizzes": [
     {
       "id": "q29_1",
-      "question": "'Remember' nghĩa là gì?",
+      "question": "'Understand' nghĩa là gì?",
       "options": [
-        "Nhớ",
+        "Hiểu",
         "Quên",
         "Học",
-        "Đọc"
+        "Nói"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q29_2",
+      "question": "I _____ English for a month now.",
+      "options": [
+        "learn",
+        "learned",
+        "have learned",
+        "am learning"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q29_3",
+      "question": "Practice _____ perfect.",
+      "options": [
+        "make",
+        "makes",
+        "making",
+        "made"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q29_4",
+      "question": "I _____ my goal last week.",
+      "options": [
+        "achieve",
+        "achieved",
+        "achieves",
+        "achieving"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "q29_5",
+      "question": "Will you _____ practicing?",
+      "options": [
+        "keep",
+        "keeps",
+        "keeping",
+        "kept"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q29_6",
+      "question": "'Confidence' nghĩa là gì?",
+      "options": [
+        "Sự tự tin",
+        "Sự lo lắng",
+        "Sự sợ hãi",
+        "Sự buồn bã"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q29_7",
+      "question": "My skills _____ improving.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "correct": 2
+    },
+    {
+      "id": "q29_8",
+      "question": "I _____ progress every day.",
+      "options": [
+        "make",
+        "makes",
+        "making",
+        "made"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q29_9",
+      "question": "Don't _____ mistakes.",
+      "options": [
+        "be afraid of",
+        "afraid of",
+        "afraid",
+        "be afraid"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "q29_10",
+      "question": "Success _____ hard work.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "do"
       ],
       "correct": 0
     }
